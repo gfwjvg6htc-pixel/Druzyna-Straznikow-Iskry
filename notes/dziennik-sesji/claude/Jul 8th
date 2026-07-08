@@ -1,0 +1,40 @@
+
+
+**Data:** 8 lipca 2026
+**Temat sesji:** Analiza Biblii bohaterów względem master-file.txt
+
+### Co się wydarzyło
+
+Kasia przesłała dopracowany dokument "Biblia bohaterów" i poprosiła o analizę, jakie zmiany wprowadza on względem `master-file.txt`, oraz o zaproponowanie odpowiednich aktualizacji dokumentu założycielskiego.
+
+### Zidentyfikowane rozbieżności między Biblią bohaterów a master-file
+
+1. Drugie imię Echo zmieniło się z "od Śmiechu" na **"od Światła"** — zmiana ma znaczenie fabularne, nie kosmetyczne (Echo jako przeciwwaga dla Noxa, nosiciel nadziei).
+2. Pojawiła się nowa postać — **Stanisław, Starszy Strażnik** — mentor Noxa i opiekun świata, nieobecny w master-file.
+3. **Nox** ma nieokreślony wiek i szczególną linię fabularną związaną z chęcią zostania Starszym Strażnikiem — odróżnia go to od pozostałej piątki.
+4. Biblia wprowadza nazwane moce magiczne (Wiatr Odwagi, Dotyk Twórcy, Gwiezdna Tarcza, Buba jako istota bez mocy, która sama jest magią).
+5. Skonkretyzowany wiek pozostałych bohaterów (Aura, Rowan, Iris — 8 lat; Echo — 9 lat).
+6. Rozbudowany, powtarzalny 14-punktowy szablon opisu postaci.
+7. Dwie rozbieżne wersje "DNA drużyny" (pełna tabela vs. skrócona wersja: wolność / zakorzenienie / wzrost / nadzieja / mądrość).
+8. Szczegółowo rozpisane relacje między parami bohaterów oraz stałe running jokes.
+
+### Ustalona zasada podziału dokumentacji
+
+**Master-file zawiera wyłącznie fundament: filozofię, główne założenia świata i bohaterów.** Wszystkie szczegóły wykonawcze — pełne szablony postaci, konkretne nazwy mocy, DNA drużyny, running jokes, dynamikę relacji między parami — zostają w dokumentach szczegółowych (Biblia bohaterów, folder `Bohaterowie/`, plik `Supermoce`), a nie w master-file.
+
+**Zasada na przyszłość:** przy każdej kolejnej propozycji zmiany w master-file należy najpierw ocenić, czy to decyzja na poziomie założeń (→ master-file) czy na poziomie szczegółu wykonawczego (→ plik szczegółowy).
+
+### Decyzja: co faktycznie trafia do master-file
+
+Z przeanalizowanych rozbieżności do master-file wchodzą tylko trzy zmiany:
+1. Zmiana drugiego imienia Echo (od Śmiechu → od Światła) wraz z uzasadnieniem fabularnym.
+2. Wprowadzenie Starszego Strażnika jako elementu świata i struktury serii (bez imienia własnego "Stanisław" — to już szczegół z Biblii).
+3. Wzmianka o szczególnym statusie Noxa (nieokreślony wiek, marzenie o zostaniu Starszym Strażnikiem).
+
+Nie wchodzą: wiek pozostałych bohaterów, nazwy mocy magicznych, żadna wersja DNA drużyny.
+
+### Otwarte wątki / propozycja na następną sesję
+
+- Master-file wymaga fizycznej edycji o powyższe trzy punkty (tekst gotowy, przygotowany podczas tej sesji — do wklejenia przez Kasię).
+- Do ustalenia w przyszłości: czy folder `01_SERIA/Supermoce` ma zostać uzupełniony o nazwane moce z Biblii, oraz czy dwie wersje "DNA drużyny" mają zostać ujednolicone w Biblii bohaterów, czy świadomie współistnieć jako różne poziomy szczegółowości.
+- Warto rozważyć, czy imię "Stanisław" i pełny profil Starszego Strażnika powinny trafić do folderu `Bohaterowie/` jako osobny plik, skoro to już pełnoprawna, rozwinięta postać.
