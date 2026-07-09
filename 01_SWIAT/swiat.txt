@@ -1,1 +1,45 @@
+ŚWIAT STRAŻNIKÓW ISKRY
+(01_SWIAT/swiat.txt)
 
+Ten plik zawiera szczegółowy opis świata przedstawionego: zasady jego istnienia, charakter magii i pełne znaczenie Iskry. Ogólna filozofia świata (dlaczego jest taki, a nie inny) znajduje się w master-file — tutaj zapisujemy konkretne fakty, do których wracamy przy pisaniu każdego Dnia.
+
+---
+
+## Świat równoległy
+
+Świat Strażników Iskry nie znajduje się na końcu tęczy, za magicznymi drzwiami ani w odległej krainie. Istnieje równolegle do naszego świata i od zawsze był tuż obok — większość ludzi po prostu przestała go dostrzegać.
+
+Niektóre dzieci wciąż potrafią go zobaczyć. Nie dlatego, że są wybrane w jakimś magicznym sensie — dlatego, że nadal patrzą na świat z ciekawością i otwartością, których dorośli często już nie mają. To zdolność, nie dar.
+
+Nie wyjaśniamy wprost, dlaczego jedne dzieci widzą ten świat, a inne nie. To jedna z tajemnic serii, do której czytelnik może wracać własnymi domysłami.
+
+## Zasady magii
+
+Magia w świecie Iskry nie jest spektakularna. Nie ma tu zaklęć, różdżek ani pojedynków magicznych — to byłoby zbyt wtórne wobec innych znanych światów fantasy.
+
+Magia jest subtelna i wplata się w codzienność:
+- niezwykłe światło pojawiające się pomiędzy drzewami,
+- stworzenie, które znika, gdy tylko spróbować je nazwać,
+- miejsce, które można odnaleźć tylko wtedy, gdy naprawdę się go szuka.
+
+Bohaterowie nie zachwycają się każdą magiczną rzeczą, którą napotykają — dla nich jest ona częścią rzeczywistości, którą dopiero zaczynają rozumieć. Ten brak zdziwienia po stronie bohaterów jest ważny: to czytelnik ma być zaciekawiony, nie postacie.
+
+Zasada praktyczna: każdy nowy magiczny element przechodzi test „po co on tu jest” — jeśli nie pomaga opowiedzieć czegoś o bohaterach lub ich emocjach, nie trafia do serii.
+
+## Iskra
+
+Iskra jest najważniejszym symbolem całej serii.
+
+Na początku wydaje się jedynie tajemniczym, spadającym światełkiem, które Aura przypadkiem zauważa — to ono staje się punktem wyjścia całej historii i prowadzi bohaterów do pierwszych odkryć. Czytelnik, tak jak Aura, początkowo wierzy, że Iskra jest czymś, co można znaleźć — przedmiotem albo magicznym artefaktem.
+
+Prawdziwe znaczenie Iskry ujawnia się dopiero pod koniec pierwszego tomu: Iskra nie jest rzeczą. Pojawia się wtedy, gdy bardzo różne dzieci naprawdę stają się drużyną.
+
+To nie Iskra tworzy drużynę. To drużyna budzi Iskrę.
+
+Do rozstrzygnięcia (nie zakładam odpowiedzi):
+- Czy w kolejnych tomach Iskra pojawia się ponownie w nowym kontekście, czy jej rola kończy się z odkryciem w tomie 1?
+- Czy istnieje jakiś fizyczny/wizualny symbol Iskry przydatny dla ilustracji, czy pozostaje czysto zjawiskowa?
+
+---
+
+Pytania otwarte i niedopracowane wątki świata → notes/parking-pomyslow (żeby nie zaśmiecać tego pliku niedojrzałymi pomysłami).
