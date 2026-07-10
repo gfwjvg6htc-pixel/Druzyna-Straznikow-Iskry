@@ -1,0 +1,78 @@
+STRUKTURA ROZDZIAŁU (DNIA)
+(03_MECHANIKA_KSIAZKI/struktura-rozdzialu.txt)
+
+POPRAWKA: poprzednia wersja tego pliku pomijała bardzo dużo ustalonego materiału z `zalozenia_ksiazki.docx`. Poniżej pełna rekonstrukcja po dokładniejszej analizie.
+
+Zasada ogólna żyje w master-file — tu zapisujemy konkretne liczby, limity i powtarzalne elementy strony.
+
+---
+
+USTALONE (z master-file, potwierdzone w rozmowach):
+
+- Minimalna liczba Dni w tomie 1: 45, bez sztywnej górnej granicy — długość wynika z tempa historii.
+- Każdy Dzień kończy się krótką sekcją dla rodzica, która nigdy nie przekracza połowy strony.
+- Każdy Dzień jest pisany tak, jakby następnego dnia miał trafić do druku.
+- Zakończenie Dnia pozostawia ciekawość — nie musi to być dramatyczny zwrot akcji.
+
+---
+
+Z `zalozenia_ksiazki.docx` — RDZEŃ STRUKTURY ROZDZIAŁU (opisany wprost jako „każdy rozdział będzie miał identyczną strukturę"):
+
+- Opowiadanie: ok. 2500 słów
+- Nowe słowa: 6–8
+- Ciekawe wyrażenia: 2–3
+- Pytania (dla rodzica/dziecka): 5
+- Rozmowa dla rodzica
+- Misja tygodnia
+- Minuta czytania
+- Obserwacja dla rodzica
+- Notatki
+
+Tempo czytania: jeden rozdział dziennie, ok. 15–20 minut wspólnego czytania.
+
+---
+
+DODATKOWE, POWTARZALNE ELEMENTY STRONY (znalezione w innym miejscu dokumentu, nie wymienione razem z listą powyżej — możliwe, że to osobna warstwa pomysłów z innej sesji brainstormu):
+
+- Mini-komiks na końcu każdego rozdziału: 4 obrazki, minimalna ilość tekstu, śmieszna scena z bohaterami, NIE rozwija fabuły — jego jedynym celem jest rozśmieszyć dziecko.
+- „Sekretne notatki Buby" — co kilka rozdziałów (nie każdy), osobna strona, na której Buba „dopisuje komentarze do książki" (np. żartobliwe fałszywe fakty: „Jeśli ktoś twierdzi, że brokuły dają supermoce, nie wierz mu. Sprawdzałem. Dają tylko ochotę na deser."). Wariant: „sekretne notatki Noxa", pokazujące, jak bardzo nie rozumie on dzieci. Cel: dziecko zagląda nawet na strony, na których „nic się nie dzieje", licząc na kolejny żart.
+  UWAGA: to bezpośrednio łączy się z mechaniką czytania naprzemiennego — w końcowych rozdziałach, gdy rodzic czyta już tylko 5%, jego część to właśnie: stara legenda, list, zagadka, przepowiednia, śmieszna notatka Buby (patrz mechanika-czytania-naprzemiennego.txt).
+
+---
+
+NIESPÓJNOŚCI W ŹRÓDLE — do rozstrzygnięcia, dokument sam sobie zaprzecza w trzech miejscach:
+
+1. Liczba nowych słów na rozdział — trzy różne wartości w tym samym dokumencie:
+   - 6–8 (przy „identycznej strukturze rozdziału")
+   - 5–6 (przy liście symboli ⭐📖🎭💬🧠❤️🎯🎙🌟)
+   - 5–10 (przy liście „Nasze zasady", punkt 4)
+
+2. Objętość sekcji dla rodzica — dwie sprzeczne wartości w źródle:
+   - „Nie więcej niż 2 strony" (jedno miejsce)
+   - „Nie dłużej niż jedna strona" (drugie miejsce)
+   - Ustalenie w master-file mówi „nigdy nie przekracza połowy strony" — trzecia, najbardziej rygorystyczna wartość, prawdopodobnie najbardziej aktualna, ale warto to świadomie potwierdzić.
+
+3. Nazwa/częstotliwość „misji": „Misja tygodnia" (przy strukturze rozdziału) vs „Misję na następny dzień" (przy liście symboli) vs po prostu „Misja" jako element Klubu Odkrywców (patrz klub-odkrywcow.txt). Mogą to być trzy nazwy tego samego elementu z różnych etapów brainstormu, albo naprawdę różne rzeczy. Wymaga decyzji.
+
+---
+
+DWIE RÓŻNE LISTY „CZEGO UCZYLIŚMY" DLA RODZICA — też prawdopodobnie z różnych etapów tego samego pomysłu:
+
+„Słowa tygodnia" (prostsze): współpraca, cierpliwość, wybór, odwaga, życzliwość.
+
+„Co ćwiczyliśmy" (bardziej techniczne, do sekcji dla rodzica): wytrwałość, odraczanie nagrody, elastyczność poznawcza, teoria umysłu (rozumienie perspektywy innych), samoregulacja, rozpoznawanie emocji, bogactwo języka.
+
+Obie się nie wykluczają — mogą współistnieć jako dwa poziomy tej samej informacji, ale nigdy nie zostały świadomie ze sobą połączone.
+
+---
+
+RODZAJE HUMORU (potwierdzają i uszczegóławiają zasadę z master-file):
+
+Tak: zabawne dialogi, absurdalne sytuacje, magiczne wpadki, running jokes, śmieszne stworzenia, komentarze pobocznych bohaterów.
+Nigdy: żarty z czyjejś krzywdy, zawstydzanie, humor oparty na wyśmiewaniu.
+
+---
+
+POWIĄZANE, ALE OSOBNE OD STRUKTURY ROZDZIAŁU:
+
+„Stwórz swojego bohatera" (RPG) — jednorazowa aktywność na początku książki: imię, kolor włosów/oczu, ulubiony kolor/zwierzę, supermoc, a także wygląd futrzastego towarzysza (czyli własnej wersji Buby). To ładnie współgra z ustaloną zasadą, że nikt nie wie, jak naprawdę wygląda Buba — każde dziecko może wyobrazić je sobie inaczej.

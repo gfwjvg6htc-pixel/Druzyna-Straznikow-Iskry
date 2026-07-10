@@ -1,0 +1,68 @@
+TEMATY EMOCJONALNE
+(03_MECHANIKA_KSIAZKI/tematy-emocjonalne.txt)
+
+POPRAWKA: poprzednia wersja tego pliku zawierała tylko ułamek pełnej listy z `zalozenia_ksiazki.docx`. Poniżej pełna rekonstrukcja.
+
+Zasada ogólna żyje w master-file, rozdział 2.7: każdy Dzień MOŻE rozwijać temat emocjonalny, nigdy nazwany wprost. Ten sam temat może wracać w kilku Dniach. Nie każdy Dzień musi mieć temat — część istnieje po prostu dla przygody i zabawy.
+
+Ta lista jest OTWARTA i NIEZAMKNIĘTA. Nowe tematy można dopisywać w dowolnym momencie.
+
+---
+
+RELACJE (pełna lista z `zalozenia_ksiazki.docx`):
+- Chcę decydować o wszystkim
+- Co zrobić, gdy ktoś ma inny pomysł
+- Jak zaprosić kogoś do zabawy
+- Jak powiedzieć „nie", nie raniąc
+- Jak przeprosić
+- Jak wybaczyć
+- Co zrobić, gdy ktoś wybiera kogoś innego
+- Jak radzić sobie z zazdrością
+- Jak cieszyć się sukcesem kolegi/koleżanki
+- Jak być dobrym gospodarzem
+- Jak być dobrym gościem
+
+EMOCJE (pełna lista):
+- Przegrywanie
+- Popełnianie błędów
+- Cierpliwość
+- Frustracja
+- Strach
+- Wstyd
+- Duma
+- Odwaga
+- Wytrwałość
+
+MYŚLENIE (pełna lista):
+- Nie wszystko musi być idealne
+- Pierwszy pomysł nie zawsze jest najlepszy
+- Czasami warto spróbować jeszcze raz
+- Każdy jest w czymś dobry
+- Błędy pomagają się uczyć
+
+CODZIENNE SYTUACJE (pełna lista):
+- Koleżanka dostała piękniejszy prezent
+- Ktoś ma większy dom
+- Ktoś pojechał na lepsze wakacje
+- Ktoś dostał lepszą rolę w przedstawieniu
+- Ktoś wygrał konkurs
+Pytanie towarzyszące każdej z tych sytuacji (ustalone wprost w źródle): „Co mogę zrobić, żeby nadal czuć się dobrze?" — NIGDY „czy to jest sprawiedliwe?".
+
+---
+
+WAŻNA ZASADA METODOLOGICZNA z `zalozenia_ksiazki.docx` (zgodna z tym, co już wiemy o niemoralizowaniu):
+
+Nie poprawiamy zachowań dziecka „wprost" przez historie. Zamiast tego pokazujemy różne dzieci z różnymi mocnymi stronami i trudnościami — dzięki temu czytelnik sam rozpoznaje podobne sytuacje i wyciąga własne wnioski. To ma budować wewnętrzną motywację do zmiany, a nie poczucie, że książka „naprawia" dziecko.
+
+---
+
+DWIE LISTY „NAZYWANIA" TEMATU DLA RODZICA (patrz też struktura-rozdzialu.txt — pełny opis tam):
+
+„Słowa tygodnia" (prostsze): współpraca, cierpliwość, wybór, odwaga, życzliwość.
+„Co ćwiczyliśmy" (bardziej techniczne): wytrwałość, odraczanie nagrody, elastyczność poznawcza, teoria umysłu, samoregulacja, rozpoznawanie emocji, bogactwo języka.
+
+---
+
+Miejsce na nowe tematy (dopisywać poniżej w dowolnym momencie):
+
+-

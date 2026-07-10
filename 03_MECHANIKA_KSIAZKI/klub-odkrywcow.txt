@@ -1,0 +1,46 @@
+KLUB ODKRYWCÓW — STRUKTURA
+(03_MECHANIKA_KSIAZKI/klub-odkrywcow.txt)
+
+POPRAWKA: poprzednia wersja tego pliku błędnie stwierdzała, że Klub Odkrywców jest „w praktyce pusty". To był błąd — `zalozenia_ksiazki.docx` zawiera w dwóch miejscach (jedno bardziej szczegółowe, jedno w formie skróconego podsumowania) w pełni rozpisaną strukturę 8 rotacyjnych elementów. Poniżej pełna rekonstrukcja.
+
+Zasada ogólna żyje w master-file, rozdział 5.6: Klub Odkrywców jest naturalnym przedłużeniem historii, nie dodatkiem edukacyjnym. Poniżej konkretna struktura.
+
+---
+
+USTALONE (z `zalozenia_ksiazki.docx`):
+
+Klub Odkrywców pojawia się po każdym rozdziale. To nie jedna aktywność, tylko kilka krótkich — całość zajmuje 5–10 minut i nigdy nie jest obowiązkowa. Ma być „po prostu fajną zabawą", nie sprawdzianem.
+
+Osiem stałych, rotacyjnych elementów:
+
+1. Chmura słów — nowe słowa z rozdziału ukryte w układance liter (np. wykreślanka). Przykładowe słowa z pierwszego szkicu: kompas, odwaga, ślad, iskra, drużyna, zagadka.
+
+2. Znajdź zdanie (też nazywane „Znajdź w tekście") — pytanie każące wrócić do konkretnego fragmentu rozdziału, np. „Znajdź zdanie, w którym [bohater] powiedział coś naprawdę śmiesznego." Celowo zmusza do ponownego przeczytania fragmentu — to jeden z najlepszych sposobów rozwijania płynności czytania.
+
+3. Detektyw — jedna zagadka, na którą odpowiedź jest ukryta w tekście rozdziału (np. „Skąd Buba wiedziała, że ktoś był wcześniej w lesie?").
+
+4. Co będzie dalej? — jedno pytanie prognostyczne, bez „dobrej" odpowiedzi (np. „Jak myślisz, co znajduje się za drzwiami?").
+
+5. Supermoc tygodnia — nie tłumaczymy, tylko pytamy. Np. „Kto w tym rozdziale najlepiej słuchał innych?" — wskazuje jedną cechę/wartość, którą ktoś zademonstrował w rozdziale, bez moralizowania.
+
+6. Misja — jedno małe wyzwanie do wykonania w prawdziwym życiu (nawiązujące do tematu rozdziału).
+
+7. Nagranie — dziecko nagrywa się, czytając fragment na głos (np. stronę), a za miesiąc porównuje nagranie z nowym odczytaniem tego samego fragmentu. Śledzi własny postęp w czytaniu.
+
+8. Odznaka (osiągnięcie) — nigdy „naklejka" ani „ocena", tylko odznaka za konkretne osiągnięcie, np. „Tropiciel nowych słów". Bez punktów, bez ocen.
+
+---
+
+POWIĄZANE, ALE OSOBNE OD KLUBU ODKRYWCÓW:
+
+„Stwórz swojego bohatera" (RPG) — jednorazowa aktywność na pierwszych stronach książki (nie po każdym rozdziale), w której dziecko personalizuje własną wersję bohatera: imię, kolor włosów/oczu, ulubiony kolor/zwierzę, zainteresowania, wybór „supermocy" (odwaga / wyobraźnia / życzliwość / humor / spokój / wytrwałość). To osobny element konstrukcji książki, nie element Klubu Odkrywców — wymaga własnej decyzji, gdzie go umieścić w dokumentacji (prawdopodobnie `03_MECHANIKA_KSIAZKI/struktura-rozdzialu` albo osobny plik).
+
+Sekcja „Dla rodzica" po każdym rozdziale — w `zalozenia_ksiazki.docx` opisana z konkretną strukturą stałych pytań: o czym porozmawiać, jakie pytania zadać, co obserwować, czego nie mówić, jak zareagować, co dziecko ćwiczyło, jak wykorzystać to w codziennym życiu. To pokrywa się z tym, co już opisuje `03_MECHANIKA_KSIAZKI/struktura-rozdzialu` — warto ten konkretny szablon 7 pytań przenieść tam, żeby nie duplikować w dwóch plikach.
+
+---
+
+DO POTWIERDZENIA:
+
+- Ta struktura powstała pod wcześniejszą wersję projektu (inny wiek/imię czytelnika-dziecka). Czy wszystkie 8 elementów nadal pasuje do obecnego kształtu serii (8–9 lat, min. 45 Dni), czy coś wymaga odświeżenia?
+- Czy 8 elementów pojawia się w każdym rozdziale w tej samej kolejności, czy rotuje (czasem 3 z 8, czasem inne)? Dokument nie precyzuje tego wprost.
+- Czy lista słów w „Chmurze słów" (kompas, odwaga, ślad, iskra, drużyna, zagadka) to konkretny przykład z pierwszego rozdziału, czy uniwersalny zestaw?

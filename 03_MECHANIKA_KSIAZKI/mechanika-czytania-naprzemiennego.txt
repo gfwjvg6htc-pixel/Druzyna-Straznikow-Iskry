@@ -1,0 +1,73 @@
+MECHANIKA CZYTANIA NAPRZEMIENNEGO
+(03_MECHANIKA_KSIAZKI/mechanika-czytania-naprzemiennego.txt)
+
+POPRAWKA: poprzednia wersja pomijała jeden cały tryb czytania („Czytamy razem") oraz szczegóły dotyczące tego, co dokładnie czyta rodzic pod koniec książki. Poniżej pełna rekonstrukcja.
+
+Zasada ogólna („wspólne czytanie jest sercem projektu") żyje w master-file, rozdział 1.5.
+
+---
+
+USTALONE (z naszych rozmów, obowiązujące):
+
+- Podział tekstu na część czytaną przez rodzica i część czytaną przez dziecko.
+- Udział dziecka rośnie z rozdziału na rozdział, aż pod koniec tomu dziecko czyta większość tekstu samodzielnie.
+- Narastanie nigdy nie jest nazwane wprost i nie ma wywoływać poczucia oceny.
+- Podział wynika naturalnie z historii, a nie z mechaniki nauki czytania nałożonej z zewnątrz.
+- Fabularne uzasadnienie ma być naturalnie wplecione w rozdział — BEZ podziału na „Starszego" i „Młodszego" Strażnika ani żadnej innej jawnej hierarchii.
+
+---
+
+Z `zalozenia_ksiazki.docx` — TRZY TRYBY CZYTANIA (nie dwa — wcześniej pominęłam trzeci):
+
+1. Czyta rodzic — mniejsza czcionka, bogatszy język, buduje klimat, tajemnice, legendy, opis świata.
+   Przykład tonu: „Nad koronami drzew unosiła się delikatna zielona mgła. Pachniała deszczem, miętą i czymś jeszcze, czego [dziecko] nie potrafiła nazwać..."
+
+2. Czyta dziecko — duża czcionka, dużo dialogów, krótsze zdania/akapity, naturalny język.
+   Przykład tonu: „— Patrz! To się rusza! — To chyba... — Buba!"
+
+3. Czytamy razem (🤝) — tryb pojawiający się „od czasu do czasu": rodzic i dziecko na zmianę dokańczają to samo zdanie, zwłaszcza w momentach dramatycznych. Przykład:
+   Rodzic: „Drzwi powoli…"
+   Dziecko: „…otworzyły się z głośnym…"
+   Rodzic: „…SKRZYYYYP…"
+   Dziecko: „…i wszyscy zamarli."
+   Cel: ćwiczy rytm i intonację, bardzo angażujące.
+
+---
+
+DO POTWIERDZENIA — harmonogram narastania udziału dziecka (z `zalozenia_ksiazki.docx`, sprzed obecnej wersji świata):
+
+Ważne doprecyzowanie: proporcja ma się zmieniać CO ROZDZIAŁ, nie co 10 dni czy co miesiąc (wprost zapisane w źródle: „% czytania mamy i [dziecka] powinien zmieniać się co rozdział, a nie co miesiąc").
+
+Proponowany harmonogram (dwie nieco różne wersje w tym samym dokumencie — różnią się tylko rozdziałem 4, reszta się zgadza):
+
+Wersja A:
+- Rozdział 1: 50/50
+- Rozdział 2: dziecko 55 / rodzic 45
+- Rozdział 3: 60/40
+- Rozdział 4: 65/35
+- Rozdziały końcowe: 95/5
+
+Wersja B (z innego miejsca dokumentu):
+- Rozdział 1: 50/50
+- Rozdział 2: 55/45
+- Rozdział 3: 60/40
+- Rozdział 4: 75/25 (tu jest różnica względem wersji A)
+- Rozdziały końcowe: 95/5
+
+Dodatkowa zasada: możliwość utrzymania poprzedniego poziomu, jeśli dany rozdział okazał się trudniejszy (elastyczność, nie sztywny harmonogram).
+
+Poziom trudności językowej rośnie „bardzo powoli, prawie niezauważalnie" — nowe słowa, długość zdań, dialogi, opisy.
+
+Co dokładnie czyta rodzic pod koniec książki (gdy jego udział spada do ok. 5%): starą legendę, list, zagadkę, przepowiednię, śmieszną notatkę Buby. To bezpośrednio łączy się z „Sekretnymi notatkami Buby" opisanymi w struktura-rozdzialu.txt — te notatki to jeden z konkretnych typów tekstu zarezerwowanych dla rodzica w końcowej fazie książki.
+
+---
+
+Stary koncept fabularnego uzasadnienia z `zalozenia_ksiazki.docx` („Kroniki Strażników" zapisane dawnym językiem, odczytywane przez „Starszego Czytelnika", które z czasem stają się coraz krótsze, bo bohaterowie coraz lepiej rozumieją świat) — ODRZUCONY przez ustalenie, że nie ma być podziału Starszy/Młodszy Strażnik. Potrzebne jest nowe rozwiązanie, które zachowuje ideę (malejący udział rodzica ma fabularne uzasadnienie, nie jest odczuwany jako ocena), ale bez tej konkretnej etykiety.
+
+---
+
+NIEUSTALONE — temat na sesję kreatywną, nie do rozstrzygnięcia w audycie:
+
+- Jakie fabularne rozwiązanie w świecie Iskry w naturalny sposób tłumaczy zmieniającą się proporcję, bez nazywania tego wprost i bez hierarchii Starszy/Młodszy.
+- Który z dwóch harmonogramów (A czy B) obowiązuje, i czy w ogóle pasuje do 45+ Dni (był projektowany pod inną, prawdopodobnie krótszą, strukturę tomu — dokument mówi o ok. 60 rozdziałach przy innym wieku czytelnika).
+- Czy tryb „Czytamy razem" pojawia się w konkretnych, powtarzalnych momentach (np. zawsze przy cliffhangerze), czy swobodnie, kiedy scena na to pozwala.
