@@ -1,30 +1,28 @@
+DOKUMENTACJA AUTORSKA
+
+Drużyna Strażników Iskry
+
 DNA DRUŻYNY
-(02_BOHATEROWIE/dna-druzyny.txt)
 
-Ten plik jest szybkim odniesieniem do esencji każdego bohatera — jednego zdania, jednej prawdy, jednej zasady. Pełne, rozbudowane karty postaci (pierwsze wrażenie, głos, gesty, sekrety autora) znajdują się w Biblii bohaterów. Tu zapisujemy to, co pozwala natychmiast przypomnieć sobie, kim naprawdę jest dana postać, bez czytania całej karty.
-
-Dwa różne pola dla każdej postaci:
-- Jedno słowo = słowo definiujące postać (jak działa, jaki jest jej odruch)
-- Co symbolizuje w książce = co ta postać reprezentuje w większej, tematycznej warstwie opowieści
-
-To nie to samo pole zapisane dwa razy — to dwie różne warstwy znaczenia, które się uzupełniają.
-
----
+Szybkie odniesienie do esencji każdego bohatera. Pełne karty postaci -> Biblia bohaterów.
 
 DRUŻYNA STRAŻNIKÓW ISKRY
 
-- Aura od Wiatru
-- Rowan od Drewna
-- Iris od Kwiatów
-- Echo od Światła
-- Nox od Gwiazd
-- Buba
+  • Aura od Wiatru
+
+  • Rowan od Drewna
+
+  • Iris od Kwiatów
+
+  • Echo od Światła
+
+  • Nox od Gwiazd
+
+  • Buba
 
 STRAŻNICY
 
-- Starszy Strażnik — Stanisław
-
----
+  • Starszy Strażnik — Stanisław
 
 CO OZNACZAJĄ DRUGIE IMIONA?
 
@@ -40,8 +38,6 @@ Nox jest „od Gwiazd", ponieważ patrzy dalej niż inni, szuka ukrytych pytań 
 
 Buba nie potrzebuje drugiego imienia. Buba jest po prostu Bubą.
 
----
-
 MAGICZNE MOCE BOHATERÓW (zasada ogólna)
 
 Magia każdego bohatera jest odbiciem jego charakteru. Nie jest czymś, czego można nauczyć się z książki ani otrzymać w prezencie. Rodzi się z tego, kim bohater jest i jakie wartości nosi w sercu.
@@ -52,129 +48,234 @@ W tym świecie moc nie rośnie dlatego, że bohater uczy się nowych zaklęć. R
 
 (Konkretne moce każdej postaci, z nazwą własną → Biblia bohaterów.)
 
----
-
 DNA KAŻDEGO BOHATERA
 
-=== AURA OD WIATRU ===
+AURA OD WIATRU
+
 Jedno słowo: Spróbuj.
+
 Co symbolizuje w książce: Wolność.
+
 Odpowiedź: Miej odwagę zrobić pierwszy krok.
-Co sprawia, że dobro... zaczyna się.
+
+Co sprawia, że dobro...: zaczyna się.
+
 Pytanie, które zadaje światu: Co będzie, jeśli spróbujemy?
+
 Prawda, w którą wierzy: Warto spróbować.
+
 Zasada, której nigdy nie łamie: Nigdy nie pozwala, żeby strach zdecydował za nią.
+
 Na czym skupia uwagę: Na przyszłości i możliwościach.
+
 Jak patrzy na świat: Widzi możliwości i przygody, które dopiero mogą się wydarzyć.
+
 Co robi instynktownie: Rusza przed siebie.
+
 Jak zmienia świat: Poprzez odwagę i pierwszy krok.
+
 Co zostawia po sobie: Ślady przygody i wspomnienia.
+
 Jak traktuje rzeczy: Nie przywiązuje się do rzeczy. Pragnie doświadczać i czuć.
+
 Co daje innym: Odwagę, żeby zrobić pierwszy krok.
+
 Jak zmienia czytelnika: Zachęca, by spróbować czegoś, czego wcześniej się obawiał.
+
 Największy błąd: Czasami rusza, zanim pomyśli.
+
 Największa lekcja pierwszej książki: Odkrywa, że odwaga nie oznacza robienia wszystkiego samemu.
+
 Gdyby zabrakło jej w drużynie: Nikt nie odważyłby się rozpocząć przygody.
 
-=== ROWAN OD DREWNA ===
+ROWAN OD DREWNA
+
 Jedno słowo: Napraw.
+
 Co symbolizuje w książce: Zakorzenienie.
+
 Odpowiedź: Napraw to, co zostało zepsute.
-Co sprawia, że dobro... trwa.
+
+Co sprawia, że dobro...: trwa.
+
 Pytanie, które zadaje światu: Czy da się to naprawić?
+
 Prawda, w którą wierzy: Większość rzeczy da się naprawić. A jeśli czegoś nie da się naprawić... może da się wymyślić coś nowego.
+
 Zasada, której nigdy nie łamie: Nigdy nie wyrzuca czegoś, czego jeszcze nie próbował naprawić.
+
 Na czym skupia uwagę: Na teraźniejszości i tym, co wymaga uwagi.
+
 Jak patrzy na świat: Widzi szczegóły, zależności i rozwiązania.
+
 Co robi instynktownie: Poprawia i naprawia.
+
 Jak zmienia świat: Poprzez działanie, cierpliwość i naprawianie.
+
 Co zostawia po sobie: Porządek i rozwiązania.
+
 Jak traktuje rzeczy: Zachowuje rzeczy, bo mogą się kiedyś przydać.
+
 Co daje innym: Wiarę, że większość problemów można rozwiązać.
+
 Jak zmienia czytelnika: Pokazuje, że warto próbować naprawiać, zamiast się poddawać.
+
 Największy błąd: Czasami szuka najlepszego rozwiązania tak długo, że traci okazję do działania.
+
 Największa lekcja pierwszej książki: Odkrywa, że nie trzeba znać wszystkich odpowiedzi, żeby zrobić pierwszy krok.
+
 Gdyby zabrakło go w drużynie: Wiele problemów pozostałoby nierozwiązanych.
 
-=== IRIS OD KWIATÓW ===
+IRIS OD KWIATÓW
+
 Jedno słowo: Dbaj.
+
 Co symbolizuje w książce: Wzrost.
+
 Odpowiedź: Otocz troską to, co może rozkwitnąć.
-Co sprawia, że dobro... rozkwita.
+
+Co sprawia, że dobro...: rozkwita.
+
 Pytanie, które zadaje światu: Czego potrzeba, żeby to rozkwitło?
+
 Prawda, w którą wierzy: Każdy zasługuje, żeby zakwitnąć.
+
 Zasada, której nigdy nie łamie: Nigdy nie odchodzi, nie zostawiając po sobie czegoś dobrego.
+
 Na czym skupia uwagę: Na ludziach i ich rozkwicie.
+
 Jak patrzy na świat: Widzi piękno i dobro w innych oraz to, czego potrzebują, żeby rozkwitnąć.
+
 Co robi instynktownie: Troszczy się i pielęgnuje.
+
 Jak zmienia świat: Poprzez obecność, troskę i dostrzeganie dobra.
+
 Co zostawia po sobie: Piękno i dobro.
+
 Jak traktuje rzeczy: Przynosi rzeczy, bo mogą kogoś ucieszyć.
+
 Co daje innym: Poczucie, że są zauważeni, ważni i mogą rozkwitnąć.
+
 Jak zmienia czytelnika: Uczy dostrzegać dobro i piękno tam, gdzie inni widzą tylko kolce.
+
 Największy błąd: Czasami tak bardzo troszczy się o innych, że zapomina o sobie.
+
 Największa lekcja pierwszej książki: Odkrywa, że ona również zasługuje na troskę i pomoc.
+
 Gdyby zabrakło jej w drużynie: Drużyna straciłaby swoje serce i umiejętność dostrzegania dobra.
 
-=== ECHO OD ŚWIATŁA ===
+ECHO OD ŚWIATŁA
+
 Jedno słowo: Uśmiechnij się.
+
 Co symbolizuje w książce: Nadzieja.
+
 Odpowiedź: Podziel się uśmiechem, kiedy innym brakuje nadziei.
-Co sprawia, że dobro... nie gaśnie.
+
+Co sprawia, że dobro...: nie gaśnie.
+
 Pytanie, które zadaje światu: Gdzie ukrył się jasny moment tej historii?
+
 Prawda, w którą wierzy: Każda historia ma swój jasny moment. Trzeba go tylko znaleźć.
+
 Zasada, której nigdy nie łamie: Nigdy nie śmieje się z kogoś. Zawsze śmieje się razem z kimś.
+
 Na czym skupia uwagę: Na nadziei i tym, co może dodać innym otuchy.
+
 Jak patrzy na świat: Widzi światło nawet wtedy, gdy inni widzą tylko chmury.
+
 Co robi instynktownie: Rozładowuje napięcie i przywraca nadzieję.
+
 Jak zmienia świat: Poprzez radość, lekkość i nadzieję.
+
 Co zostawia po sobie: Uśmiech i lżejsze serca.
+
 Jak traktuje rzeczy: Zamienia zwykłe rzeczy w powód do wspólnego śmiechu i zabawy.
+
 Co daje innym: Nadzieję, że nawet najtrudniejszy dzień kiedyś się rozjaśni.
+
 Jak zmienia czytelnika: Pokazuje, że uśmiech nie usuwa problemów, ale pomaga znaleźć siłę, żeby się z nimi zmierzyć.
+
 Największy błąd: Czasami ukrywa własny smutek pod uśmiechem.
+
 Największa lekcja pierwszej książki: Odkrywa, że nie zawsze musi rozjaśniać świat innym. Czasami może pozwolić, by to inni rozświetlili jego.
+
 Gdyby zabrakło go w drużynie: Drużyna straciłaby lekkość, nadzieję i wiarę, że po burzy znowu wyjdzie słońce.
 
-=== NOX OD GWIAZD ===
+NOX OD GWIAZD
+
 Jedno słowo: Chroń.
+
 Co symbolizuje w książce: Mądrość i perspektywa.
+
 Odpowiedź: Chroń serca, nie tylko świat.
-Co sprawia, że dobro... jest chronione, zanim trzeba o nie walczyć.
+
+Co sprawia, że dobro...: jest chronione, zanim trzeba o nie walczyć.
+
 Pytanie, które zadaje światu: Jakie pytanie jeszcze nie zostało zadane?
+
 Prawda, w którą wierzy: Najciekawsze rzeczy zaczynają się od pytania.
+
 Zasada, której nigdy nie łamie: Nigdy nie wyciąga miecza, dopóki istnieje choć jedna szansa na inne rozwiązanie.
+
 Na czym skupia uwagę: Na pytaniach, wzorach i połączeniach, których inni nie dostrzegają.
+
 Jak patrzy na świat: Widzi świat jako wielką tajemnicę, którą warto odkrywać, a nie tylko rozumieć.
+
 Co robi instynktownie: Chroni.
+
 Jak zmienia świat: Poprzez mądrość, odpowiedzialność i ochronę tego, co najcenniejsze.
+
 Co zostawia po sobie: Spokój i poczucie, że ktoś nad nami czuwa.
+
 Jak traktuje rzeczy: Widzi w każdej rzeczy historię i znaczenie, zanim zobaczy jej zastosowanie.
+
 Co daje innym: Poczucie bezpieczeństwa i zaufanie, że nie muszą mierzyć się z niebezpieczeństwem sami.
+
 Jak zmienia czytelnika: Pokazuje, że największą siłą nie jest walka, lecz mądrość, dzięki której walka staje się ostatecznością.
+
 Największy błąd: Czasami próbuje chronić innych, nie pozwalając im samodzielnie wzrastać.
-Największa lekcja pierwszej książki: Odkrywa, że dziecięcy sposób patrzenia na świat potrafi sprawić, iż walka staje się niepotrzebna.
+
+Największa lekcja pierwszej książki: Odkrywa, że trzeba chronić dobro, które już istnieje, a nie tylko walczyć ze złem.
+
 Gdyby zabrakło go w drużynie: Drużyna straciłaby swojego Strażnika i kogoś, kto zawsze myśli o ich bezpieczeństwie.
 
-=== BUBA ===
-Buba nie ma drugiego imienia, zasady ani odpowiedzi zapisanej w tym samym porządku, bo Buba nie daje się łatwo uporządkować. Jest chaosem, instynktem, obecnością i prawdą wypowiedzianą bokiem. Poniższe pola są dopasowane do jej natury, nie wymuszone na siłę.
+BUBA
+
+Buba nie ma drugiego imienia ani odpowiedzi zapisanej w tym samym porządku, bo Buba nie daje się łatwo uporządkować. Jest chaosem, instynktem, obecnością i prawdą wypowiedzianą bokiem. Poniższe pola są dopasowane do jej natury, nie wymuszone na siłę.
 
 Jedno słowo: Buba.
+
 Co symbolizuje w książce: Bezwarunkowa miłość.
+
 Pytanie, które zadaje światu: A co, jeśli nie trzeba tego rozumieć, tylko za tym pójść?
+
 Prawda, w którą wierzy: Czasem najważniejsze rzeczy dzieją się bez planu.
+
 Zasada, której nigdy nie łamie: Nigdy nie udaje kogoś innego.
+
 Na czym skupia uwagę: Na tym, co właśnie poczuła, zobaczyła, powąchała albo uznała za absolutnie konieczne.
+
 Jak patrzy na świat: Widzi świat bez instrukcji obsługi.
+
 Co robi instynktownie: Idzie za impulsem.
+
 Jak zmienia świat: Poprzez nieprzewidywalność, szczerość i rozbrajanie powagi.
+
 Co zostawia po sobie: Zamieszanie, śmiech i ślady czegoś, czego nikt nie umie do końca wyjaśnić.
+
 Jak traktuje rzeczy: Każda rzecz może być skarbem, przekąską, przyjacielem albo zagrożeniem. Czasami wszystkim naraz.
+
 Co daje innym: Przypomnienie, że nie wszystko trzeba kontrolować, rozumieć i nazywać.
+
 Jak zmienia czytelnika: Pokazuje, że dziwność też może być darem.
+
 Największy błąd: Czasami działa tak nagle, że inni nie nadążają za tym, co właśnie uruchomiła.
+
 Największa lekcja pierwszej książki: Odkrywa, że przynależność nie oznacza, że trzeba stać się bardziej zrozumiałą dla wszystkich.
+
 Gdyby zabrakło jej w drużynie: Drużyna straciłaby dzikość, instynkt i ten rodzaj prawdy, który przychodzi bokiem, wbiega w środek rozmowy i przewraca koszyk z bułkami.
 
-=== STARSZY STRAŻNIK ===
-[DO USTALENIA — brak jeszcze wersji DNA dla tej postaci w tym samym formacie. Pełna, rozbudowana karta istnieje już w Biblii bohaterów. Jeśli chcesz, przygotuję analogiczny wpis DNA na podstawie tamtej karty.]
+STARSZY STRAŻNIK
+
+Pełna, rozbudowana karta → Biblia bohaterów.
