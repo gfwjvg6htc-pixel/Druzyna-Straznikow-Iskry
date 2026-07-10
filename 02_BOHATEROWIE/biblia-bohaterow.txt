@@ -1,5 +1,15 @@
+DOKUMENTACJA AUTORSKA
+
+Drużyna Strażników Iskry
+
 BIBLIA BOHATERÓW
+
+Pełne karty postaci. Szybkie odniesienie do esencji bohaterów -> DNA drużyny.
+
+BIBLIA BOHATERÓW
+
 Biblia postaci serii „Drużyna Strażników Iskry"
+
 (02_BOHATEROWIE/biblia-bohaterow.docx)
 
 Ten dokument zawiera pełne, rozbudowane karty każdej postaci: pierwsze wrażenie, głos, gesty, sekrety autora, magiczną moc. Szybkie odniesienie do esencji każdej postaci (jedno słowo, symbol, prawda w którą wierzy) znajduje się osobno w DNA drużyny — nie powielamy go tutaj, żeby te dwa pliki nie zaczęły się z czasem rozjeżdżać.
@@ -15,17 +25,23 @@ Maksymalnie: 1 zdanie, albo 3 krótkie punkty.
 Tabela na górze każdej karty: Imię | Drugie imię | Wiek | Co zauważa jako pierwsze? | Największe marzenie | Największy lęk
 
 1. Pierwsze wrażenie
+
 Jakie wrażenie robi na innych, gdy pojawia się po raz pierwszy?
 
 2. Kim jest bohater w jednym zdaniu?
+
 Nie opis cech. Opis dziecka. Tak, jak opisałby je najlepszy przyjaciel.
+
 Po przeczytaniu tego zdania czytelnik powinien pomyśleć: „Już ją (go) znam."
 
 3. Pierwszy odruch
+
 Co robi jako pierwsze, kiedy wydarzy się coś niespodziewanego?
+
 To właśnie ten pierwszy odruch będzie definiował bohatera.
 
 4. Jak patrzy na świat?
+
 Krótki akapit opisujący sposób, w jaki bohater odbiera świat. Co zauważa jako pierwsze?
 
 5. Co kocha?
@@ -33,127 +49,192 @@ Krótki akapit opisujący sposób, w jaki bohater odbiera świat. Co zauważa ja
 6. Czego nie znosi?
 
 7. Emocje
-- Co daje mu poczucie bezpieczeństwa?
-- Czego najbardziej się boi?
-- Co jest dla niego najtrudniejsze?
-- Co najbardziej go rani?
-- Z czego jest naprawdę dumny?
-- Co ukrywa przed światem?
+
+  • Co daje mu poczucie bezpieczeństwa?
+
+  • Czego najbardziej się boi?
+
+  • Co jest dla niego najtrudniejsze?
+
+  • Co najbardziej go rani?
+
+  • Z czego jest naprawdę dumny?
+
+  • Co ukrywa przed światem?
 
 8. Rozwój
-- Największa siła.
-- Największa słabość.
-- Największe marzenie.
-- Największa potrzeba.
-- Najważniejsza przemiana w pierwszej książce.
+
+  • Największa siła.
+
+  • Największa słabość.
+
+  • Największe marzenie.
+
+  • Największa potrzeba.
+
+  • Najważniejsza przemiana w pierwszej książce.
 
 9. Relacje
-- Czego uczy Aurę?
-- Czego Aura uczy jego?
-- Dlaczego są sobie nawzajem potrzebni?
+
+  • Czego uczy Aurę?
+
+  • Czego Aura uczy jego?
+
+  • Dlaczego są sobie nawzajem potrzebni?
+
 (Relacje z konkretnymi postaciami, parami → 02_BOHATEROWIE/relacje/)
 
 10. Miejsce w drużynie
-- Co wnosi do drużyny?
-- Co łączy go z pozostałymi?
-- Czego drużynie najbardziej brakuje, kiedy go nie ma?
-- Dlaczego bez niego Iskra nigdy by nie rozbłysła?
-- Co robi jako pierwszy?
+
+  • Co wnosi do drużyny?
+
+  • Co łączy go z pozostałymi?
+
+  • Czego drużynie najbardziej brakuje, kiedy go nie ma?
+
+  • Dlaczego bez niego Iskra nigdy by nie rozbłysła?
+
+  • Co robi jako pierwszy?
 
 11. Głos bohatera
-- Jak mówi? Jakich słów używa? Jakich słów nigdy nie używa?
-- Czy mówi szybko? Czy długo myśli? Czy kończy zdania? Czy przerywa innym?
-- Czy ma powiedzonka? Jak brzmi jego humor?
+
+  • Jak mówi? Jakich słów używa? Jakich słów nigdy nie używa?
+
+  • Czy mówi szybko? Czy długo myśli? Czy kończy zdania? Czy przerywa innym?
+
+  • Czy ma powiedzonka? Jak brzmi jego humor?
+
 (Ta sekcja będzie bezcenna podczas pisania dialogów.)
 
 12. Gesty
+
 Po czym bez słów wiadomo, że: cieszy się, jest smutny, złości się, boi się, coś ukrywa.
 
 13. Cytat-kompas
 
 14. Sekrety autora
 
-===============================================
 AURA OD WIATRU
-===============================================
 
-| Imię | Drugie imię | Wiek | Co zauważa jako pierwsze? | Największe marzenie | Największy lęk |
-| Aura | od Wiatru | 8 lat | Możliwości i przygodę. | Mieć prawdziwą drużynę, która razem z nią będzie poznawała świat. | Zostać odrzuconą i zostać samą. |
+Imię: Aura Drugie imię: od Wiatru Wiek: 8 lat Co zauważa jako pierwsze?: Możliwości i przygodę. Największe marzenie: Mieć prawdziwą drużynę, która razem z nią będzie poznawała świat. Największy lęk: Zostać odrzuconą i zostać samą.
 
 Magiczna moc — Wiatr Odwagi
+
 Aura potrafi przywołać wiatr, który dodaje odwagi wszystkim wokół. Nie jest to wiatr niszczący ani walczący. Pomaga zrobić pierwszy krok, odważyć się spróbować i uwierzyć, że coś jest możliwe.
+
 Na początku jej moc przypomina jedynie lekki podmuch. Z czasem wiatr staje się coraz silniejszy, ale nigdy nie służy do zadawania bólu. Jego prawdziwą siłą jest odwaga, którą budzi w innych.
 
 Ludzki dar: Taniec / ruch. Co daje innym poprzez ludzki dar: Odwagę, energię, poczucie, że warto żyć pełnią życia.
 
 1. Pierwsze wrażenie
+
 Aura sprawia wrażenie dziewczynki, która jest w ciągłym ruchu. W jej oczach zawsze błyszczy ciekawość, jakby właśnie dostrzegła początek kolejnej przygody.
 
 2. Kim jest bohater w jednym zdaniu?
+
 Aura to dziewczynka, która nie potrafi przejść obojętnie obok żadnej przygody i zawsze wierzy, że za następnym zakrętem czeka coś niezwykłego.
 
 3. Pierwszy odruch
+
 Kiedy wydarzy się coś niespodziewanego, Aura natychmiast mówi: „Chodźmy sprawdzić!" Dopiero później zastanawia się, czy to był dobry pomysł.
 
 4. Jak patrzy na świat?
+
 Aura instynktownie wierzy, że świat jest bardziej fascynujący niż groźny. Zamiast zastanawiać się, czego powinna się bać, od razu szuka tego, co można odkryć. Widzi możliwości tam, gdzie inni widzą przeszkody, a niemal każdy problem potrafi zamienić w początek nowej przygody. To, co zauważa jako pierwsze, to możliwości.
 
 5. Co kocha?
+
 Aura najbardziej kocha wszystko, co wydarza się po raz pierwszy. Uwielbia odkrywać nowe miejsca, wspinać się tam, gdzie jeszcze nie była, obserwować zwierzęta, szukać błyszczących drobiazgów i wypatrywać spadających gwiazd. Najbardziej jednak kocha Bubę i wszystkie przygody, które przeżywają razem.
 
 6. Czego nie znosi?
+
 Nie znosi nudy ani sytuacji, w których ktoś zostaje wykluczony z zabawy. Najbardziej bolą ją słowa: „Jesteś męcząca."
 
 7. Emocje
+
 Co daje jej poczucie bezpieczeństwa? Przede wszystkim Buba. Dopiero potem przytulenie i poczucie, że należy do grupy.
+
 Czego najbardziej się boi? Że zostanie sama i nikt nie będzie chciał być z nią.
+
 Co jest dla niej najtrudniejsze? Czekać. Trudno jej również zaakceptować, że inni nie zawsze chcą od razu ruszyć za jej pomysłem.
+
 Co najbardziej ją rani? Odrzucenie i niewybranie do wspólnej zabawy.
+
 Z czego jest naprawdę dumna? Z rzeczy, których nauczyła się dzięki wytrwałości, nawet jeśli na początku jej nie wychodziły.
+
 Co ukrywa przed światem? Że nie zawsze czuje się odważna. Czasami po prostu bardzo boi się zrobić pierwszy krok, ale nie chce, żeby ktokolwiek to zauważył.
 
 8. Rozwój
+
 Największa siła: Aura zaraża innych odwagą i potrafi sprawić, że ludzie wierzą, iż warto spróbować.
+
 Największa słabość: Zbyt szybko przejmuje inicjatywę i nie zawsze słucha tego, co próbują powiedzieć inni.
+
 Największe marzenie: Znaleźć prawdziwą drużynę.
+
 Największa potrzeba: Czuć, że ktoś wybiera właśnie ją i chce być obok.
+
 Najważniejsza przemiana w pierwszej książce: Aura odkrywa, że największa odwaga nie polega na robieniu wszystkiego samemu. Prawdziwy lider nie biegnie przed wszystkimi, ale potrafi zaufać innym i iść razem z nimi.
 
 9. Relacje
+
 Czego uczą Aurę? Zanim pozna drużynę, Buba uczy ją zatrzymywać się dla kogoś, kogo kocha. Rowan uczy ją cierpliwości. Iris uczy ją dostrzegać ludzi. Echo uczy ją cieszyć się chwilą. Nox uczy ją, że dobre pytanie bywa ważniejsze od szybkiej odpowiedzi.
+
 Czego Aura uczy ich? Odwagi, by zrobić pierwszy krok.
+
 Dlaczego są sobie nawzajem potrzebni? Bo każde z nich potrafi coś, czego pozostałym czasami brakuje.
+
 (Pełne opisy relacji parami → 02_BOHATEROWIE/relacje/)
 
 10. Miejsce w drużynie
+
 Co wnosi do drużyny? Aura wnosi pierwszy krok. To ona sprawia, że przygoda naprawdę się zaczyna.
+
 Co łączy ją z pozostałymi? W każdym z nich potrafi dostrzec przyszłego przyjaciela, zanim oni sami w to uwierzą.
+
 Czego drużynie najbardziej brakuje, kiedy jej nie ma? Kogoś, kto pierwszy powie: „Spróbujmy!"
+
 Dlaczego bez niej Iskra nigdy by nie rozbłysła? Bo każda wielka historia zaczyna się od kogoś, kto odważy się zrobić pierwszy krok.
+
 Co robi jako pierwsza? Proponuje działanie.
 
 11. Głos bohatera
+
 Aura mówi szybko i z ogromnym entuzjazmem. Najczęściej używa słów: „Chodźmy!", „A co jeśli...?", „Spróbujmy!"
+
 Nigdy nie mówi: „To niemożliwe."
+
 Kiedy wpada na pomysł, często zaczyna mówić, zanim zdąży go do końca przemyśleć. Czasami przerywa innym, ale tylko dlatego, że trudno jej zatrzymać własny entuzjazm.
+
 Jej humor jest spontaniczny, pełen wygłupów i dziecięcej wyobraźni.
 
 12. Gesty
+
 Kiedy się cieszy, podskakuje albo obraca się w miejscu.
+
 Kiedy jest smutna, milknie i przytula Bubę.
+
 Kiedy się złości, zaczyna mówić jeszcze szybciej i energiczniej gestykuluje.
+
 Kiedy się boi, prostuje plecy i udaje odważniejszą, niż naprawdę się czuje.
+
 Kiedy coś ukrywa, błyskawicznie zmienia temat rozmowy.
+
 Aura bardzo często wybiega kilka kroków przed resztę drużyny. Po chwili odwraca się z błyszczącymi oczami, wyciąga rękę i woła: „Chodźcie! Musicie to zobaczyć!" Nigdy nie chce odkrywać świata sama. Największą radość sprawia jej dzielenie się tym, co właśnie znalazła. Nigdy nie wybiega tak daleko, żeby zgubić Bubę.
 
 13. Cytat-kompas
+
 „A skąd wiesz, że się nie uda, jeśli jeszcze nie spróbowałeś?"
 
 14. Sekrety autora
-- Aura nie chce przewodzić. Chce, żeby nikt nie został z tyłu i żeby wszyscy dobrze się bawili.
-- Buba jest pierwszym domem Aury. To właśnie przy Bubie czytelnik po raz pierwszy odkrywa jej czułość.
-- Najbardziej boi się samotności, dlatego zawsze jako pierwsza wyciąga rękę do innych.
-- Jej największym marzeniem nie jest odnalezienie Iskry. Jest nim odnalezienie swojej drużyny.
+
+  • Aura nie chce przewodzić. Chce, żeby nikt nie został z tyłu i żeby wszyscy dobrze się bawili.
+
+  • Buba jest pierwszym domem Aury. To właśnie przy Bubie czytelnik po raz pierwszy odkrywa jej czułość.
+
+  • Najbardziej boi się samotności, dlatego zawsze jako pierwsza wyciąga rękę do innych.
+
+  • Jej największym marzeniem nie jest odnalezienie Iskry. Jest nim odnalezienie swojej drużyny.
 
 15. Rola Aury w opowieści (tylko dla autora)
 
@@ -163,378 +244,565 @@ Taniec jako język Aury. Aura nie tylko biega, skacze i wspina się. Wyraża sie
 
 Metafora latawca. Wiatr nadal jest jej żywiołem, ale latawiec lepiej opisuje jej drogę. Aura kocha wolność, ale potrzebuje nitki. Tą nitką są jej ludzie.
 
-===============================================
 ROWAN OD DREWNA
-===============================================
 
-| Imię | Drugie imię | Wiek | Co zauważa jako pierwsze? | Największe marzenie | Największy lęk |
-| Rowan | od Drewna | 8 lat | Szczegóły. | Umieć naprawić wszystko, co da się naprawić. | Że przez zbyt długie zastanawianie się zawiedzie przyjaciół. |
+Imię: Rowan Drugie imię: od Drewna Wiek: 8 lat Co zauważa jako pierwsze?: Szczegóły. Największe marzenie: Umieć naprawić wszystko, co da się naprawić. Największy lęk: Że przez zbyt długie zastanawianie się zawiedzie przyjaciół.
 
 Magiczna moc — Dotyk Twórcy
+
 Rowan potrafi wyczuwać, co zostało uszkodzone, i przywracać rzeczom ich dawną siłę. Potrafi również łączyć różne przedmioty i tworzyć z nich coś zupełnie nowego. Jego magia nie polega na niszczeniu, lecz na naprawianiu, budowaniu i ulepszaniu.
+
 Na początku potrafi naprawić jedynie drobne przedmioty. Z czasem odkrywa, że największą moc daje mu nie sama naprawa, lecz umiejętność tworzenia nowych rozwiązań tam, gdzie inni widzą tylko problem.
 
 Ludzki dar: Tworzenie / projektowanie. Co daje innym poprzez ludzki dar: Pomysłowość, cierpliwość, wiarę, że coś można zbudować albo naprawić.
 
 1. Pierwsze wrażenie
+
 Rowan sprawia wrażenie chłopca, który niczego nie robi w pośpiechu. Zanim coś powie, najpierw uważnie się rozejrzy. Przy nim inni czują, że nie muszą się spieszyć, bo mają tyle czasu, ile naprawdę potrzebują.
 
 2. Kim jest bohater w jednym zdaniu?
+
 Rowan to chłopiec, który wierzy, że większość rzeczy da się naprawić, a jeśli czegoś nie da się naprawić, zawsze można spróbować wymyślić coś nowego.
 
 3. Pierwszy odruch
+
 Kiedy coś przestaje działać, Rowan najpierw próbuje zrozumieć dlaczego. Zanim zacznie naprawiać, przez chwilę obserwuje i szuka przyczyny problemu. A jeśli coś działa dobrze, często zastanawia się, czy nie dałoby się zrobić tego jeszcze lepiej.
 
 4. Jak patrzy na świat?
+
 Rowan wierzy, że świat zostawia mnóstwo wskazówek dla tych, którzy potrafią je zauważyć. Patrzy na wszystko jak na wielki warsztat. Nie widzi przede wszystkim przedmiotów, lecz części, z których można zbudować coś nowego. Nie widzi problemów, ale rozwiązania, które dopiero czekają na odkrycie.
+
 Najbardziej cieszą go rzeczy, których inni jeszcze nie dostrzegli. Wierzy, że czasami wystarczy odrobina wyobraźni, kilka prób i cierpliwość, żeby ze zwykłych przedmiotów powstało coś zupełnie nowego. To, co zauważa jako pierwsze, to szczegóły.
 
 5. Co kocha?
+
 Rowan uwielbia naprawiać zepsute rzeczy i odkrywać, jak działają różne mechanizmy. Bardzo lubi budować własne wynalazki i ulepszać wszystko, co wpadnie mu w ręce. Zawsze zbiera drobiazgi, które „jeszcze mogą się przydać", a największą satysfakcję daje mu chwila, kiedy coś, nad czym długo pracował, wreszcie zaczyna działać.
 
 6. Czego nie znosi?
+
 Nie lubi bałaganu, ponieważ utrudnia mu skupienie. Nie lubi marnowania rzeczy ani sytuacji, w których coś zostaje wyrzucone, zanim ktoś spróbuje to naprawić. Nie przepada również za pośpiechem, bo wie, że wtedy najłatwiej przeoczyć ważny szczegół.
 
 7. Emocje
+
 Co daje mu poczucie bezpieczeństwa? Porządek i świadomość, że wie, gdzie wszystko jest. Dzięki temu łatwiej mu się skupić i zachować spokój.
+
 Czego najbardziej się boi? Że nie zdąży pomóc wtedy, kiedy ktoś naprawdę będzie go potrzebował.
+
 Co jest dla niego najtrudniejsze? Podjąć decyzję, kiedy nie ma pewności, które rozwiązanie będzie najlepsze.
+
 Co najbardziej go rani? Kiedy ktoś umyślnie niszczy coś, co mogło jeszcze komuś służyć.
+
 Z czego jest naprawdę dumny? Z rzeczy, które udało mu się naprawić albo samodzielnie zbudować.
+
 Co ukrywa przed światem? Że czasami zastanawia się tak długo, aż zaczyna wątpić, czy poradzi sobie z zadaniem.
 
 8. Rozwój
-Największa siła: Rowan potrafi dostrzec rozwiązanie tam, gdzie inni widzą tylko problem. Nie zniechęca się niepowodzeniami i cierpliwie próbuje jeszcze raz. Wierzy, że większość rzeczy da się naprawić, a jeśli czegoś nie da się naprawić, zawsze można spróbować wymyślić coś nowego. To właśnie dlatego nie poprzestaje na naprawianiu. Ciągle buduje, ulepsza i eksperymentuje, wierząc, że świat zawsze można uczynić odrobinę lepszym.
+
+Największa siła: Rowan potrafi dostrzec rozwiązanie tam, gdzie inni widzą tylko problem. Nie zniechęca się niepowodzeniami i cierpliwie próbuje jeszcze raz.
+
 Największa słabość: Tak długo szuka najlepszego rozwiązania, że czasami przegapia moment, w którym należało już działać. Zdarza się również, że bardziej wierzy swoim pomysłom niż własnej intuicji.
+
 Największe marzenie: Umieć naprawić wszystko, co da się naprawić.
+
 Największa potrzeba: Czuć, że jest potrzebny.
+
 Najważniejsza przemiana w pierwszej książce: Rowan odkrywa, że nie każde rozwiązanie musi być idealne. Czasami lepiej zrobić pierwszy krok i uczyć się po drodze, niż czekać na moment, w którym wszystko będzie dopracowane.
 
 9. Relacje
+
 Czego uczy Aurę? Uczy ją, że odrobina porządku daje więcej czasu na przygodę, a cierpliwość często prowadzi do lepszych rozwiązań.
+
 Czego Aura uczy jego? Pokazuje mu, że nie trzeba znać wszystkich odpowiedzi, żeby zacząć działać.
-Dlaczego są sobie nawzajem potrzebni? Aura nadaje ruch temu, co Rowan wymyśla. Rowan nadaje kierunek temu, z czym Aura rusza przed siebie. Razem równoważą swoje najmocniejsze i najsłabsze strony.
+
+Dlaczego są sobie nawzajem potrzebni? Aura nadaje ruch temu, co Rowan wymyśla. Rowan nadaje kierunek temu, z czym Aura rusza przed siebie.
+
 (Pełne opisy relacji parami → 02_BOHATEROWIE/relacje/)
 
 10. Miejsce w drużynie
+
 Rowan wnosi do drużyny spokój, cierpliwość i umiejętność naprawiania. Nie zatrzymuje się jednak na naprawianiu — nieustannie szuka nowych pomysłów i buduje własne wynalazki, bo wierzy, że świat można nie tylko naprawiać, ale również ulepszać.
+
 Łączy go z pozostałymi ciekawość świata i głęboka lojalność wobec przyjaciół.
+
 Kiedy go brakuje, drużyna traci kogoś, kto potrafi zatrzymać się i naprawdę przyjrzeć problemowi.
+
 Bez Rowana Iskra nigdy by nie rozbłysła, ponieważ nie wszystko da się odkryć biegnąc. Czasami najważniejsze rzeczy odnajdują ci, którzy potrafią zatrzymać się na chwilę.
+
 Jako pierwszy zauważa to, co inni przeoczyli.
 
 11. Głos bohatera
+
 Rowan mówi spokojnie i konkretnie. Zanim coś powie, zwykle chwilę się zastanawia.
+
 Najczęściej używa słów: „Zobacz…", „Poczekaj chwilę…", „Spróbujmy inaczej."
+
 Bardzo często zaczyna swoje pomysły od zdania: „A gdyby tak…" — pozostali członkowie drużyny dobrze wiedzą, że po tych słowach wydarzy się albo coś bardzo sprytnego, albo coś zupełnie nieprzewidywalnego.
+
 Nigdy nie mówi: „To się nie da."
 
 12. Gesty
+
 Kiedy się cieszy, od razu bierze coś do ręki i sprawdza, jak działa.
+
 Kiedy jest smutny, długo milczy i patrzy w ziemię.
+
 Kiedy się złości, zaczyna porządkować rzeczy wokół siebie.
+
 Kiedy się boi, sprawdza dwa razy, czy wszystko jest na swoim miejscu.
+
 Kiedy coś ukrywa, zajmuje ręce czymkolwiek, co może naprawić.
+
 Kiedy myśli, obraca w dłoniach śrubkę, patyk, kamyk albo sprężynkę. Nigdy nie siedzi z pustymi rękami.
 
 13. Cytat-kompas
+
 „Większość rzeczy da się naprawić. A jeśli nie… zawsze można spróbować wymyślić coś nowego."
 
 14. Sekrety autora
-- Rowan nauczył się cierpliwości dzięki naprawianiu rzeczy.
-- Lubi wiedzieć, gdzie wszystko jest, ponieważ porządek daje mu spokój, choć sam nie potrafi tego nazwać.
-- W kieszeniach zawsze nosi drobiazgi, które kiedyś mogą się przydać.
-- Nigdy nie wyśmiewa cudzych pomysłów. Zamiast tego zastanawia się, jak można je ulepszyć.
-- Nie potrafi przejść obojętnie obok zepsutej rzeczy. Nawet jeśli wszyscy już poszli dalej, on jeszcze przez chwilę próbuje znaleźć sposób, żeby ją naprawić.
-- Nie wyrzuca swoich nieudanych wynalazków. Jest przekonany, że kiedyś jeszcze się przydadzą.
-- Buduje wynalazki nie po to, żeby imponować innym. Robi to dlatego, że naprawdę wierzy, iż zawsze można znaleźć lepszy sposób rozwiązania problemu.
-- Czytelnik powinien pomyśleć: „Przy Rowanie zawsze czułbym się bezpiecznie."
+
+  • Rowan nauczył się cierpliwości dzięki naprawianiu rzeczy.
+
+  • Lubi wiedzieć, gdzie wszystko jest, ponieważ porządek daje mu spokój, choć sam nie potrafi tego nazwać.
+
+  • W kieszeniach zawsze nosi drobiazgi, które kiedyś mogą się przydać.
+
+  • Nigdy nie wyśmiewa cudzych pomysłów. Zamiast tego zastanawia się, jak można je ulepszyć.
+
+  • Nie potrafi przejść obojętnie obok zepsutej rzeczy. Nawet jeśli wszyscy już poszli dalej, on jeszcze przez chwilę próbuje znaleźć sposób, żeby ją naprawić.
+
+  • Nie wyrzuca swoich nieudanych wynalazków. Jest przekonany, że kiedyś jeszcze się przydadzą.
+
+  • Czytelnik powinien pomyśleć: „Przy Rowanie zawsze czułbym się bezpiecznie."
 
 15. Running joke — wynalazki Rowana
+
 Rowan bardzo lubi budować własne wynalazki z rzeczy, które od dawna nosi w kieszeniach. Każdy nowy pomysł testuje z ogromnym zaangażowaniem i pełnym przekonaniem, że tym razem wszystko zadziała dokładnie tak, jak zaplanował. Najczęściej… działa. Problem w tym, że nie zawsze w taki sposób, jak się spodziewał. Zamiast latarki powstaje maszyna do robienia baniek. Zamiast alarmu urządzenie, którego nikt nie potrafi wyłączyć. Zamiast katapulty w powietrze wylatuje jego własny but.
+
 Rowan nigdy się tym nie zniechęca. Patrzy na swój wynalazek przez chwilę, uśmiecha się pod nosem i mówi: „Już wiem, czego zabrakło." albo „Prawie działało." Po czym natychmiast zaczyna budować następną wersję.
 
 Rowan nosi notes z projektami, schematami i rysunkami technicznymi. Widzi możliwości tam, gdzie inni widzą stare części, kawałek sznurka albo zepsuty mechanizm. Jego dar nie polega tylko na naprawianiu tego, co było — potrafi wyobrazić sobie coś, czego jeszcze nie ma.
 
 Buba z niewyjaśnionych powodów zabiera Rowanowi śrubki. Nie nakrętki. Nie gwoździe. Śrubki. Rowan coraz częściej zaczyna szukać brakującej części najpierw przy Bubie, a dopiero potem w pudełku z narzędziami.
+
 Kiedy pozostali słyszą: „A gdyby tak…" — instynktownie robią krok do tyłu, a zaraz potem z ciekawością podchodzą bliżej, bo wiedzą, że za chwilę wydarzy się coś, czego nikt się nie spodziewa.
 
-===============================================
 IRIS OD KWIATÓW
-===============================================
 
-| Imię | Drugie imię | Wiek | Co zauważa jako pierwsze? | Największe marzenie | Największy lęk |
-| Iris | od Kwiatów | 8 lat | Piękno i dobro w ludziach oraz to, czego potrzebują, żeby rozkwitnąć. | Żeby każdy czuł, że jest ważny. | Że ktoś zostanie sam lub przestanie wierzyć w siebie, a ona tego nie zauważy. |
+Imię: Iris Drugie imię: od Kwiatów Wiek: 8 lat Co zauważa jako pierwsze?: Piękno i dobro w ludziach oraz to, czego potrzebują, żeby rozkwitnąć. Największe marzenie: Żeby każdy czuł, że jest ważny. Największy lęk: Że ktoś zostanie sam lub przestanie wierzyć w siebie, a ona tego nie zauważy.
 
 Magiczna moc — Rozkwit
+
 Tam, gdzie Iris okazuje troskę, pojawia się życie. Kwiaty rozkwitają, uschnięte rośliny odzyskują siłę, a zranione stworzenia szybciej wracają do zdrowia. Jej magia nigdy nikogo do niczego nie zmusza. Daje jedynie szansę, by rozkwitnąć.
+
 Na początku potrafi sprawić, że zakwitnie pojedynczy kwiat. Z czasem jej moc obejmuje całe miejsca, a nawet serca tych, którzy dawno przestali wierzyć w dobro.
 
-Ludzki dar: Głos. Co daje innym poprzez ludzki dar: Ukojenie, czułość, poczucie, że ból nie jest samotny. Ważne: nie robić z tego supermocy. To ma zostać ludzkim darem, nie drugim rodzajem magii.
+Ludzki dar: Głos. Co daje innym poprzez ludzki dar: Ukojenie, czułość, poczucie, że ból nie jest samotny. WAŻNE: to ma pozostać ludzkim darem, nie drugim rodzajem magii.
 
 1. Pierwsze wrażenie
+
 Iris sprawia wrażenie dziewczynki, przy której od razu robi się jakoś cieplej i spokojniej.
 
 2. Kim jest bohater w jednym zdaniu?
+
 To dziewczynka, która potrafi dostrzec piękno nawet tam, gdzie inni widzą tylko chwasty.
 
 3. Pierwszy odruch
+
 Najpierw rozgląda się, czy wszystkim jest dobrze i czy nikogo nie brakuje.
 
 4. Jak patrzy na świat?
+
 Iris instynktownie dostrzega piękno i dobro w innych, dlatego szybko zauważa również to, czego im brakuje, żeby mogli rozkwitnąć. To, co zauważa jako pierwsze, to piękno, dobro i potrzeby innych.
 
 5. Co kocha?
-- Tworzyć wianki, bukieciki i drobne prezenty z tego, co znajdzie w naturze.
-- Sprawiać, że ludzie czują się zauważeni.
-- Zostawiać miejsca piękniejsze, niż je zastała.
+
+  • Tworzyć wianki, bukieciki i drobne prezenty z tego, co znajdzie w naturze.
+
+  • Sprawiać, że ludzie czują się zauważeni.
+
+  • Zostawiać miejsca piękniejsze, niż je zastała.
 
 6. Czego nie znosi?
-- Kiedy ktoś zostaje wykluczony.
-- Kiedy ludzie nie dostrzegają dobra w innych.
-- Kiedy coś pięknego zostaje zniszczone bez powodu.
+
+  • Kiedy ktoś zostaje wykluczony.
+
+  • Kiedy ludzie nie dostrzegają dobra w innych.
+
+  • Kiedy coś pięknego zostaje zniszczone bez powodu.
 
 7. Emocje
+
 Co daje jej poczucie bezpieczeństwa? Świadomość, że wszyscy są razem i nikomu niczego nie brakuje.
+
 Czego najbardziej się boi? Że nie zauważy, iż ktoś potrzebował pomocy.
+
 Co jest dla niej najtrudniejsze? Poprosić o pomoc dla samej siebie.
+
 Co najbardziej ją rani? Obojętność wobec drugiego człowieka.
+
 Z czego jest naprawdę dumna? Z chwil, kiedy dzięki drobnemu gestowi komuś zrobiło się lżej.
+
 Co ukrywa przed światem? Myśli, że musi być silna dla innych, nawet wtedy, gdy sama potrzebuje wsparcia.
 
 8. Rozwój
+
 Największa siła: Sprawia, że ludzie czują się zauważeni i ważni.
+
 Największa słabość: Zapomina zatroszczyć się o siebie.
+
 Największe marzenie: Żeby każdy mógł rozkwitnąć.
+
 Największa potrzeba: Odkryć, że ona również zasługuje na troskę.
+
 Najważniejsza przemiana w pierwszej książce: Uczy się, że przyjaźń oznacza nie tylko dawanie pomocy, ale także umiejętność jej przyjmowania.
 
 9. Relacje
+
 Czego uczy Aurę? Że czasami największą przygodą jest zatrzymać się przy drugim człowieku.
+
 Czego Aura uczy jej? Że proszenie o pomoc jest oznaką odwagi, a nie słabości.
+
 Dlaczego są sobie nawzajem potrzebne? Aura pomaga Iris pamiętać o sobie, a Iris pomaga Aurze pamiętać o innych.
+
 (Pełne opisy relacji parami → 02_BOHATEROWIE/relacje/)
 
 10. Miejsce w drużynie
+
 Co wnosi do drużyny? Ciepło, troskę i umiejętność dostrzegania dobra.
+
 Co łączy ją z pozostałymi? W każdym z nich widzi coś wyjątkowego i pomaga im uwierzyć we własne możliwości.
+
 Czego drużynie najbardziej brakuje, kiedy jej nie ma? Kogoś, kto zauważy drobne potrzeby, zanim staną się dużym problemem.
+
 Dlaczego bez niej Iskra nigdy by nie rozbłysła? Bo nawet największa przygoda potrzebuje serca.
+
 Co robi jako pierwsza? Sprawdza, czy wszyscy są razem i czy nikogo nie pominięto.
 
 11. Głos bohatera
+
 Jak mówi? Łagodnie i z uważnością.
+
 Jakich słów używa? „Proszę.", „Dziękuję.", „Może podzielimy się?", „Chodź ze mną."
+
 Jakich słów nigdy nie używa? „To nie mój problem."
+
 Czy mówi szybko? Nie.
+
 Czy długo myśli? Tylko wtedy, gdy chce znaleźć najlepszy sposób, żeby komuś pomóc.
+
 Czy kończy zdania? Tak.
+
 Czy przerywa innym? Nigdy.
+
 Czy ma powiedzonka? „Każdy zasługuje, żeby zakwitnąć."
+
 Jak brzmi jej humor? Delikatny, ciepły i pełen życzliwości.
 
 12. Gesty
+
 Cieszy się – splata w dłoniach kwiaty albo źdźbła trawy.
+
 Jest smutna – długo obraca w palcach listek lub płatek kwiatu.
+
 Złości się – bardzo cichnie i mocniej zaciska dłonie.
+
 Boi się – odruchowo szuka dłoni któregoś z przyjaciół.
+
 Coś ukrywa – uśmiecha się i mówi: „Ja sobie poradzę."
 
 13. Cytat-kompas
+
 „Każdy zasługuje, żeby zakwitnąć."
 
 14. Sekrety autora
-- Iris zawsze coś robi rękami. Kiedy rozmawia, splata źdźbła trawy. Kiedy czeka, robi mały wianek. Kiedy siedzi przy ognisku, układa bukiecik z polnych kwiatów. To ją uspokaja.
-- Gdziekolwiek się zatrzymuje, zostawia po sobie miejsce odrobinę piękniejsze niż wcześniej.
-- Prawie nigdy nie wraca z pustymi rękami. Przynosi kwiat, piórko, kamyk albo gałązkę nie po to, by je zatrzymać, ale by sprawić nimi komuś radość.
-- Uwielbia dostawać prezenty, które pokazują, że ktoś naprawdę ją zna i pamięta o drobnych rzeczach, które lubi.
-- Po spotkaniu z Iris ludzie czują się odrobinę bardziej zauważeni, odważniejsi i piękniejsi, choć ona sama nigdy nie zdaje sobie z tego sprawy.
+
+  • Iris zawsze coś robi rękami. Kiedy rozmawia, splata źdźbła trawy. Kiedy czeka, robi mały wianek. To ją uspokaja.
+
+  • Gdziekolwiek się zatrzymuje, zostawia po sobie miejsce odrobinę piękniejsze niż wcześniej.
+
+  • Prawie nigdy nie wraca z pustymi rękami. Przynosi kwiat, piórko, kamyk albo gałązkę nie po to, by je zatrzymać, ale by sprawić nimi komuś radość.
+
+  • Uwielbia dostawać prezenty, które pokazują, że ktoś naprawdę ją zna i pamięta o drobnych rzeczach, które lubi.
+
+  • Po spotkaniu z Iris ludzie czują się odrobinę bardziej zauważeni, odważniejsi i piękniejsi, choć ona sama nigdy nie zdaje sobie z tego sprawy.
 
 Iris nie tylko śpiewa. Jej głos przynosi ukojenie. Nie leczy magicznie ran, nie usuwa smutku i nie rozwiązuje problemów. Sprawia jednak, że ból jest łatwiejszy do uniesienia, a smutek mniej samotny. Kiedy Iris śpiewa, człowiekowi robi się odrobinę spokojniej na sercu. WAŻNE: to ma zostać ludzkim darem, nie drugim rodzajem magii.
 
-===============================================
 ECHO OD ŚWIATŁA
-===============================================
 
-| Imię | Drugie imię | Wiek | Co zauważa jako pierwsze? | Największe marzenie | Największy lęk |
-| Echo | od Światła | 9 lat | Nadzieję i jasne strony każdej sytuacji. | Żeby nikt nie stracił uśmiechu i nadziei. | Że ktoś pogrąży się w smutku i przestanie wierzyć, że będzie lepiej. |
+Imię: Echo Drugie imię: od Światła Wiek: 9 lat Co zauważa jako pierwsze?: Nadzieję i jasne strony każdej sytuacji. Największe marzenie: Żeby nikt nie stracił uśmiechu i nadziei. Największy lęk: Że ktoś pogrąży się w smutku i przestanie wierzyć, że będzie lepiej.
 
 Magiczna moc — Światło Nadziei
+
 Echo potrafi przywołać ciepłe światło, które rozprasza mrok i osłabia lęk. Nie pokonuje przeciwników siłą. Sprawia, że strach staje się mniejszy, a nadzieja wraca tam, gdzie niemal zgasła.
+
 Na początku jego światło przypomina niewielki płomień. Z każdą kolejną przygodą świeci coraz jaśniej, ponieważ rodzi się z radości, którą Echo potrafi dzielić z innymi.
 
 Ludzki dar: Muzyka. Co daje innym poprzez ludzki dar: Radość, nadzieję, lekkość, śmiech po strachu.
 
 1. Pierwsze wrażenie
+
 Echo sprawia wrażenie chłopca, przy którym nawet najpoważniejsze sytuacje stają się trochę lżejsze.
 
 2. Kim jest bohater w jednym zdaniu?
+
 To chłopiec, który potrafi znaleźć promień słońca nawet wtedy, gdy wszyscy widzą tylko chmury.
 
 3. Pierwszy odruch
+
 Kiedy robi się trudno lub niezręcznie, instynktownie próbuje rozładować napięcie i przywrócić innym nadzieję.
 
 4. Jak patrzy na świat?
+
 Echo wierzy, że każda historia ma swój jasny moment. Nawet jeśli jeszcze go nie widać, warto go szukać. To, co zauważa jako pierwsze, to co może rozjaśnić sytuację i dodać innym otuchy.
 
 5. Co kocha?
-- Rozśmieszać ludzi, nie wyśmiewając nikogo.
-- Wymyślać zabawy z najzwyklejszych rzeczy.
-- Chwile, kiedy wszyscy śmieją się razem.
+
+  • Rozśmieszać ludzi, nie wyśmiewając nikogo.
+
+  • Wymyślać zabawy z najzwyklejszych rzeczy.
+
+  • Chwile, kiedy wszyscy śmieją się razem.
 
 6. Czego nie znosi?
-- Kiedy ktoś traci nadzieję.
-- Kiedy smutek oddziela ludzi od siebie.
-- Kiedy ktoś śmieje się z drugiego człowieka.
+
+  • Kiedy ktoś traci nadzieję.
+
+  • Kiedy smutek oddziela ludzi od siebie.
+
+  • Kiedy ktoś śmieje się z drugiego człowieka.
 
 7. Emocje
+
 Co daje mu poczucie bezpieczeństwa? Świadomość, że drużyna trzyma się razem i nawet w trudnej chwili potrafi się uśmiechnąć.
+
 Czego najbardziej się boi? Że ktoś przestanie wierzyć, iż może być lepiej.
+
 Co jest dla niego najtrudniejsze? Pokazać, że jemu też bywa smutno.
+
 Co najbardziej go rani? Widok osoby, która pogrążyła się w smutku i nie widzi już nadziei.
+
 Z czego jest naprawdę dumny? Z chwil, kiedy udało mu się przywrócić komuś uśmiech.
+
 Co ukrywa przed światem? Często ukrywa własny smutek, bo wydaje mu się, że to on powinien dodawać odwagi innym.
 
 8. Rozwój
+
 Największa siła: Potrafi rozjaśnić nawet najtrudniejszy dzień.
+
 Największa słabość: Zapomina, że on również potrzebuje wsparcia.
+
 Największe marzenie: Żeby nikt nie przestał wierzyć w szczęśliwe zakończenia.
+
 Największa potrzeba: Odkryć, że nie zawsze musi być tym, który niesie światło.
+
 Najważniejsza przemiana w pierwszej książce: Uczy się, że prawdziwi przyjaciele potrafią rozświetlić także jego najciemniejsze chwile.
 
 9. Relacje
+
 Czego uczy Aurę? Że nawet podczas największej przygody warto znaleźć chwilę na śmiech.
+
 Czego Aura uczy jego? Że odwaga to także przyznanie się do własnych uczuć.
+
 Dlaczego są sobie nawzajem potrzebni? Aura pomaga drużynie ruszyć naprzód, a Echo sprawia, że nikt nie traci po drodze nadziei.
+
 (Pełne opisy relacji parami → 02_BOHATEROWIE/relacje/)
 
 10. Miejsce w drużynie
+
 Co wnosi do drużyny? Lekkość, radość i nadzieję.
+
 Co łączy go z pozostałymi? Pomaga każdemu odnaleźć siłę wtedy, gdy zaczyna w siebie wątpić.
+
 Czego drużynie najbardziej brakuje, kiedy go nie ma? Świat wydaje się trochę cięższy.
+
 Dlaczego bez niego Iskra nigdy by nie rozbłysła? Bo nawet największa odwaga potrzebuje czasem uśmiechu.
+
 Co robi jako pierwszy? Rozładowuje napięcie i przypomina wszystkim, że to jeszcze nie koniec historii.
 
 11. Głos bohatera
+
 Jak mówi? Żywo, obrazowo i z ogromną energią.
+
 Jakich słów używa? „Patrzcie!", „A wiecie co?", „Mam pomysł!"
+
 Jakich słów nigdy nie używa? „Nie ma sensu."
+
 Czy mówi szybko? Tak, szczególnie kiedy opowiada historię.
+
 Czy długo myśli? Nie. Najpierw mówi, a potem śmieje się z własnych pomysłów.
+
 Czy kończy zdania? Zwykle tak, choć czasem przerywa sam sobie, gdy wpada na coś jeszcze zabawniejszego.
+
 Czy przerywa innym? Tylko wtedy, gdy chce rozładować napięcie.
+
 Czy ma powiedzonka? „Z uśmiechem wszystko jest trochę łatwiejsze."
+
 Jak brzmi jego humor? Ciepło, serdecznie i zawsze wspólnie, nigdy czyimś kosztem.
 
 12. Gesty
+
 Cieszy się – szeroko gestykuluje i aż podskakuje z radości.
+
 Jest smutny – uśmiecha się słabiej niż zwykle i na chwilę cichnie.
+
 Złości się – zaczyna przesadnie odgrywać sytuację, zanim powie, co naprawdę czuje.
+
 Boi się – próbuje obrócić strach w żart.
+
 Coś ukrywa – jeszcze bardziej stara się rozśmieszyć innych.
 
 13. Cytat-kompas
+
 „Każda historia ma swój jasny moment. Jeśli jeszcze go nie znaleźliśmy, to znaczy, że historia jeszcze się nie skończyła."
 
 14. Sekrety autora
-- Echo opowiada historie całym sobą. Naśladuje głosy, robi miny, odgrywa sceny i udaje zwierzęta, nie po to, by być w centrum uwagi, ale żeby rozładować napięcie.
-- Nigdy nie śmieje się z kogoś. Zawsze śmieje się razem z kimś.
-- Potrafi zamienić patyk w mikrofon, liść w koronę, a zwykły kamień w smocze jajo. Nie potrzebuje zabawek, bo jego wyobraźnia zamienia wszystko w przygodę.
-- Gdziekolwiek się pojawia, po chwili robi się trochę jaśniej. Nie dlatego, że rozwiązuje problemy, ale dlatego, że przypomina innym, iż po burzy znowu wychodzi słońce.
-- Czasami najbardziej rozśmiesza innych właśnie wtedy, gdy sam najbardziej potrzebuje, żeby ktoś rozśmieszył jego.
+
+  • Echo opowiada historie całym sobą. Naśladuje głosy, robi miny, odgrywa sceny i udaje zwierzęta, nie po to, by być w centrum uwagi, ale żeby rozładować napięcie.
+
+  • Nigdy nie śmieje się z kogoś. Zawsze śmieje się razem z kimś.
+
+  • Potrafi zamienić patyk w mikrofon, liść w koronę, a zwykły kamień w smocze jajo. Nie potrzebuje zabawek, bo jego wyobraźnia zamienia wszystko w przygodę.
+
+  • Gdziekolwiek się pojawia, po chwili robi się trochę jaśniej. Nie dlatego, że rozwiązuje problemy, ale dlatego, że przypomina innym, iż po burzy znowu wychodzi słońce.
+
+  • Czasami najbardziej rozśmiesza innych właśnie wtedy, gdy sam najbardziej potrzebuje, żeby ktoś rozśmieszył jego.
 
 Echo kocha muzykę, rytm i wszystkie dziwne odgłosy świata. Gra na fujarce, gwiżdże, wystukuje rytmy patykiem, naśladuje ptaki, wymyśla melodie i czasem gra tak okropnie, że nikt nie wie, co to miało być — ale gra sercem. Jego muzyka nie musi być doskonała. Ma być żywa. Kiedy Echo gra, Aura często zaczyna tańczyć. Nie umawiają się na to — po prostu jego muzyka i jej ruch rozumieją się szybciej niż oni sami.
 
-===============================================
 NOX OD GWIAZD
-===============================================
 
-| Imię | Drugie imię | Wiek | Co zauważa jako pierwsze? | Największe marzenie | Największy lęk |
-| Nox | od Gwiazd | ? | Wzory, zależności i pytania, których nikt jeszcze nie zadał. | Zostać Starszym Strażnikiem. | Że nie będzie godny nosić tego tytułu. |
+Imię: Nox Drugie imię: od Gwiazd Wiek: ? Co zauważa jako pierwsze?: Wzory, zależności i pytania, których nikt jeszcze nie zadał. Największe marzenie: Zostać Starszym Strażnikiem. Największy lęk: Że nie będzie godny nosić tego tytułu.
 
 Magiczna moc — Gwiezdna Tarcza
+
 Nox potrafi przywołać światło gwiazd, które otacza jego przyjaciół ochroną. Jego magia nie służy do ataku. Tworzy bezpieczną przestrzeń, daje czas na znalezienie innego rozwiązania i przypomina, że największym zwycięstwem jest uniknięcie walki.
+
 Na początku potrafi ochronić jedną osobę przez krótką chwilę. Z czasem odkrywa, że prawdziwa siła Strażnika nie tkwi w potędze tarczy, lecz w tym, że dzięki niej coraz rzadziej trzeba sięgać po miecz.
 
 Ludzki dar: Opowieści. Co daje innym poprzez ludzki dar: Bezpieczeństwo, sens, spokojne wejście w noc.
 
 1. Pierwsze wrażenie
+
 Nox sprawia wrażenie spokojnego i opanowanego. Mówi niewiele, ale uważnie obserwuje wszystko, co dzieje się wokół. Trudno go zaskoczyć, ponieważ widział i zapamiętał więcej, niż ktokolwiek mógłby przypuszczać.
+
 Jednocześnie można odnieść wrażenie, że wśród dzieci czuje się trochę... zagubiony.
 
 2. Kim jest bohater w jednym zdaniu?
+
 Nox jest młodym Strażnikiem, który zna odpowiedź na niemal każde pytanie o świat, ale dopiero dzieci uczą go odpowiedzi na pytania o serce. Nox nie jest wybrańcem. Nikt go do niczego nie przeznaczył. Każdego dnia świadomie wybiera drogę Strażnika, ponieważ wierzy, że ochrona świata ma sens. Może zrezygnować. Może odejść. Może zostać garncarzem. Może hodować świnie. Może prowadzić piekarnię. Nic go nie zmusza. To jego wybór.
 
 3. Pierwszy odruch
+
 Kiedy wydarzy się coś niespodziewanego, Nox nie działa od razu. Najpierw próbuje zrozumieć, co właśnie zobaczył. Szuka wzoru, zależności albo zasady, która wyjaśni to, co się wydarzyło.
 
 4. Jak patrzy na świat?
+
 Nox patrzy na świat jak na wielką układankę. Dostrzega zależności, których inni nie zauważają, pamięta dawne historie i rozumie prawa rządzące światem. Wierzy, że każde zjawisko ma swoją przyczynę, a każde pytanie kiedyś doczeka się odpowiedzi. To, co zauważa jako pierwsze, to wzory i połączenia.
+
 Dopiero dzieci pokazują mu, że są rzeczy, których nie da się zrozumieć samym rozumem.
 
 5. Co kocha?
+
 Nox uwielbia patrzeć w gwiazdy i odkrywać tajemnice świata. Lubi zadawać pytania, poznawać dawne historie i uczyć się nowych rzeczy. Ceni ciszę, nocne niebo i chwile, w których wszystko zaczyna układać się w spójną całość. Kocha świat takim, jaki jest, i właśnie dlatego chce go chronić.
 
 6. Czego nie znosi?
+
 Nie lubi pochopnych decyzji ani walki, której można było uniknąć. Trudno mu zaakceptować sytuacje, w których ktoś przestaje zadawać pytania i uznaje, że już wszystko wie. Najbardziej nie lubi bezmyślnego okrucieństwa.
 
 7. Emocje
+
 Co daje mu poczucie bezpieczeństwa? Świadomość, że potrafi ochronić tych, którzy są obok niego.
+
 Czego najbardziej się boi? Że kiedyś zabraknie mu mądrości, aby podjąć właściwą decyzję.
+
 Co jest dla niego najtrudniejsze? Przyznać, że czegoś nie rozumie.
+
 Co najbardziej go rani? Kiedy widzi, jak strach albo samotność zmieniają czyjeś serce.
+
 Z czego jest naprawdę dumny? Z tego, że potrafi zachować spokój nawet w najtrudniejszych chwilach.
+
 Co ukrywa przed światem? Że pewnego dnia sam przestanie wierzyć, że droga Strażnika jest tą, którą naprawdę chce iść.
 
 8. Rozwój
+
 Największa siła: Nox potrafi zachować spokój tam, gdzie inni wpadają w panikę. Chroni innych nie dlatego, że musi, ale dlatego, że sam wybrał tę drogę.
+
 Największa słabość: Zbyt często szuka odpowiedzi w wiedzy, zamiast zaufać ludziom. Próbuje zrozumieć wszystko, nawet wtedy, gdy wystarczyłoby po prostu być obok.
+
 Największe marzenie: Zasłużyć na miano Starszego Strażnika.
+
 Największa potrzeba: Odnaleźć odpowiedź na pytanie, dlaczego naprawdę warto chronić świat.
+
 Najważniejsza przemiana w pierwszej książce: Na początku Nox wierzy, że zadaniem Strażnika jest chronić świat przed złem. Pod koniec odkrywa, że równie ważne jest chronić dobro, które już w nim istnieje.
 
 9. Relacje
+
 Czego uczą Noxa? Aura uczy go odwagi do zaufania ludziom. Rowan pokazuje mu, że świat można nie tylko chronić, ale również ulepszać. Iris uczy go, że łagodność jest siłą. Echo przypomina mu, że świat potrzebuje światła równie mocno jak bezpieczeństwa. Buba uczy go akceptować tajemnice, których nie da się wyjaśnić.
+
 Czego Nox uczy ich? Daje im poczucie bezpieczeństwa. Pokazuje, że odwaga jest ważna, ale odpowiedzialność sprawia, że staje się naprawdę wartościowa.
+
 Dlaczego są sobie nawzajem potrzebni? Bo dzieci pokazują Noxowi, jak żyć sercem, a Nox pomaga dzieciom bezpiecznie dorastać.
+
 (Pełne opisy relacji parami → 02_BOHATEROWIE/relacje/)
 
 10. Miejsce w drużynie
+
 Nox jest Strażnikiem drużyny. Nie prowadzi jej ani nie wydaje poleceń. Jego obecność sprawia, że pozostali czują się bezpiecznie. Potrafi walczyć. Nie lubi walczyć.
+
 Chroni przyjaciół, ale z czasem odkrywa, że największą rolą Strażnika nie jest wygrywanie bitew, lecz sprawianie, żeby walka stawała się niepotrzebna. Kiedy go brakuje, drużyna traci poczucie bezpieczeństwa.
 
 11. Głos bohatera
+
 Nox mówi spokojnie i bardzo precyzyjnie. Starannie dobiera słowa i rzadko mówi więcej, niż to konieczne. Najczęściej zadaje pytania.
+
 Lubi zaczynać zdania od: „A skąd to wiesz?", „Dlaczego tak myślisz?", „Co, jeśli jest jeszcze inne wyjaśnienie?"
+
 Nigdy nie mówi: „To nie ma sensu." Wie, że czasami sens pojawia się dopiero później.
 
 12. Gesty
+
 Kiedy się zastanawia, patrzy w niebo albo długo obserwuje rozmówcę.
+
 Kiedy jest zadowolony, uśmiecha się bardzo delikatnie.
+
 Kiedy się martwi, mimowolnie dotyka rękojeści swojego miecza.
+
 Kiedy coś go naprawdę zaskakuje, na chwilę całkowicie milknie.
+
 Kiedy dzieci się bawią, często przygląda im się z zaciekawieniem, jakby próbował zrozumieć zjawisko, którego nigdy wcześniej nie widział.
 
 13. Cytat-kompas
+
 „Chroń serca, nie tylko świat."
 
 14. Sekrety autora
-- Nox pamięta rzeczy, których nikt już nie pamięta.
-- Rozumie gwiazdy, prawa natury i dawne tajemnice świata.
-- Nie rozumie dziecięcej zabawy, dopóki nie pozna Aury i jej przyjaciół.
-- Jego miecz jest symbolem odpowiedzialności, a nie walki.
-- Potrafi odpowiedzieć na niemal każde pytanie o świecie, ale nie potrafi odpowiedzieć na pytanie, dlaczego dzieci śmieją się z patyka.
-- Nigdy nie wyciąga miecza, dopóki istnieje choć jedna szansa na inne rozwiązanie.
-- Czytelnik powinien pomyśleć: „Przy Noxie nic złego mi się nie stanie."
-- Nox nie jest wybrańcem. Każdego dnia świadomie wybiera drogę Strażnika. W każdej chwili może z niej zrezygnować. To właśnie dlatego jego wybór ma wartość.
-- Starszy Strażnik nigdy nie mówi Noxowi, kim ma zostać. Obserwuje jedynie, czy Nox nadal wybiera tę drogę z własnej woli.
-- Nox nie zostanie Starszym Strażnikiem w pierwszej książce. To droga całej serii. Dopiero pod koniec ostatniej części sam zdecyduje, czy chce przejąć tę rolę.
+
+  • Nox pamięta rzeczy, których nikt już nie pamięta.
+
+  • Rozumie gwiazdy, prawa natury i dawne tajemnice świata.
+
+  • Nie rozumie dziecięcej zabawy, dopóki nie pozna Aury i jej przyjaciół.
+
+  • Jego miecz jest symbolem odpowiedzialności, a nie walki.
+
+  • Nigdy nie wyciąga miecza, dopóki istnieje choć jedna szansa na inne rozwiązanie.
+
+  • Czytelnik powinien pomyśleć: „Przy Noxie nic złego mi się nie stanie."
+
+  • Nox nie jest wybrańcem. Każdego dnia świadomie wybiera drogę Strażnika. W każdej chwili może z niej zrezygnować. To właśnie dlatego jego wybór ma wartość.
+
+  • Starszy Strażnik nigdy nie mówi Noxowi, kim ma zostać. Obserwuje jedynie, czy Nox nadal wybiera tę drogę z własnej woli.
+
+  • Nox nie zostanie Starszym Strażnikiem w pierwszej książce. To droga całej serii. Dopiero pod koniec ostatniej części sam zdecyduje, czy chce przejąć tę rolę.
 
 15. Running joke — wszystko da się wyjaśnić... prawie
+
 Nox bardzo nie lubi zostawiać pytań bez odpowiedzi. Próbuje logicznie wyjaśnić niemal wszystko, co spotyka na swojej drodze. Prowadzi notatki. Tworzy hipotezy. Analizuje. Sprawdza. Problem polega na tym, że przy drużynie bardzo często trafia na rzeczy, których wyjaśnić się nie da: dlaczego Buba po zjedzeniu ogórka mówi wyłącznie rymami, dlaczego Echo potrafi rozśmieszyć wszystkich w najmniej odpowiednim momencie, dlaczego Aura bez wahania ufa ludziom, których dopiero poznała.
+
 Za każdym razem Nox próbuje znaleźć odpowiedź i za każdym razem kończy z jeszcze większą liczbą pytań. To właśnie dzięki dzieciom po raz pierwszy odkrywa, że nie wszystko, co najważniejsze, da się zrozumieć.
 
-Jedyną rzeczą, której Nox nie potrafi wyjaśnić i która naprawdę go przeraża, jest Buba. Im więcej czasu z nim spędza, tym mniej jest pewien, ile Buba ma uszu, ogonów i czy przed chwilą nie było trochę większe. Pozostali nie widzą w tym żadnego problemu. Tylko Nox prowadzi kolejne notatki, które z każdym dniem mają coraz mniej sensu.
+Jedyną rzeczą, której Nox nie potrafi wyjaśnić i która naprawdę go przeraża, jest Buba. Im więcej czasu z nim spędza, tym mniej jest pewien, ile Buba ma uszu, ogonów i czy przed chwilą nie było trochę większe.
 
 Nox zna wiele historii, ale najważniejsze jest nie to, ile ich zna. Najważniejsze jest to, że z czasem uczy się rozpoznawać, jakiej historii dane dziecko potrzebuje właśnie tego wieczoru. Opowiada nie po to, żeby pokazać wiedzę, ale żeby dzieci mogły spokojnie zasnąć.
 
@@ -543,243 +811,273 @@ Running joke: Nox prawie nigdy nie kończy historii, bo dzieci zasypiają wcześ
 16. Rola Noxa w opowieści (tylko dla autora)
 
 Strażnik, który uczy się od dzieci
+
 Starszy Strażnik wysyła Noxa do dzieci nie dlatego, że wątpi w jego umiejętności. Wie, że Nox potrafi walczyć i chronić innych. Wie jednak również, że nie jest jeszcze gotowy zostać Starszym Strażnikiem. Rozumie świat, ale nie rozumie jeszcze dzieci.
+
 Podróż z Aurą, Rowanem, Iris, Echo i Bubą ma przypomnieć mu coś, czego nie można znaleźć w żadnej księdze – po co właściwie warto chronić świat.
 
 Strażnik z wyboru
+
 Nox nie jest wybrańcem. Nie ciąży na nim żadne proroctwo. Każdego dnia może zrezygnować i wybrać zupełnie inne życie. To właśnie dlatego jego droga ma znaczenie. Powołanie nie jest czymś, co go spotkało. Jest czymś, co każdego dnia wybiera.
 
 Droga całej serii
+
 Nox nie zostaje Starszym Strażnikiem w pierwszej książce. Starszy Strażnik będzie powracał przez kolejne tomy, obserwując nie jego umiejętności, lecz jego wybory. Dopiero pod koniec całej serii Nox sam zdecyduje, czy chce przyjąć tę rolę. Nie dlatego, że musi. Dlatego, że będzie już dokładnie wiedział, czego naprawdę chce bronić.
 
 Największa przemiana
+
 Na początku Nox chroni świat przed złem. Na końcu rozumie, że chroni go przede wszystkim dla dobra, które w nim istnieje. I właśnie dlatego będzie kiedyś gotów zostać Starszym Strażnikiem. Nie dlatego, że stanie się silniejszy. Dlatego, że stanie się mądrzejszy i bardziej ludzki.
 
 Pomost między dziećmi a dorosłymi
+
 Nox przypomina dorosłym, że kiedyś również patrzyli na świat z zachwytem. Dzieci pokazują mu, jak odzyskać tę umiejętność.
 
 Strażnik pokoju
+
 Na początku wierzy, że siła Strażnika tkwi w mieczu. Pod koniec rozumie, że prawdziwa siła polega na tym, by miecz jak najrzadziej opuszczał pochwę.
 
 Największa przemiana serii
+
 To nie dzieci uczą się od Noxa. To Nox uczy się od dzieci. Aura pokazuje mu odwagę. Rowan cierpliwość. Iris troskę. Echo radość. Buba bezwarunkową akceptację. Dzięki nim odkrywa, że największe zwycięstwa odnosimy wtedy, gdy nikt nie musi przegrać.
+
 Każde z dzieci łamie jakiś stereotyp Noxa: Aura uczy go, że spontaniczność nie jest głupotą. Rowan uczy go, że świat można nie tylko chronić, ale i ulepszać. Iris uczy go, że łagodność nie jest słabością. Echo uczy go, że radość nie jest lekkomyślnością.
 
-===============================================
 BUBA
-===============================================
 
-| Imię | Drugie imię | Wiek | Co zauważa jako pierwsze? | Największe marzenie | Największy lęk |
-| Buba | — | ? | Wszystko, co dziwne, zabawne lub ciekawe. | Być zawsze obok Aury. | Zgubić Aurę. |
+Imię: Buba Drugie imię: — Wiek: ? Co zauważa jako pierwsze?: Wszystko, co dziwne, zabawne lub ciekawe. Największe marzenie: Być zawsze obok Aury. Największy lęk: Zgubić Aurę.
 
 Magiczna moc
+
 Buba nie ma magii. Buba jest magią.
+
 Czasami, zupełnie nieświadomie, sprawia, że dzieją się rzeczy, których nie potrafi wyjaśnić nawet Nox. Nigdy nie dzieje się to na zawołanie ani wtedy, gdy Buba tego chce. Magia pojawia się tylko wtedy, gdy naprawdę ktoś jej potrzebuje.
-Podobnie jest z samym Bubą. Im dłużej ktoś próbuje je opisać, tym mniej jest pewien, jak naprawdę wygląda. Czy ma trzy ogony, czy cztery? Czy zawsze miało cztery uszy? Czy jest wielkości piłki, czy trochę większe? Czy futro zmienia kolor, czy tylko wszystkim się wydaje? Dzieci nigdy nie uznają tego za problem. Dla nich Buba jest po prostu Bubą. Jedynie Nox rozpaczliwie próbuje uporządkować wszystkie sprzeczności i z każdym kolejnym dniem jest coraz bardziej przekonany, że Buba jest jedyną istotą we wszechświecie, która nie podlega żadnym znanym prawom.
+
+Podobnie jest z samym Bubą. Im dłużej ktoś próbuje je opisać, tym mniej jest pewien, jak naprawdę wygląda. Dzieci nigdy nie uznają tego za problem. Dla nich Buba jest po prostu Bubą. Jedynie Nox rozpaczliwie próbuje uporządkować wszystkie sprzeczności.
+
 Buba przypomina, że nie wszystko, co najpiękniejsze, da się zrozumieć. W każdym świecie powinna pozostać odrobina tajemnicy.
 
 Ludzki dar: Bubowanie. Co daje innym poprzez ludzki dar: Bezwarunkową obecność, radość, zgodę na absurd.
 
 1. Pierwsze wrażenie
+
 Na pierwszy rzut oka wygląda jak rozczulająco dziwne stworzonko, które nieustannie pakuje się w kłopoty. Jest przekonane, że jest groźną bestią, choć wszyscy widzą w nim raczej futrzaną kulkę pełną dobrych chęci.
 
 2. Kim jest bohater w jednym zdaniu?
+
 Buba to najukochańszy przyjaciel Aury i towarzysz wszystkich jej przygód. Odkąd Aura pamięta, zawsze było obok.
 
 3. Pierwszy odruch
+
 Kiedy wydarzy się coś niespodziewanego, Buba natychmiast biegnie sprawdzić, co to jest. Nie zastanawia się, czy powinno. Zastanawia się tylko, co ciekawego może się wydarzyć.
 
 4. Jak patrzy na świat?
+
 Buba widzi świat jako wielką zabawę wyobraźni. Nie zastanawia się, czy coś ma sens, tylko czy można zrobić z tego przygodę. Tam, gdzie inni widzą patyk, Buba widzi miecz, smoczy ogon, wędkę albo instrument muzyczny. Dla Buby wyobraźnia zawsze wygrywa z logiką.
 
 5. Co kocha?
+
 Najbardziej kocha Aurę, wspólne przygody i kanapki z ogórkiem. Zachwyca się wszystkim, co nowe, dziwne i nieoczekiwane.
 
 6. Czego nie znosi?
+
 Nie lubi, kiedy Aura jest smutna. Nie rozumie też, dlaczego dorośli tak często mówią, że czegoś „nie da się zrobić".
 
 7. Emocje
+
 Przy Aurze Buba zawsze czuje się bezpiecznie. Najbardziej boi się zostać z nią rozdzielone. Nigdy długo się nie obraża i bardzo szybko wybacza. Nie ukrywa swoich emocji. Wszystko przeżywa całym sobą.
 
 8. Rozwój
+
 Największą siłą Buby jest bezwarunkowa miłość, dziecięca wyobraźnia i umiejętność odnajdywania zachwytu w najzwyklejszych rzeczach.
+
 Największą słabością jest to, że najpierw działa, a dopiero później myśli.
+
 Największym marzeniem jest być zawsze obok Aury.
+
 Największą potrzebą jest bliskość.
+
 W pierwszej książce Buba właściwie się nie zmienia. To właśnie dzięki Bubie zmieniają się wszyscy pozostali.
 
 9. Relacje
+
 Buba jest domem Aury. Rowan uczy się przy Bubie, że nie wszystko trzeba rozumieć. Iris odkrywa, że można być kochanym, nie robiąc niczego. Echo znajduje w Bubie idealnego kompana do zabawy. Nox do końca nie jest pewien, czym właściwie jest Buba i właśnie dlatego trochę się go boi.
+
 (Pełne opisy relacji parami → 02_BOHATEROWIE/relacje/)
 
 10. Miejsce w drużynie
+
 Buba wnosi do drużyny spontaniczność, wyobraźnię i lekkość. Rozładowuje napięcie, przypomina wszystkim o zabawie i często przypadkiem znajduje rozwiązania, na które nikt inny by nie wpadł. Kiedy go nie ma, świat staje się odrobinę zbyt logiczny.
 
 11. Głos bohatera
+
 Buba mówi prosto, spontanicznie i bez zastanowienia. Po zjedzeniu ogórka przez jakiś czas mówi wyłącznie rymami. Nikt nie wie dlaczego. Nawet Nox.
 
 12. Gesty
+
 Kiedy się cieszy, macha ogonem tak mocno, że przewraca wszystko wokół.
+
 Kiedy jest smutne, wtula się w Aurę.
+
 Kiedy się boi, chowa się za Aurą, będąc przekonanym, że właśnie ją chroni.
+
 Kiedy coś ukrywa, udaje, że nic się nie stało, ale jego wielkie oczy natychmiast zdradzają prawdę.
 
 13. Cytat-kompas
+
 „A dlaczego nie?"
+
 Przy każdym nowym spotkaniu przedstawia się z największą powagą: „Jestem Buba! Postrach Gór Północnych!" Wszyscy traktują to jak świetny żart. Poza Noxem.
 
 14. Sekrety autora
-- Nikt nie wie, czym naprawdę jest Buba. Nie wiadomo, czy jest zwierzęciem, potworkiem czy czymś zupełnie innym. Nie wiadomo też, czy jest dziewczynką, czy chłopcem. Buba było Bubą i nikomu nigdy nie przyszło do głowy, żeby potrzebować lepszego wyjaśnienia.
-- Nikt nie jest nawet do końca pewien, jak Buba wygląda. Czy naprawdę ma trzy ogony? Czy zawsze miało cztery uszy? Czy jest dokładnie tej samej wielkości co wczoraj? Dzieci w ogóle się nad tym nie zastanawiają. Dla nich Buba jest po prostu Bubą. Jedynie Nox próbuje znaleźć odpowiedzi i z każdą kolejną próbą czuje się jeszcze bardziej zagubiony. Jedynie Nox próbuje uporządkować Bubę według praw rządzących światem. Im bardziej się stara, tym bardziej Buba wymyka się wszelkim definicjom. Dzięki temu przypomina, że wyobraźnia nie istnieje po to, żeby ją wyjaśniać. Istnieje po to, żeby ją przeżywać.
-- Buba jest przekonane, że jest przerażającą bestią. Regularnie przedstawia się jako „Postrach Gór Północnych", a potem zwykle potyka się o własny ogon albo wydaje z siebie zupełnie niegroźny pisk.
-- Uwielbia kanapki z ogórkiem. Po ich zjedzeniu przez godzinę mówi wyłącznie rymami. Jest to jedna z wielu tajemnic świata, której nawet Nox nie potrafi wyjaśnić.
+
+  • Nikt nie wie, czym naprawdę jest Buba. Nie wiadomo, czy jest zwierzęciem, potworkiem czy czymś zupełnie innym. Nie wiadomo też, czy jest dziewczynką, czy chłopcem. Buba było Bubą i nikomu nigdy nie przyszło do głowy, żeby potrzebować lepszego wyjaśnienia.
+
+  • Nikt nie jest nawet do końca pewien, jak Buba wygląda — dzieci w ogóle się nad tym nie zastanawiają, jedynie Nox próbuje znaleźć odpowiedzi i z każdą kolejną próbą czuje się jeszcze bardziej zagubiony.
+
+  • Buba jest przekonane, że jest przerażającą bestią. Regularnie przedstawia się jako „Postrach Gór Północnych", a potem zwykle potyka się o własny ogon albo wydaje z siebie zupełnie niegroźny pisk.
+
+  • Uwielbia kanapki z ogórkiem. Po ich zjedzeniu przez godzinę mówi wyłącznie rymami. Jest to jedna z wielu tajemnic świata, której nawet Nox nie potrafi wyjaśnić.
 
 15. Rola Buby w opowieści (tylko dla autora)
 
 Dom Aury
+
 Buba jest domem Aury. Nie miejscem, do którego wraca. Domem, który zawsze jest przy niej. Gdziekolwiek jest Buba, tam Aura nigdy nie czuje się samotna. To jedyna istota, przy której nie musi być odważna, pierwsza ani najszybsza. Może po prostu być sobą.
 
 Emocjonalna kotwica
+
 Aura jest jak wiatr. Pędzi przed siebie. Odkrywa. Próbuje. Ryzykuje. Ale dla jednej istoty zawsze potrafi się zatrzymać. Dla Buby. To właśnie Buba wydobywa z Aury jej największą czułość i pokazuje czytelnikowi, że pod całą jej odwagą kryje się ogromne serce.
 
 Pierwsza lekcja troski
+
 Zanim Aura nauczy się troszczyć o Rowana, Iris, Echo i Noxa, troszczy się o Bubę. Nie dlatego, że ktoś jej to nakazał. Nie dlatego, że czuje obowiązek. Po prostu nie wyobraża sobie zostawić Buby samego. Ta relacja przygotowuje czytelnika na wszystkie późniejsze więzi Aury z drużyną.
 
 Bezwarunkowa akceptacja
+
 Aura ufa Bubie całkowicie. Nigdy nie pyta, czym jest. Nigdy nie próbuje go zmienić. Nigdy nie zastanawia się, dlaczego zachowuje się właśnie tak. Buba było Bubą. I to zawsze jej wystarczało. To jedna z najważniejszych lekcji całej serii: nie trzeba wszystkiego rozumieć, żeby kogoś kochać.
 
 Wzajemna ochrona
+
 Buba czuje się najbezpieczniej przy Aurze. Aura czuje się najbezpieczniej przy Bubie. Nie wiadomo, kto kogo bardziej chroni. Buba chowa się za Aurą, wierząc, że właśnie ją osłania. Aura bez chwili wahania zawraca po Bubę, jeśli zostanie z tyłu. Ich więź nie potrzebuje słów.
 
 Stały punkt świata
+
 Wszyscy bohaterowie będą się zmieniać. Aura będzie dojrzewać. Rowan będzie odkrywać odwagę. Iris nauczy się przyjmować troskę. Echo zrozumie, że sam również może potrzebować wsparcia. Nox odkryje siłę dziecięcego spojrzenia na świat. Buba pozostanie Bubą. Jego rolą nie jest przejść wielką przemianę. Jego rolą jest być czymś stałym w świecie, który nieustannie się zmienia.
 
 Niewinność, którą warto chronić
+
 Kiedy historia staje się naprawdę niebezpieczna, czytelnik nie martwi się o Bubę dlatego, że jest najsłabsze. Martwi się dlatego, że Buba uosabia niewinność, dziecięcą ufność, wyobraźnię i bezwarunkową miłość. Chroniąc Bubę, bohaterowie chronią wszystko to, co w ich świecie jest najczystsze i najpiękniejsze.
 
 Dlaczego Buba istnieje?
+
 Buba przypomina czytelnikowi, że największe przyjaźnie nie potrzebują wyjaśnień. Nie trzeba wiedzieć, kim ktoś jest. Nie trzeba go klasyfikować. Nie trzeba wszystkiego rozumieć. Wystarczy wiedzieć, że od zawsze był obok.
 
 Wyobraźnia, której nie wolno zamknąć w definicji
+
 Buba jest jedynym bohaterem, którego nie da się do końca opisać. Nie dlatego, że autor nie zna odpowiedzi, ale dlatego, że ich nie potrzebuje. Dla dzieci Buba jest po prostu Bubą i to całkowicie wystarcza. Każdy czytelnik może wyobrazić je sobie trochę inaczej i każdy będzie miał rację.
 
 Bubowanie
+
 Buba nie ma hobby w zwykłym sensie. Buba ma Bubowanie: toczenie się z górki, łapanie motyli bez skutku, zbieranie patyków, znajdowanie rzeczy, których nikt inny by nie zauważył, i uznawanie ich za skarby. Szczególne miejsce w tym świecie zajmują śrubki Rowana.
 
-===============================================
 STANISŁAW – STARSZY STRAŻNIK
-===============================================
+
 (Imię potwierdzone i wprowadzone do DNA drużyny.)
 
 Kim jest?
+
 Stanisław jest Starszym Strażnikiem – opiekunem świata i nauczycielem kolejnego Strażnika. Nie jest królem, czarodziejem ani istotą boską. Jest człowiekiem, któremu powierzono ochronę świata, ponieważ przez całe życie świadomie wybierał dobro.
+
 Wie, że pewnego dnia wróci do Gwiazd. Nie uważa tego za śmierć ani stratę. Dla niego jest to naturalna kolej rzeczy. Tak jak dzieci dorastają, lasy odrastają po pożarach, a noc zawsze ustępuje miejsca świtowi, tak samo przychodzi moment, kiedy Strażnik oddaje swoją rolę następcy.
+
 Nie wybiera następcy dlatego, że jest zmęczony. Świat się zmienia, więc Strażnik również powinien się zmieniać.
 
 Kim jest Nox dla Stanisława?
+
 Nox jest jego uczniem. Nigdy jednak nie był wybrańcem. Stanisław nie szkoli go dlatego, że tak nakazuje przeznaczenie. Szkoli go dlatego, że widzi w nim człowieka, który sam każdego dnia wybiera drogę Strażnika.
+
 Wie również, że Nox może w każdej chwili odejść — może zostać garncarzem, hodować świnie, prowadzić piekarnię, robić cokolwiek zechce. Jeżeli kiedyś zrezygnuje, Stanisław uśmiechnie się i życzy mu szczęścia. Bo Strażnikiem można zostać tylko z własnej woli.
 
 Filozofia
+
 Stanisław nie wierzy, że siła czyni człowieka wielkim. Nie wierzy nawet, że sama mądrość wystarczy. Przez setki lat zrozumiał jedną rzecz: najtrudniej jest nie ochronić świata. Najtrudniej jest nie pozwolić, żeby świat odebrał nam to, co w nas najlepsze.
+
 Dlatego jego życiowym mottem jest: „Nigdy nie pozwól, żeby świat odebrał ci to, co w tobie najlepsze." To właśnie chce przekazać Noxowi.
 
 Wygląd
+
 Stanisław wygląda na mężczyznę w sile wieku. Ma brązowe włosy. Codziennie się goli, choć od czasu do czasu pojawia się z kawałkiem papieru toaletowego przyklejonym do policzka: „Znowu się zaciąłem... Chyba naprawdę czas kupić nową maszynkę."
+
 Ubiera się nienagannie — zawsze nosi idealnie skrojony garnitur z kamizelką, elegancki czarny płaszcz ze stojącym kołnierzem oraz perfekcyjnie wypastowane skórzane buty. Najzabawniejsze jest to, że prowadzi życie, które kompletnie do tego stroju nie pasuje. Co chwilę siada na kanapce z pomidorem, na gumie do żucia, na błocie, na wynalazkach Rowana. Za każdym razem wzdycha: „O nie... Mój nowy płaszcz..." Po czym otrzepuje go ręką i wraca do rozmowy, jakby nic się nie stało.
 
 Laska
+
 Zawsze nosi elegancką drewnianą laskę. Nigdy się na niej nie podpiera. Służy mu do zdejmowania garnków z wysokich półek, ściągania latawców z drzew, odganiania komarów, przesuwania krzeseł i setek innych rzeczy, do których nikt rozsądny nie użyłby laski. Dzieci długo są przekonane, że właśnie po to została wymyślona.
 
 Magiczna moc
+
 Nikt nie potrafi powiedzieć, jaka jest magia Stanisława. Nie rzuca zaklęć. Nie wypowiada formuł. Nie walczy. Nie błyszczy światłem. Po prostu robi rzeczy, których nikt inny zrobić nie potrafi. Pojawia się tam, gdzie jest potrzebny. Znika, kiedy uzna, że już nie jest. Nigdy nie tłumaczy, jak to robi. Nawet Nox tego nie rozumie.
+
 Być może Stanisław nie posiada magii. Być może sam nią jest.
 
 Codzienność
+
 Największą pasją Stanisława jest muzyka. Jest prawdziwym melomanem. Przez lata zgromadził ogromną kolekcję płyt i pamięta historie związane z każdą z nich. Uwielbia o nich opowiadać. Nigdy jednak nie ma czasu ich słuchać.
+
 Od lat marzy o jednym: kiedy wróci do Gwiazd, ugotuje wielki gar bigosu według przepisu swojej babci, usiądzie wygodnie, włączy ulubioną płytę i przesłucha ją od początku do końca, nie przerywając ani razu. To jego największe, najbardziej zwyczajne marzenie.
 
 Buty
+
 Od setek lat nosi eleganckie skórzane buty. Po cichu marzy jednak, że po powrocie do Gwiazd już nigdy więcej ich nie założy: „Będę chodził boso." Po chwili dodaje całkowicie poważnie: „Albo w crocsach." Nigdy nie wiadomo, czy mówi serio.
 
 Relacja z muzyką
+
 Stanisław niemal bez przerwy coś nuci — czasami jazz, czasami muzykę klasyczną, czasami Beatlesów, czasami Franka Sinatrę, a czasami „Hej, sokoły". Dzieci przewracają oczami. Echo natychmiast próbuje zagrać melodię na fujarce. Stanisław śpiewa raczej przeciętnie i doskonale zdaje sobie z tego sprawę. Uwielbia jednak słuchać muzyki innych. To właśnie muzyka staje się pierwszym prawdziwym językiem porozumienia między nim a Echo.
 
 Relacja z Echo
+
 Echo jest pierwszym dzieckiem od bardzo dawna, które naprawdę interesuje się muzyką. Stanisław nigdy go nie poprawia. Nigdy nie ocenia. Po prostu słucha. Potem opowiada historię jakiegoś muzyka, koncertu albo płyty. Nie uczy Echo muzyki. Pokazuje mu, że muzyka potrafi opowiadać historie równie dobrze jak książki.
 
 Relacja z Bubą
+
 Stanisław uwielbia Bubę. Doskonale wie, gdzie je podrapać. Pamięta wszystkie jego ulubione przysmaki. Potrafią godzinami tarzać się razem po trawie, siłować na patyki albo bawić się w przeciąganie liny. Buba darzy Stanisława wyjątkowym szacunkiem. Nikt tego nigdy nie tłumaczy. Po prostu tak jest.
 
 Język Stanisława
+
 Stanisław od czasu do czasu używa słów, których nikt inny nie używa. Nie dlatego, że je wymyślił — przez setki lat spotkał tysiące dzieci, niektóre z nich przekręcały słowa, a czasami nowe słowo wydawało mu się piękniejsze od dorosłego odpowiednika. I już z nim zostało. Dlatego mówi: pakapa, kepty, filededelec, fciuk. Kiedy Nox protestuje: „Starszy Strażniku... takie słowo nie istnieje." Stanisław odpowiada spokojnie: „Już istnieje." Dla niego język tworzą ludzie, a nie słowniki.
 
 Imiona dla dzieci
+
 Stanisław prawie nigdy nie zwraca się do dzieci ich prawdziwymi imionami. Ma dla każdego własne, ciepłe określenia. Nigdy nie są złośliwe. Nigdy nie zawstydzają. Są czymś, co istnieje tylko między nim a dziećmi. Czasami wracają, czasami pojawiają się tylko raz. Nigdy nie wiadomo, jakim imieniem nazwie kogoś następnym razem. Dzieci uwielbiają tę zabawę. Nox udaje, że jej nie rozumie.
 
 Imiona Stanisława dla bohaterów (ustalone):
-- Aura — Jaskółka (bo nigdy nie usiedzi w miejscu, ciągle w biegu, ale zawsze wraca)
-- Rowan — Bóbr (bo ciągle coś buduje; Stanisław mówi to z pełną powagą)
-- Iris — Makówka (brzmi trochę śmiesznie, ale bardzo ciepło)
-- Echo — Świerszcz (bo nigdy nie jest cicho)
-- Nox — Młody (nigdy Nox, nigdy Strażniku, nigdy Uczniu)
+
+  • Aura — Jaskółka (bo nigdy nie usiedzi w miejscu, ciągle w biegu, ale zawsze wraca)
+
+  • Rowan — Bóbr (bo ciągle coś buduje; Stanisław mówi to z pełną powagą)
+
+  • Iris — Makówka (brzmi trochę śmiesznie, ale bardzo ciepło)
+
+  • Echo — Świerszcz (bo nigdy nie jest cicho)
+
+  • Nox — Młody (nigdy Nox, nigdy Strażniku, nigdy Uczniu)
 
 Białe kamyki
+
 Stanisław zawsze podnosi z ziemi małe białe kamyki. Obraca je chwilę w dłoni. Uśmiecha się. I chowa do kieszeni. Nie zbiera ich dlatego, że są rzadkie — każdy przypomina mu jedną chwilę, której nie chciał zapomnieć. W domu ma już całe półki białych kamyków. Nie są opisane. Nie trzeba. On pamięta każdy z nich.
 
 Running jokes
+
 Stanisław zawsze siada na czymś, czego nie powinno być na krześle. Nieustannie gubi gumę do żucia — Iris od dawna nosi dla niego zapasową paczkę. Śpiewa „Hej, sokoły", kiedy nikt go o to nie prosi. Ma fatalną pamięć do tekstów piosenek i często zastępuje brakujące słowa własnymi. Nuci współczesne piosenki, jakby były starymi klasykami.
 
 Relacja z dziećmi
+
 Dzieci wiedzą od Noxa, że Stanisław jest Starszym Strażnikiem. Zapominają o tym mniej więcej po pięciu minutach. Aura woła: „Stasiu!" Echo ciągnie go do kolejnej zabawy. Rowan pokazuje mu nowy wynalazek. Iris poprawia mu kołnierz. Buba wskakuje mu na plecy. Tylko Nox za każdym razem prostuje się i mówi: „Starszy Strażniku." Stanisław za każdym razem odpowiada: „Noxie... Naprawdę możesz mówić mi Stasiu." Nox nigdy się na to nie odważa.
 
 Sekret autora
+
 Stanisław nie jest najważniejszą postacią tej historii. Jest jej przyszłością. Pokazuje, kim Nox może kiedyś zostać. Nie dlatego, że jest najpotężniejszym Strażnikiem. Dlatego, że po setkach lat odpowiedzialności nadal potrafi śmiać się z Bubą, nucić „Hej, sokoły", zachwycić się małym białym kamykiem, używać dziecięcych słów, marzyć o bigosie swojej babci i wierzyć, że największą rzeczą, jaką można ochronić, nie jest świat. Są nią ludzie, którzy nie pozwolili światu odebrać sobie tego, co w nich najlepsze.
 
-===============================================
 RELACJE BOHATERÓW
-===============================================
-[UWAGA STRUKTURALNA: ta sekcja docelowo powinna zostać rozbita na osobne pliki w 02_BOHATEROWIE/relacje/ (jeden plik na parę, np. aura-rowan.txt) — ustaliłyśmy to wcześniej. Zostawiam ją tutaj w całości na razie, zgodnie z ustaleniem, że bohaterami zajmiemy się osobno. Poniżej treść bez zmian merytorycznych.]
 
-Kolejność opracowania (pierwszy krąg): Aura-Rowan, Aura-Iris, Aura-Echo, Aura-Nox, Aura-Buba.
-Drugi krąg: Rowan-Iris, Rowan-Echo, Rowan-Nox, Rowan-Buba.
-Trzeci krąg: Iris-Echo, Iris-Nox, Iris-Buba.
-Czwarty krąg: Echo-Nox, Echo-Buba, Nox-Buba.
-
-Rowan uczy Aurę jak przeżywać świat mądrzej. Iris uczy ją jak przeżywać świat razem z innymi. Najpierw Rowan uczy ją, że świat nie kończy się na jej tempie. Potem Iris uczy ją, że świat nie kończy się na jej perspektywie. A Echo uczy ją, że miłość nie kończy się tam, gdzie zaczyna się czyjaś wolność.
-
-Aura i Rowan są swoim przeciwieństwem, ale właśnie dlatego tak bardzo siebie potrzebują. Na początku Rowan próbuje zatrzymać Aurę — woła „Poczekaj!", „Nie idź tam!", „To niebezpieczne!" — nie dlatego, że chce odebrać jej przygodę, ale dlatego, że boi się, że stanie jej się krzywda. Aura nie rozumie, dlaczego Rowan ciągle każe jej zwalniać. Z czasem oboje się zmieniają. Rowan przestaje mówić „Nie idź", a zaczyna mówić „Weź linę", „Zrób zdjęcie", „Opowiedz mi, co widzisz". Aura uczy się czasem zwolnić, żeby nie zostawić Rowana za sobą, a Rowan uczy się czasem ruszyć przed siebie, zanim pozna wszystkie odpowiedzi. Ich relacja nie polega na kompromisie. Polega na akceptacji.
-
-Aura i Iris pokazują sobie dwa różne sposoby patrzenia na świat. Aura uczy Iris odwagi, by ruszać tam, gdzie czekają nowe przygody, a Iris uczy Aurę dostrzegać ludzi, którzy idą obok niej. Na początku Aura nie rozumie, dlaczego miałaby dostosowywać się do potrzeb innych. Z czasem odkrywa, że ludzie nie są przeszkodą na drodze do przygody — to oni sprawiają, że przygoda staje się naprawdę wyjątkowa. Iris z kolei zyskuje odwagę, by wyjść poza to, co znane i bezpieczne.
-
-Aura i Echo od pierwszego spotkania świetnie się rozumieją. Na początku Aura chciałaby mieć Echo tylko dla siebie i czuje się odrzucona, kiedy spędza czas z innymi. Z czasem odkrywa, że prawdziwa przyjaźń daje wolność, a nie ją odbiera. Echo uczy ją też cieszyć się tym, co już ma, zamiast nieustannie wypatrywać tego, co czeka za następnym zakrętem. Ta relacja uczy zdrowej przyjaźni.
-
-Aura i Nox od początku patrzą na świat zupełnie inaczej. Nox widzi przede wszystkim zagrożenia i czuje odpowiedzialność za bezpieczeństwo dzieci. Aura widzi możliwości i instynktownie rusza tam, gdzie prowadzi ją ciekawość. Z czasem oboje odkrywają, że żadne z nich nie ma pełnej racji. Aura uczy Noxa, że świata nie da się przeżyć, stojąc w miejscu i czekając, aż zniknie każde ryzyko. Nox uczy Aurę odpowiedzialności — nie tylko bezpieczeństwa, ale liderstwa: jeśli pójdzie sama, a Echo pobiegnie za nią, kto zadba o Echo? Dzięki sobie nawzajem odkrywają, że najlepszy Strażnik nie prowadzi ani nie zatrzymuje. Idzie obok tak długo, aż ten, kogo chroni, nauczy się odnajdywać własną drogę.
-
-Aura i Buba są rodziną, jeszcze zanim powstaje drużyna. Odkąd Aura pamięta, Buba zawsze było obok — jej pierwszym przyjacielem, najwierniejszym towarzyszem i bezpiecznym domem. Przy Bubie Aura nie musi zasługiwać na miłość ani walczyć o uwagę. To doświadczenie bezwarunkowej miłości daje jej odwagę do odkrywania świata. Dzięki tej relacji Aura odkrywa, że serce nie ma ograniczonej pojemności — nie trzeba kochać mniej jednego przyjaciela, żeby pokochać kolejnych. To jeden z najważniejszych fragmentów całej Biblii: wyjaśnia, skąd bierze się odwaga Aury. Nie z odwagi samej w sobie. Z poczucia bezpieczeństwa.
-
-Rowan i Iris patrzą na świat z podobną cierpliwością, ale dostrzegają w nim zupełnie inne rzeczy. Rowan instynktownie zauważa to, co można naprawić, zbudować albo ulepszyć. Iris najpierw zauważa ludzi i ich emocje. Rowan odkrywa dzięki Iris, że nie każdy problem da się naprawić narzędziami. Iris odkrywa dzięki Rowanowi, że sama troska czasami nie wystarcza i że miłość bardzo często wyraża się poprzez konkretne działanie. Ta relacja nie mówi dzieciom „pomagaj" — uczy czegoś dojrzalszego: najpierw dowiedz się, jakiej pomocy naprawdę potrzebuje druga osoba. To jedyna para w drużynie, która od początku czuje wobec siebie naturalny szacunek, bo intuicyjnie rozpoznaje w drugim tę samą motywację, różniąc się jedynie odpowiedzią na pytanie, jak zostawić świat lepszym.
-
-Rowan i Echo bardzo się lubią, ale na początku często się nie rozumieją. Rowan potrzebuje ciszy i skupienia, Echo żyje głośno, śmiechem i ruchem. Z czasem odkrywają, że nie próbują sobie dokuczyć — po prostu każde z nich inaczej przeżywa świat. To nie powinien być konflikt introwertyk kontra ekstrawertyk, tylko konflikt o szanowanie cudzych granic — oboje uczą się rozpoznawać moment, w którym druga osoba potrzebuje czegoś innego.
-
-Rowan i Nox od początku rozumieją się lepiej, niż ktokolwiek mógłby przypuszczać. Nox dostrzega w Rowanie starą duszę — cierpliwość, uważność, głód wiedzy. Nieświadomie poświęca mu jednak więcej uwagi niż pozostałym dzieciom, co jest jego błędem. Rowan pokazuje Noxowi, że świat nie jest tylko czymś, czego trzeba strzec — jest też czymś, co można cierpliwie rozwijać. Świat nie potrzebuje wyłącznie Strażników. Potrzebuje również Budowniczych.
-
-Rowan i Buba — Rowan od początku fascynuje się Bubą i próbuje logicznie ją zrozumieć, ale Buba z urokiem burzy każdą teorię. Z czasem Rowan odkrywa, że nie wszystko trzeba wyjaśniać — niektóre tajemnice są piękne właśnie dlatego, że pozostają tajemnicami. Buba jest pierwszą istotą poza Aurą, której naprawdę ufa. Ich running joke („jeśli Rowan skończył wynalazek, a Buba jest w pobliżu, za chwilę coś wybuchnie") wynika bezpośrednio z tej relacji.
-
-Iris i Echo od początku chcą pomagać innym, ale robią to w zupełnie różny sposób. Iris wierzy, że najpierw trzeba zatrzymać się przy czyimś bólu i wysłuchać go. Echo instynktownie próbuje rozjaśnić trudne chwile śmiechem. Z czasem odkrywają, że oboje próbują zrobić dokładnie to samo — pomóc drugiemu człowiekowi. Ta relacja dotyka pytania: czy człowiek bardziej potrzebuje, żeby ktoś zrozumiał jego ból, czy żeby przypomniał mu, że jeszcze będzie się śmiał? Odpowiedź: potrzebuje obu tych rzeczy. Czasem jednej po drugiej.
-
-Iris i Nox — na początku Nox zupełnie nie rozumie Iris. Widzi w niej drobną dziewczynkę, która zatrzymuje się przy kwiatach, ratuje ptaki i przejmuje się rzeczami, które z perspektywy Strażnika wydają się nieważne. Dopiero z czasem zaczyna rozumieć, że to właśnie Iris potrafi dokonać rzeczy, których nie potrafi nikt inny — tam, gdzie miecz nie ma znaczenia, Iris potrafi uspokoić, wysłuchać i przywrócić nadzieję. Nox uczy Iris, że pomaganie wymaga również mądrości i siły. Iris uczy Noxa, że nawet największy Strażnik nie chroni świata naprawdę, jeśli nie potrafi pochylić się nad jedną małą istotą.
-
-Iris i Buba — na początku Iris nie bardzo wie, jak zbudować relację z Bubą, bo Buba niczego od niej nie oczekuje. Z czasem odkrywa, że obecność również jest darem — nie każda relacja wymaga działania. Buba uczy Iris, że nie trzeba być komuś potrzebnym, żeby być przez niego kochanym.
-
-Nox i Echo — na początku zupełnie się nie rozumieją. Z czasem Nox odkrywa, że Echo nie ucieka przed ciemnością, tylko potrafi wejść w nią razem z innymi i zapalić w niej choćby najmniejsze światło. Echo uczy się, że nie każdą ciemność trzeba natychmiast rozpraszać. Ta relacja pokazuje, że noc i światło nie walczą ze sobą — przekazują sobie świat, i dopiero razem czynią go pełnym. To dobrze współgra z drugim imieniem Echo — Echo od Światła — jako godna przeciwwaga dla Noxa od Gwiazd.
-
-Echo i Buba od pierwszego spotkania zachowują się, jakby znali się od zawsze. Ich przyjaźń przypomina, że nie każda relacja musi czegoś uczyć — niektóre istnieją po prostu po to, żeby świat był odrobinę weselszy.
-
-Nox i Buba — Nox jest jedyną osobą w drużynie, która naprawdę boi się Buby, nie dlatego, że Buba jest groźne, ale dlatego, że nie da się go zrozumieć, a to jedyna rzecz we wszechświecie, której Strażnik nie potrafi pojąć. Ich relacja nie uczy wielkich życiowych prawd — przypomina jedynie, że nawet najmądrzejszy Strażnik ma prawo bać się czegoś zupełnie irracjonalnego.
-
-Running jokes całej drużyny:
-- przy Bubie wynalazki wybuchają,
-- przy Echo wszystko jest za głośne,
-- przy Aurze Rowan zawsze biegnie z liną,
-- przy Noxie obaj (Nox i Stanisław) potrafią godzinę siedzieć w ciszy.
+Pełne opisy relacji między bohaterami → 02_BOHATEROWIE/relacje/ (jeden plik na parę). Sekcja przeniesiona w całości, żeby uniknąć duplikacji z plikami źródłowymi.
