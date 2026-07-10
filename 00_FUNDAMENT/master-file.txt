@@ -1,123 +1,243 @@
-
 DOKUMENTACJA AUTORSKA
+
 Drużyna Strażników Iskry
+
 MASTER FILE v3.0
+
 Fundament projektu: filozofia, główne założenia świata i bohaterów oraz zasady, którym podporządkowane są wszystkie decyzje twórcze. Nie zawiera szczegółów wykonawczych — te znajdują się w dedykowanych plikach wskazanych w treści.
- Jeżeli w przyszłości pojawi się pomysł, który stoi w sprzeczności z poniższą wizją, zmieniamy pomysł, nie filozofię serii.
+
+Jeżeli w przyszłości pojawi się pomysł, który stoi w sprzeczności z poniższą wizją, zmieniamy pomysł, nie filozofię serii.
+
 Rozdział 1. Wizja serii
+
 1.1 Nasza misja
+
 Drużyna Strażników Iskry ma być serią książek, do których dzieci będą wracały nie dlatego, że uczą, ale dlatego, że pokochają świat i jego bohaterów.
+
 Naszym celem nie jest napisanie książki edukacyjnej ani poradnika ukrytego pod płaszczem przygody. Chcemy stworzyć pełnoprawną literaturę dziecięcą — ciepłą, mądrą, zabawną i pełną emocji. Rozwój dziecka ma być naturalnym skutkiem dobrej historii, a nie jej głównym celem.
+
 Najważniejsze pytanie, jakie będziemy sobie zadawać podczas pisania każdego rozdziału, brzmi: czy ten rozdział byłby równie dobry, gdyby usunąć z niego wszystkie elementy edukacyjne? Jeżeli odpowiedź brzmi „tak”, historia prowadzi czytelnika. Jeżeli „nie”, musimy wrócić do pisania.
+
 Historia zawsze jest ważniejsza od edukacji.
+
 1.2 Dla kogo tworzymy tę serię?
+
 Głównym czytelnikiem pierwszego tomu jest dziecko w wieku 8–9 lat. Kolejne tomy mogą być kierowane do starszych czytelników, wraz z rozwojem bohaterów i głębi tematów.
+
 Nie zakładamy minimalnego poziomu czytelniczego. Zakładamy ciekawość świata. Nie upraszczamy historii tylko dlatego, że odbiorca jest młody — szanujemy jego inteligencję, emocje i wyobraźnię.
+
 1.3 Jaką książkę chcemy stworzyć?
+
 Chcemy, aby po zakończeniu pierwszego tomu czytelnik tęsknił nie za kolejną zagadką, ale za Aurą, Bubą i pozostałymi bohaterami.
+
 Inspirują nas książki, które budują więź z czytelnikiem poprzez bohaterów i atmosferę, takie jak The Faraway Tree, książki Roalda Dahla, The Chronicles of Narnia czy Dom na Skraju Magii. Nie chcemy ich naśladować. Chcemy zrozumieć, dlaczego dzieci wracają do tych światów po latach, i stworzyć własny.
+
 1.4 Czym naprawdę jest ta historia?
+
 Na pierwszy rzut oka będzie to opowieść o niezwykłym świecie, Iskrze i grupie dzieci przeżywających przygody.
+
 Tak naprawdę będzie to historia o dorastaniu. O uczeniu się przyjaźni. O popełnianiu błędów. O wybaczaniu. O odwadze. O zazdrości. O samotności. O odkrywaniu własnych mocnych stron.
+
 Magia jest jedynie językiem, którym opowiadamy o emocjach. Supermoce nie wynikają z zaklęć ani przedmiotów. Rodzą się z charakteru i rozwijają wraz z bohaterami.
+
 1.5 Wspólne czytanie jest sercem projektu
+
 Drużyna Strażników Iskry nie jest książką pisaną do samodzielnego czytania przez dziecko. Jest pisana do czytania na głos, razem — przez rodzica i dziecko. To nie dodatek edukacyjny ani metoda nauki czytania ukryta w fabule. To jeden z fundamentów, na których zbudowana jest cała forma serii, równie ważny jak bohaterowie czy świat.
+
 Każdy Dzień dzieli się na część czytaną przez rodzica i część czytaną przez dziecko. Udział dziecka rośnie z rozdziału na rozdział, aż pod koniec tomu dziecko czyta większość tekstu samodzielnie. To narastanie nigdy nie jest nazwane wprost i nigdy nie ma wywoływać poczucia, że dziecko jest oceniane lub sprawdzane. Podział wynika naturalnie z tego, co się dzieje w historii, a nie z mechaniki nauki czytania nałożonej na fabułę z zewnątrz. Sposób, w jaki ten podział jest wpleciony w świat Iskry, nie tworzy hierarchii typu „starszy/młodszy” — rozwiązanie fabularne dla tego mechanizmu jest jeszcze do wypracowania.
+
 To pytanie zadajemy sobie przy pisaniu każdego Dnia równie wcześnie jak pytanie o to, co wydarzy się w bohaterze.
-Konkretna mechanika (proporcje, tempo narastania, sposób oznaczenia w tekście) → 03_KSIAZKA_1/Mechanika_czytania_naprzemiennego.
+
+Konkretna mechanika (proporcje, tempo narastania, sposób oznaczenia w tekście) → 03_MECHANIKA_KSIAZKI/mechanika-czytania-naprzemiennego.
+
 1.6 Rola Matyldy
+
 Seria powstaje we współpracy z dzieckiem. Matylda nie jest jedynie pierwszą czytelniczką. Jest współtwórczynią świata. Jej pomysły, pytania, sposób myślenia i poczucie humoru mają wpływ na ostateczny kształt historii.
+
 Jeżeli podczas pracy pojawi się wybór między rozwiązaniem „bardziej literackim” a rozwiązaniem, które autentycznie zachwyca dziecko, będziemy uważnie słuchać tego drugiego. To dzieci są najlepszymi przewodnikami po świecie dziecięcej wyobraźni.
+
 1.7 Nasza definicja sukcesu
+
 Nie mierzymy sukcesu liczbą sprzedanych egzemplarzy ani recenzji. Największym sukcesem będzie moment, w którym dziecko po zakończeniu rozdziału spojrzy na rodzica i zapyta: „Przeczytamy jeszcze jeden?”
+
 Rozdział 2. Filozofia serii
+
 Ten rozdział odpowiada na pytanie, jak opowiadamy historie i dlaczego właśnie w taki sposób. Nie opisuje fabuły ani bohaterów.
+
 2.1 Nie moralizujemy
+
 Dzieci uczą się poprzez obserwowanie konsekwencji swoich decyzji, rozmowy z przyjaciółmi i własne doświadczenia. Czytelnik sam wyciąga wnioski. Naszym zadaniem jest stworzenie sytuacji, które zachęcają do refleksji, a nie podawanie gotowych odpowiedzi. Sekcja dla rodzica również nie interpretuje wydarzeń — zawiera pytania, które pomagają rozpocząć rozmowę.
+
 2.2 Każdy bohater jest niedoskonały i rozwija się stopniowo
+
 Nie tworzymy bohaterów idealnych. To wady dają historii wiarygodność. Żadna ważna zmiana nie następuje po jednej rozmowie ani jednym wydarzeniu — bohaterowie popełniają podobne błędy wielokrotnie, robią krok do przodu i czasem dwa kroki w tył. Tak wygląda prawdziwe dorastanie.
+
 2.3 Magia jest językiem emocji
+
 Magia nie istnieje dla efektownych scen ani widowiskowych pojedynków. Każdy magiczny element świata symbolizuje coś, co dziecko zna z własnego życia. Supermoce wynikają z charakteru, odwagi, wytrwałości, empatii czy wyobraźni. Fantastyczny świat pozwala rozmawiać o trudnych emocjach w sposób bezpieczny i zrozumiały dla dziecka.
+
 2.4 Świat odkrywamy razem z bohaterami
+
 Czytelnik nigdy nie dostaje długich wyjaśnień dotyczących zasad świata. Nowe miejsca, zwyczaje i tajemnice poznajemy wtedy, gdy odkrywają je bohaterowie. Narrator wie więcej niż bohaterowie, ale nie zdradza tajemnic przed czasem.
+
 2.5 Pytania są ważniejsze niż odpowiedzi
+
 Każda książka ma pozostawiać czytelnika z kolejnymi pytaniami. Nie odpowiadamy na wszystkie od razu. Tajemnica jest jednym z najważniejszych silników całej serii.
+
 2.6 Humor jest częścią świata
+
 Humor nie jest przerywnikiem pomiędzy ważnymi wydarzeniami. Jest naturalnym elementem codzienności bohaterów i wynika z charakterów, relacji i sytuacji, a nie z przypadkowych żartów. Opiera się na trzech filarach: humorze sytuacyjnym, humorze słownym i zachowaniu Buby. Dzięki temu nawet trudniejsze emocjonalnie fragmenty pozostają lekkie i przyjazne dla młodego czytelnika.
+
 2.7 Każdy rozdział ma własny cel emocjonalny
+
 Każdy Dzień może rozwijać kompetencję emocjonalną lub społeczną — nigdy nazwaną wprost, nigdy wytłumaczoną. Budujemy historię wokół sytuacji, która pozwala dziecku ją przeżyć razem z bohaterami.
+
 To nie oznacza sztywnego przypisania „jeden temat na jeden rozdział”. Ten sam temat może wracać w kilku Dniach, w innym kontekście i z inną głębią. Nie każdy Dzień musi nosić temat emocjonalny — część rozdziałów istnieje po prostu dla przygody i zabawy, bez ukrytej lekcji.
+
 Po zakończeniu rozdziału rodzic może wrócić do tego doświadczenia podczas rozmowy.
+
 Otwarta, niezamknięta lista tematów do wykorzystania → notes/tematy_emocjonalne.
+
 2.8 Rodzic jest współuczestnikiem przygody
+
 Seria została zaprojektowana tak, aby wspólne czytanie było równie przyjemne dla dziecka, jak i dla dorosłego. Sekcja dla rodzica nie ocenia zachowania dziecka i nie prowadzi „lekcji wychowawczej” — podpowiada tematy do rozmowy i pokazuje, jak wykorzystać wydarzenia z historii do budowania relacji. Najważniejszym efektem wspólnego czytania ma być bliskość.
+
 2.9 Dziecko jest częścią Drużyny Strażników Iskry
+
 Czytelnik nie jest obserwatorem wydarzeń. Od pierwszego dnia ma czuć, że podróżuje razem z Aurą i jej przyjaciółmi. Klub Odkrywców, zadania i pytania nie są dodatkami do książki — są naturalnym przedłużeniem historii i sprawiają, że dziecko staje się kolejnym Strażnikiem Iskry.
+
 Rozdział 3. Projektowanie bohaterów
+
 Największą siłą serii nie będzie świat, magia ani tajemnica Iskry. Największą siłą będą bohaterowie. Dziecko może zapomnieć szczegóły przygody, ale nie zapomni bohatera, którego pokochało.
+
 Naszym celem nie jest stworzenie dzieci niezwykłych ani idealnych. Chcemy stworzyć bohaterów, którzy wydają się prawdziwi — zachwycają odwagą, ale popełniają błędy, złoszczą się, zazdroszczą, obrażają, przepraszają, śmieją się i próbują jeszcze raz.
+
 3.1 Bohater jest ważniejszy niż fabuła
+
 Podczas pracy nad każdym rozdziałem najważniejsze pytanie nie brzmi „co wydarzy się dalej?”, lecz „co wydarzy się w bohaterze?”. Fabuła istnieje po to, aby zmieniać dzieci, a nie odwrotnie. Jeżeli rozdział zawiera ciekawą akcję, ale nie rozwija żadnej postaci, wymaga ponownego przemyślenia.
+
 3.2 Każdy bohater jest wyjątkowy
+
 Różnice między bohaterami nie sprowadzają się do wyglądu czy zainteresowań. Każde dziecko inaczej patrzy na świat, inaczej reaguje na emocje, inaczej podejmuje decyzje. Te różnice napędzają historię — czasem jako źródło konfliktu, czasem humoru, czasem rozwiązania, którego nikt inny by nie zauważył. Żaden bohater nie pełni jedynie funkcji fabularnej — każdy ma własne marzenia, lęki, słabości i drogę rozwoju.
+
 3.3 Drugie imiona jako symbol potencjału
+
 Każde dziecko w świecie Iskry od zawsze zna swoje drugie imię — jest ono naturalną częścią jego tożsamości, nikt nie traktuje go jako czegoś niezwykłego. Drugie imiona nie opisują charakteru bohaterów ani nie określają ich przeznaczenia. Są symbolem potencjału, który każde dziecko odkrywa stopniowo, a ich prawdziwe znaczenie odsłania się dopiero wtedy, gdy bohater jest gotów je zrozumieć.
+
 Konkretne drugie imiona bohaterów i ich znaczenie → Biblia bohaterów / Bohaterowie/.
+
 3.4 Mocne strony, wady i ukryte potrzeby
+
 Każdy bohater ma cechy, które pomagają mu w jednych sytuacjach, a przeszkadzają w innych. Wady nie są dodatkiem do charakterystyki — są jednym z najważniejszych motorów fabuły: największa zaleta bohatera jest jednocześnie źródłem jego największych wyzwań.
+
 Każdy bohater nosi też w sobie potrzebę, której często sam jeszcze nie potrafi nazwać. To ona kieruje jego zachowaniem i wpływa na decyzje — nie jest to cel fabularny, lecz emocjonalny.
+
 Konkretne wady, mocne strony i ukryte potrzeby każdego bohatera → Biblia bohaterów / Bohaterowie/.
+
 3.5 Rozwój bohaterów
+
 Rozwój bohaterów jest procesem długim i wiarygodnym. Nie wierzymy w nagłe przemiany. Każdy tom pokazuje wyraźny rozwój wszystkich bohaterów, jednak żadna przemiana nie zostaje całkowicie zakończona — seria opowiada o dzieciach, które nieustannie uczą się siebie i świata.
+
 3.6 Współtworzenie bohaterów z dzieckiem
+
 Matylda jest współautorką dziecięcej perspektywy. Jej pomysły, pytania i sposób postrzegania świata mają realny wpływ na rozwój bohaterów. Dotyczy to również strony wizualnej — kanoniczny wygląd bohaterów powstaje na podstawie rysunków stworzonych przez Matyldę, a zadaniem ilustratora jest rozwinięcie dziecięcego projektu, nie zastąpienie go własną interpretacją.
+
 Rozdział 4. Świat Strażników Iskry
+
 Świat przedstawiony nie jest tłem dla przygody. Jest integralną częścią historii i rozwija się razem z bohaterami. Każdy element świata istnieje po coś — nie tworzymy magii dla samej magii.
+
 4.1 Świat istnieje równolegle do naszego
+
 Świat Strażników Iskry nie znajduje się na końcu tęczy ani w odległej krainie. Istnieje równolegle do naszego świata i od zawsze był tuż obok, choć większość ludzi przestała go dostrzegać. Niektóre dzieci potrafią zobaczyć więcej — nie dlatego, że są wybrane, ale dlatego, że nadal patrzą na świat z ciekawością i otwartością. Nie wyjaśniamy od razu, dlaczego jedne dzieci widzą ten świat, a inne nie — to jedna z tajemnic serii.
+
 4.2 Magia jest częścią codzienności
+
 Magia w świecie Iskry nie jest spektakularna — nie polega na zaklęciach ani pojedynkach. Jest subtelna i obecna w codziennych wydarzeniach. Bohaterowie nie zachwycają się każdą magiczną rzeczą — dla nich jest ona częścią rzeczywistości, którą dopiero zaczynają rozumieć.
+
 4.3 Iskra
+
 Iskra jest najważniejszym symbolem całej serii. Jej prawdziwe znaczenie ujawnia się dopiero z czasem, w miarę rozwoju historii.
+
 Pełny opis Iskry, jej roli w fabule i momentu jej odsłonięcia → 01_SERIA/Swiat.
+
 4.4 Tajemnice są ważniejsze od odpowiedzi
+
 Nie odpowiadamy od razu na każde pytanie i nie tłumaczymy wszystkich zasad działania świata. Chcemy, aby czytelnik sam tworzył własne teorie i z niecierpliwością czekał na kolejne odkrycia. Największe tajemnice serii dojrzewają razem z bohaterami i są odsłaniane dopiero wtedy, gdy mają odpowiednią siłę emocjonalną.
+
 4.5 Świat służy historii
+
 Każdy nowy element świata przechodzi prosty test: gdyby go usunąć, czy historia straciłaby coś ważnego? Jeśli nie — element istnieje wyłącznie dla ozdoby i nie powinien znaleźć się w serii. Świat ma być bogaty, ale nigdy przeładowany.
+
 Rozdział 5. Konstrukcja książki
+
 5.1 Jedna historia podzielona na Dni
+
 Cała książka dzieli się na kolejne Dni, nie na oddzielne rozdziały-opowiadania. Taki podział buduje poczucie wspólnej wyprawy. Pierwszy tom jest zamkniętą historią, ale jednocześnie stanowi początek większej podróży.
+
 Zakładamy co najmniej czterdzieści pięć Dni, bez sztywnej górnej granicy — długość tomu wynika z tempa historii, nigdy odwrotnie. Nie przyspieszamy rozwoju bohaterów tylko po to, by zmieścić się w określonej liczbie stron. Spokojniejsze rozdziały, w których nie dzieje się nic spektakularnego, ale dzieje się coś ważne dla relacji między bohaterami, są równie potrzebne — to one często zostają z czytelnikiem najdłużej.
+
 5.2 Emocje są ważniejsze niż akcja
+
 Najważniejszym zadaniem konstrukcji nie jest utrzymywanie tempa akcji, lecz prowadzenie czytelnika przez emocje, które przeżywają bohaterowie. Prawdziwe życie jest złożone — w jednym rozdziale mogą pojawić się radość, zazdrość, zachwyt, rozczarowanie i duma naraz. Czytelnik nie powinien mieć poczucia, że przeczytał historię „o odwadze” — powinien ją po prostu przeżyć.
+
 5.3 Ilustracje są częścią opowieści
+
 Ilustracje nie pełnią funkcji dekoracyjnej. Są integralnym elementem narracji i czasem przekazują informacje, których nie znajdziemy w tekście — mogą podpowiadać rozwiązanie zagadki, zdradzać emocję, którą narrator nie nazywa wprost, lub zapowiadać coś, co wydarzy się dopiero kilka rozdziałów później. Uważne oglądanie ilustracji jest tak samo ważne jak czytanie tekstu.
+
 5.4 Narrator
+
 Narrator jest ciepły, dowcipny i pełen szacunku dla dziecięcej wyobraźni. Nigdy nie wyśmiewa bohaterów ani nie tłumaczy ich emocji z pozycji dorosłego. Wie więcej niż bohaterowie, ale bardzo rzadko korzysta z tej przewagi — pozwala czytelnikowi samodzielnie odkrywać tajemnice.
+
 5.5 Każdy Dzień jest gotowy do druku
+
 Każdy ukończony Dzień jest pisany tak, jakby następnego dnia miał zostać wydrukowany. Redakcja jest częścią procesu, ale już pierwsza wersja powinna reprezentować poziom, z którego jesteśmy dumni — dzięki temu unikamy sytuacji, w której początkowe rozdziały odbiegają jakością od tych napisanych później.
-Konkretne parametry Dnia (długość tekstu, liczba nowych słów, struktura sekcji, limit objętości sekcji dla rodzica) → 01_SERIA/Struktura_rozdzialu.
+
+Konkretne parametry Dnia (długość tekstu, liczba nowych słów, struktura sekcji, limit objętości sekcji dla rodzica) → 03_MECHANIKA_KSIAZKI/struktura-rozdzialu.
+
 5.6 Klub Odkrywców
+
 Historia nie kończy się z ostatnim akapitem Dnia. Klub Odkrywców jest naturalnym przedłużeniem historii, nie dodatkiem edukacyjnym ani zbiorem zadań — wszystkie aktywności wynikają z wydarzeń rozdziału, tak że granica między historią a aktywnościami praktycznie znika. Czytelnik nie jest sprawdzany ani oceniany — jest zapraszany do dalszej przygody, tak jak przystoi Strażnikowi Iskry.
-Stałe elementy Klubu Odkrywców, ich rotacja i rozwój wraz z serią → 04_KLUB_ODKRYWCOW/Struktura.
+
+Stałe elementy Klubu Odkrywców, ich rotacja i rozwój wraz z serią → 03_MECHANIKA_KSIAZKI/klub-odkrywcow.
+
 5.7 Skarbiec słów
+
 Nowe słowa pojawiają się najpierw w opowieści, dzięki czemu dziecko poznaje ich znaczenie z kontekstu, a nie ze szkolnej listy definicji. Wybieramy tylko te słowa, które są szczególnie piękne, ciekawe lub wartościowe — nie wszystkie nowe wyrazy wymagają wyjaśnienia.
-Format hasła i liczba słów na rozdział → 01_SERIA/Struktura_rozdzialu.
+
+Format hasła i liczba słów na rozdział → 03_MECHANIKA_KSIAZKI/struktura-rozdzialu.
+
 5.8 Sekcja dla rodzica
+
 Każdy Dzień kończy się krótką sekcją dla rodzica. Nie ma charakteru poradnika wychowawczego — jest spokojnym zaproszeniem do wspólnego zastanowienia się nad wydarzeniami z rozdziału, a nie sprawdzaniem, czy wszystkie odpowiedzi są poprawne.
-Limit objętości i struktura sekcji → 01_SERIA/Struktura_rozdzialu.
+
+Limit objętości i struktura sekcji → 03_MECHANIKA_KSIAZKI/struktura-rozdzialu.
+
 5.9 Każdy Dzień pozostawia obietnicę kolejnego
+
 Na zakończenie każdego Dnia czytelnik ma czuć satysfakcję z ukończenia etapu podróży, ale też naturalną ciekawość tego, co dalej. Nie oznacza to konieczności dramatycznego zwrotu akcji przy każdym zakończeniu — czasem wystarczy jedno pytanie lub drobne odkrycie.
+
 Rozdział 6. Zasady, których nie zmieniamy
-•  Historia zawsze jest ważniejsza od edukacji.
-•  Nigdy nie moralizujemy.
-•  Każdy bohater ma realne wady, które wpływają na wydarzenia, i rozwija się powoli i wiarygodnie przez całą serię.
-•  Magia jest metaforą emocji i relacji, nie efektem specjalnym.
-•  Świat odkrywamy razem z bohaterami — pytania są ważniejsze niż szybkie odpowiedzi.
-•  Humor wynika z charakterów bohaterów i ich relacji, nigdy nie jest dopisany na siłę.
-•  Każdy Dzień jest pisany do wspólnego czytania przez rodzica i dziecko, z narastającym udziałem dziecka wynikającym z historii, a nie z mechaniki nauki czytania.
-•  Temat emocjonalny rozdziału (jeśli występuje) nigdy nie jest nazwany wprost — może się powtarzać w kilku Dniach, a część Dni może go nie mieć wcale.
-•  Ilustracje opowiadają własną część historii.
-•  Klub Odkrywców i sekcja dla rodzica są przedłużeniem opowieści i rozmowy, nigdy oceną czy lekcją.
-•  Czytelnik staje się członkiem Drużyny Strażników Iskry.
-•  Każdy Dzień jest pisany tak, jakby następnego dnia miał trafić do druku.
+
+  • Historia zawsze jest ważniejsza od edukacji.
+
+  • Nigdy nie moralizujemy.
+
+  • Każdy bohater ma realne wady, które wpływają na wydarzenia, i rozwija się powoli i wiarygodnie przez całą serię.
+
+  • Magia jest metaforą emocji i relacji, nie efektem specjalnym.
+
+  • Świat odkrywamy razem z bohaterami — pytania są ważniejsze niż szybkie odpowiedzi.
+
+  • Humor wynika z charakterów bohaterów i ich relacji, nigdy nie jest dopisany na siłę.
+
+  • Każdy Dzień jest pisany do wspólnego czytania przez rodzica i dziecko, z narastającym udziałem dziecka wynikającym z historii, a nie z mechaniki nauki czytania.
+
+  • Temat emocjonalny rozdziału (jeśli występuje) nigdy nie jest nazwany wprost — może się powtarzać w kilku Dniach, a część Dni może go nie mieć wcale.
+
+  • Ilustracje opowiadają własną część historii.
+
+  • Klub Odkrywców i sekcja dla rodzica są przedłużeniem opowieści i rozmowy, nigdy oceną czy lekcją.
+
+  • Czytelnik staje się członkiem Drużyny Strażników Iskry.
+
+  • Każdy Dzień jest pisany tak, jakby następnego dnia miał trafić do druku.
