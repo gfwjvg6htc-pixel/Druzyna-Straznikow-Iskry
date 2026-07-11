@@ -3,7 +3,7 @@ TEMATY EMOCJONALNE
 
 POPRAWKA: poprzednia wersja tego pliku zawierała tylko ułamek pełnej listy z `zalozenia_ksiazki.docx`. Poniżej pełna rekonstrukcja.
 
-Zasada ogólna żyje w master-file, rozdział 2.7: każdy Rozdział MOŻE rozwijać temat emocjonalny, nigdy nazwany wprost. Ten sam temat może wracać w kilku Rozdziałach. Nie każdy Rozdział musi mieć temat — część istnieje po prostu dla przygody i zabawy.
+Zasada ogólna żyje w master-file, sekcja 2.7: każdy Rozdział MOŻE rozwijać temat emocjonalny, nigdy nazwany wprost. Ten sam temat może wracać w kilku Rozdziałach. Nie każdy Rozdział musi mieć temat — część istnieje po prostu dla przygody i zabawy.
 
 Ta lista jest OTWARTA i NIEZAMKNIĘTA. Nowe tematy można dopisywać w dowolnym momencie.
 
