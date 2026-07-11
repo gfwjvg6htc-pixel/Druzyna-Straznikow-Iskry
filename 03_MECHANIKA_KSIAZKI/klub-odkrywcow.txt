@@ -3,7 +3,7 @@ KLUB ODKRYWCÓW — STRUKTURA
 
 POPRAWKA: poprzednia wersja tego pliku błędnie stwierdzała, że Klub Odkrywców jest „w praktyce pusty". To był błąd — `zalozenia_ksiazki.docx` zawiera w dwóch miejscach (jedno bardziej szczegółowe, jedno w formie skróconego podsumowania) w pełni rozpisaną strukturę 8 rotacyjnych elementów. Poniżej pełna rekonstrukcja.
 
-Zasada ogólna żyje w master-file, rozdział 5.6: Klub Odkrywców jest naturalnym przedłużeniem historii, nie dodatkiem edukacyjnym. Poniżej konkretna struktura.
+Zasada ogólna żyje w master-file, sekcja 5.6: Klub Odkrywców jest naturalnym przedłużeniem historii, nie dodatkiem edukacyjnym. Poniżej konkretna struktura.
 
 ---
 
