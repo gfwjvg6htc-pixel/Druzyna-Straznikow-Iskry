@@ -1,7 +1,7 @@
 ŚWIAT STRAŻNIKÓW ISKRY
 (01_SWIAT/swiat.txt)
 
-Ten plik zawiera szczegółowy opis świata przedstawionego: zasady jego istnienia, charakter magii i pełne znaczenie Iskry. Ogólna filozofia świata (dlaczego jest taki, a nie inny) znajduje się w master-file — tutaj zapisujemy konkretne fakty, do których wracamy przy pisaniu każdego Dnia.
+Ten plik zawiera szczegółowy opis świata przedstawionego: zasady jego istnienia, charakter magii i pełne znaczenie Iskry. Ogólna filozofia świata (dlaczego jest taki, a nie inny) znajduje się w master-file — tutaj zapisujemy konkretne fakty, do których wracamy przy pisaniu każdego Rozdziału.
 
 ---
 
