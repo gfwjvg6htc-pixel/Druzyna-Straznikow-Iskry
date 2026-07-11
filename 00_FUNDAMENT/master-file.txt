@@ -170,12 +170,8 @@ Każdy nowy element świata przechodzi prosty test: gdyby go usunąć, czy histo
 
 Rozdział 5. Konstrukcja książki
 
-5.1 Jedna historia podzielona na Dni
-
-Cała książka dzieli się na kolejne Dni, nie na oddzielne rozdziały-opowiadania. Taki podział buduje poczucie wspólnej wyprawy. Pierwszy tom jest zamkniętą historią, ale jednocześnie stanowi początek większej podróży.
-
-Zakładamy co najmniej czterdzieści pięć Dni, bez sztywnej górnej granicy — długość tomu wynika z tempa historii, nigdy odwrotnie. Nie przyspieszamy rozwoju bohaterów tylko po to, by zmieścić się w określonej liczbie stron. Spokojniejsze rozdziały, w których nie dzieje się nic spektakularnego, ale dzieje się coś ważne dla relacji między bohaterami, są równie potrzebne — to one często zostają z czytelnikiem najdłużej.
-
+5.1 Jedna historia podzielona na Rozdziały
+Cała książka dzieli się na kolejne Rozdziały — pojedyncze sesje wspólnego czytania rodzica i dziecka, każda zakończona sekcją dla rodzica, Klubem Odkrywców i chmurą słów. Kilka powiązanych ze sobą Rozdziałów tworzy jeden Dzień: nadrzędną etykietę fabularną z własnym tytułem (np. „Dzień pierwszy — w którym absolutnie nic się nie dzieje"), pod którą mieszczą się sceny rozgrywające się jednego dnia w świecie Iskry. Rozdziały w obrębie jednego Dnia nie są osobnymi, zamkniętymi opowiadaniami — są ściśle ze sobą powiązane i razem budują poczucie wspólnej wyprawy. Pierwszy tom jest zamkniętą historią, ale jednocześnie stanowi początek większej podróży.
 5.2 Emocje są ważniejsze niż akcja
 
 Najważniejszym zadaniem konstrukcji nie jest utrzymywanie tempa akcji, lecz prowadzenie czytelnika przez emocje, które przeżywają bohaterowie. Prawdziwe życie jest złożone — w jednym rozdziale mogą pojawić się radość, zazdrość, zachwyt, rozczarowanie i duma naraz. Czytelnik nie powinien mieć poczucia, że przeczytał historię „o odwadze” — powinien ją po prostu przeżyć.
