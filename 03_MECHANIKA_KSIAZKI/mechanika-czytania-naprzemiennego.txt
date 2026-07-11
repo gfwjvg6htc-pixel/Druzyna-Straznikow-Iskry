@@ -3,7 +3,7 @@ MECHANIKA CZYTANIA NAPRZEMIENNEGO
 
 POPRAWKA: poprzednia wersja pomijała jeden cały tryb czytania („Czytamy razem") oraz szczegóły dotyczące tego, co dokładnie czyta rodzic pod koniec książki. Poniżej pełna rekonstrukcja.
 
-Zasada ogólna („wspólne czytanie jest sercem projektu") żyje w master-file, rozdział 1.5.
+Zasada ogólna („wspólne czytanie jest sercem projektu") żyje w master-file, sekcja 1.5.
 
 ---
 
