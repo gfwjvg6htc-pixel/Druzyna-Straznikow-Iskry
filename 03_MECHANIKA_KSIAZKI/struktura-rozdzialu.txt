@@ -43,9 +43,7 @@ DODATKOWE, POWTARZALNE ELEMENTY STRONY (znalezione w innym miejscu dokumentu, ni
 NIESPÓJNOŚCI W ŹRÓDLE — do rozstrzygnięcia, dokument sam sobie zaprzecza w trzech miejscach:
 
 1. Liczba nowych słów na rozdział — trzy różne wartości w tym samym dokumencie:
-   - 6–8 (przy „identycznej strukturze rozdziału")
-   - 5–6 (przy liście symboli ⭐📖🎭💬🧠❤️🎯🎙🌟)
-   - 5–10 (przy liście „Nasze zasady", punkt 4)
+Liczba nowych słów na rozdział: 6–8. (Wcześniejsze wzmianki o 5–6 i 5–10 pochodziły z wcześniejszych etapów brainstormu i zostały nadpisane decyzją z sesji: „Zwiększmy nowe słowa do 6–8 na każdy Dzień".)
 
 2. Objętość sekcji dla rodzica — dwie sprzeczne wartości w źródle:
    - „Nie więcej niż 2 strony" (jedno miejsce)
