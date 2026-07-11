@@ -8,7 +8,7 @@ Fundament projektu: filozofia, główne założenia świata i bohaterów oraz za
 
 Jeżeli w przyszłości pojawi się pomysł, który stoi w sprzeczności z poniższą wizją, zmieniamy pomysł, nie filozofię serii.
 
-Rozdział 1. Wizja serii
+Sekcja 1. Wizja serii
 
 1.1 Nasza misja
 
@@ -44,9 +44,9 @@ Magia jest jedynie językiem, którym opowiadamy o emocjach. Supermoce nie wynik
 
 Drużyna Strażników Iskry nie jest książką pisaną do samodzielnego czytania przez dziecko. Jest pisana do czytania na głos, razem — przez rodzica i dziecko. To nie dodatek edukacyjny ani metoda nauki czytania ukryta w fabule. To jeden z fundamentów, na których zbudowana jest cała forma serii, równie ważny jak bohaterowie czy świat.
 
-Każdy Dzień dzieli się na część czytaną przez rodzica i część czytaną przez dziecko. Udział dziecka rośnie z rozdziału na rozdział, aż pod koniec tomu dziecko czyta większość tekstu samodzielnie. To narastanie nigdy nie jest nazwane wprost i nigdy nie ma wywoływać poczucia, że dziecko jest oceniane lub sprawdzane. Podział wynika naturalnie z tego, co się dzieje w historii, a nie z mechaniki nauki czytania nałożonej na fabułę z zewnątrz. Sposób, w jaki ten podział jest wpleciony w świat Iskry, nie tworzy hierarchii typu „starszy/młodszy” — rozwiązanie fabularne dla tego mechanizmu jest jeszcze do wypracowania.
+Każdy Rozdział dzieli się na część czytaną przez rodzica i część czytaną przez dziecko. Udział dziecka rośnie z rozdziału na rozdział, aż pod koniec tomu dziecko czyta większość tekstu samodzielnie. To narastanie nigdy nie jest nazwane wprost i nigdy nie ma wywoływać poczucia, że dziecko jest oceniane lub sprawdzane. Podział wynika naturalnie z tego, co się dzieje w historii, a nie z mechaniki nauki czytania nałożonej na fabułę z zewnątrz. Sposób, w jaki ten podział jest wpleciony w świat Iskry, nie tworzy hierarchii typu „starszy/młodszy” — rozwiązanie fabularne dla tego mechanizmu jest jeszcze do wypracowania.
 
-To pytanie zadajemy sobie przy pisaniu każdego Dnia równie wcześnie jak pytanie o to, co wydarzy się w bohaterze.
+To pytanie zadajemy sobie przy pisaniu każdego Rozdziału równie wcześnie jak pytanie o to, co wydarzy się w bohaterze.
 
 Konkretna mechanika (proporcje, tempo narastania, sposób oznaczenia w tekście) → 03_MECHANIKA_KSIAZKI/mechanika-czytania-naprzemiennego.
 
@@ -60,7 +60,7 @@ Jeżeli podczas pracy pojawi się wybór między rozwiązaniem „bardziej liter
 
 Nie mierzymy sukcesu liczbą sprzedanych egzemplarzy ani recenzji. Największym sukcesem będzie moment, w którym dziecko po zakończeniu rozdziału spojrzy na rodzica i zapyta: „Przeczytamy jeszcze jeden?”
 
-Rozdział 2. Filozofia serii
+Sekcja 2. Filozofia serii
 
 Ten rozdział odpowiada na pytanie, jak opowiadamy historie i dlaczego właśnie w taki sposób. Nie opisuje fabuły ani bohaterów.
 
@@ -90,9 +90,9 @@ Humor nie jest przerywnikiem pomiędzy ważnymi wydarzeniami. Jest naturalnym el
 
 2.7 Każdy rozdział ma własny cel emocjonalny
 
-Każdy Dzień może rozwijać kompetencję emocjonalną lub społeczną — nigdy nazwaną wprost, nigdy wytłumaczoną. Budujemy historię wokół sytuacji, która pozwala dziecku ją przeżyć razem z bohaterami.
+Każdy Rozdział może rozwijać kompetencję emocjonalną lub społeczną — nigdy nazwaną wprost, nigdy wytłumaczoną. Budujemy historię wokół sytuacji, która pozwala dziecku ją przeżyć razem z bohaterami.
 
-To nie oznacza sztywnego przypisania „jeden temat na jeden rozdział”. Ten sam temat może wracać w kilku Dniach, w innym kontekście i z inną głębią. Nie każdy Dzień musi nosić temat emocjonalny — część rozdziałów istnieje po prostu dla przygody i zabawy, bez ukrytej lekcji.
+To nie oznacza sztywnego przypisania „jeden temat na jeden rozdział”. Ten sam temat może wracać w kilku Rozdziałach, w innym kontekście i z inną głębią. Nie każdy Rozdział musi nosić temat emocjonalny — część rozdziałów istnieje po prostu dla przygody i zabawy, bez ukrytej lekcji.
 
 Po zakończeniu rozdziału rodzic może wrócić do tego doświadczenia podczas rozmowy.
 
@@ -106,7 +106,7 @@ Seria została zaprojektowana tak, aby wspólne czytanie było równie przyjemne
 
 Czytelnik nie jest obserwatorem wydarzeń. Od pierwszego dnia ma czuć, że podróżuje razem z Aurą i jej przyjaciółmi. Klub Odkrywców, zadania i pytania nie są dodatkami do książki — są naturalnym przedłużeniem historii i sprawiają, że dziecko staje się kolejnym Strażnikiem Iskry.
 
-Rozdział 3. Projektowanie bohaterów
+Sekcja 3. Projektowanie bohaterów
 
 Największą siłą serii nie będzie świat, magia ani tajemnica Iskry. Największą siłą będą bohaterowie. Dziecko może zapomnieć szczegóły przygody, ale nie zapomni bohatera, którego pokochało.
 
@@ -142,7 +142,7 @@ Rozwój bohaterów jest procesem długim i wiarygodnym. Nie wierzymy w nagłe pr
 
 Matylda jest współautorką dziecięcej perspektywy. Jej pomysły, pytania i sposób postrzegania świata mają realny wpływ na rozwój bohaterów. Dotyczy to również strony wizualnej — kanoniczny wygląd bohaterów powstaje na podstawie rysunków stworzonych przez Matyldę, a zadaniem ilustratora jest rozwinięcie dziecięcego projektu, nie zastąpienie go własną interpretacją.
 
-Rozdział 4. Świat Strażników Iskry
+Sekcja 4. Świat Strażników Iskry
 
 Świat przedstawiony nie jest tłem dla przygody. Jest integralną częścią historii i rozwija się razem z bohaterami. Każdy element świata istnieje po coś — nie tworzymy magii dla samej magii.
 
@@ -168,10 +168,13 @@ Nie odpowiadamy od razu na każde pytanie i nie tłumaczymy wszystkich zasad dzi
 
 Każdy nowy element świata przechodzi prosty test: gdyby go usunąć, czy historia straciłaby coś ważnego? Jeśli nie — element istnieje wyłącznie dla ozdoby i nie powinien znaleźć się w serii. Świat ma być bogaty, ale nigdy przeładowany.
 
-Rozdział 5. Konstrukcja książki
+Sekcja 5. Konstrukcja książki
 
 5.1 Jedna historia podzielona na Rozdziały
 Cała książka dzieli się na kolejne Rozdziały — pojedyncze sesje wspólnego czytania rodzica i dziecka, każda zakończona sekcją dla rodzica, Klubem Odkrywców i chmurą słów. Kilka powiązanych ze sobą Rozdziałów tworzy jeden Dzień: nadrzędną etykietę fabularną z własnym tytułem (np. „Dzień pierwszy — w którym absolutnie nic się nie dzieje"), pod którą mieszczą się sceny rozgrywające się jednego dnia w świecie Iskry. Rozdziały w obrębie jednego Dnia nie są osobnymi, zamkniętymi opowiadaniami — są ściśle ze sobą powiązane i razem budują poczucie wspólnej wyprawy. Pierwszy tom jest zamkniętą historią, ale jednocześnie stanowi początek większej podróży.
+
+Zakładamy co najmniej czterdzieści pięć Rozdziałów w tomie 1, bez sztywnej górnej granicy — długość tomu wynika z tempa historii, nigdy odwrotnie. Nie przyspieszamy rozwoju bohaterów tylko po to, by zmieścić się w określonej liczbie stron. Spokojniejsze rozdziały, w których nie dzieje się nic spektakularnego, ale dzieje się coś ważne dla relacji między bohaterami, są równie potrzebne — to one często zostają z czytelnikiem najdłużej.
+
 5.2 Emocje są ważniejsze niż akcja
 
 Najważniejszym zadaniem konstrukcji nie jest utrzymywanie tempa akcji, lecz prowadzenie czytelnika przez emocje, które przeżywają bohaterowie. Prawdziwe życie jest złożone — w jednym rozdziale mogą pojawić się radość, zazdrość, zachwyt, rozczarowanie i duma naraz. Czytelnik nie powinien mieć poczucia, że przeczytał historię „o odwadze” — powinien ją po prostu przeżyć.
@@ -184,15 +187,15 @@ Ilustracje nie pełnią funkcji dekoracyjnej. Są integralnym elementem narracji
 
 Narrator jest ciepły, dowcipny i pełen szacunku dla dziecięcej wyobraźni. Nigdy nie wyśmiewa bohaterów ani nie tłumaczy ich emocji z pozycji dorosłego. Wie więcej niż bohaterowie, ale bardzo rzadko korzysta z tej przewagi — pozwala czytelnikowi samodzielnie odkrywać tajemnice.
 
-5.5 Każdy Dzień jest gotowy do druku
+5.5 Każdy Rozdział jest gotowy do druku
 
-Każdy ukończony Dzień jest pisany tak, jakby następnego dnia miał zostać wydrukowany. Redakcja jest częścią procesu, ale już pierwsza wersja powinna reprezentować poziom, z którego jesteśmy dumni — dzięki temu unikamy sytuacji, w której początkowe rozdziały odbiegają jakością od tych napisanych później.
+Każdy ukończony Rozdział jest pisany tak, jakby następnego dnia miał zostać wydrukowany. Redakcja jest częścią procesu, ale już pierwsza wersja powinna reprezentować poziom, z którego jesteśmy dumni — dzięki temu unikamy sytuacji, w której początkowe rozdziały odbiegają jakością od tych napisanych później.
 
-Konkretne parametry Dnia (długość tekstu, liczba nowych słów, struktura sekcji, limit objętości sekcji dla rodzica) → 03_MECHANIKA_KSIAZKI/struktura-rozdzialu.
+Konkretne parametry Rozdziału (długość tekstu, liczba nowych słów, struktura sekcji, limit objętości sekcji dla rodzica) → 03_MECHANIKA_KSIAZKI/struktura-rozdzialu.
 
 5.6 Klub Odkrywców
 
-Historia nie kończy się z ostatnim akapitem Dnia. Klub Odkrywców jest naturalnym przedłużeniem historii, nie dodatkiem edukacyjnym ani zbiorem zadań — wszystkie aktywności wynikają z wydarzeń rozdziału, tak że granica między historią a aktywnościami praktycznie znika. Czytelnik nie jest sprawdzany ani oceniany — jest zapraszany do dalszej przygody, tak jak przystoi Strażnikowi Iskry.
+Historia nie kończy się z ostatnim akapitem Rozdziału. Klub Odkrywców jest naturalnym przedłużeniem historii, nie dodatkiem edukacyjnym ani zbiorem zadań — wszystkie aktywności wynikają z wydarzeń rozdziału, tak że granica między historią a aktywnościami praktycznie znika. Czytelnik nie jest sprawdzany ani oceniany — jest zapraszany do dalszej przygody, tak jak przystoi Strażnikowi Iskry.
 
 Stałe elementy Klubu Odkrywców, ich rotacja i rozwój wraz z serią → 03_MECHANIKA_KSIAZKI/klub-odkrywcow.
 
@@ -204,15 +207,15 @@ Format hasła i liczba słów na rozdział → 03_MECHANIKA_KSIAZKI/struktura-ro
 
 5.8 Sekcja dla rodzica
 
-Każdy Dzień kończy się krótką sekcją dla rodzica. Nie ma charakteru poradnika wychowawczego — jest spokojnym zaproszeniem do wspólnego zastanowienia się nad wydarzeniami z rozdziału, a nie sprawdzaniem, czy wszystkie odpowiedzi są poprawne.
+Każdy Rozdział kończy się krótką sekcją dla rodzica. Nie ma charakteru poradnika wychowawczego — jest spokojnym zaproszeniem do wspólnego zastanowienia się nad wydarzeniami z rozdziału, a nie sprawdzaniem, czy wszystkie odpowiedzi są poprawne.
 
 Limit objętości i struktura sekcji → 03_MECHANIKA_KSIAZKI/struktura-rozdzialu.
 
-5.9 Każdy Dzień pozostawia obietnicę kolejnego
+5.9 Każdy Rozdział pozostawia obietnicę kolejnego
 
-Na zakończenie każdego Dnia czytelnik ma czuć satysfakcję z ukończenia etapu podróży, ale też naturalną ciekawość tego, co dalej. Nie oznacza to konieczności dramatycznego zwrotu akcji przy każdym zakończeniu — czasem wystarczy jedno pytanie lub drobne odkrycie.
+Na zakończenie każdego Rozdziału czytelnik ma czuć satysfakcję z ukończenia etapu podróży, ale też naturalną ciekawość tego, co dalej. Nie oznacza to konieczności dramatycznego zwrotu akcji przy każdym zakończeniu — czasem wystarczy jedno pytanie lub drobne odkrycie.
 
-Rozdział 6. Zasady, których nie zmieniamy
+Sekcja 6. Zasady, których nie zmieniamy
 
   • Historia zawsze jest ważniejsza od edukacji.
 
@@ -226,9 +229,9 @@ Rozdział 6. Zasady, których nie zmieniamy
 
   • Humor wynika z charakterów bohaterów i ich relacji, nigdy nie jest dopisany na siłę.
 
-  • Każdy Dzień jest pisany do wspólnego czytania przez rodzica i dziecko, z narastającym udziałem dziecka wynikającym z historii, a nie z mechaniki nauki czytania.
+  • Każdy Rozdział jest pisany do wspólnego czytania przez rodzica i dziecko, z narastającym udziałem dziecka wynikającym z historii, a nie z mechaniki nauki czytania.
 
-  • Temat emocjonalny rozdziału (jeśli występuje) nigdy nie jest nazwany wprost — może się powtarzać w kilku Dniach, a część Dni może go nie mieć wcale.
+  • Temat emocjonalny rozdziału (jeśli występuje) nigdy nie jest nazwany wprost — może się powtarzać w kilku Rozdziałach, a część Rozdziałów może go nie mieć wcale.
 
   • Ilustracje opowiadają własną część historii.
 
@@ -236,4 +239,4 @@ Rozdział 6. Zasady, których nie zmieniamy
 
   • Czytelnik staje się członkiem Drużyny Strażników Iskry.
 
-  • Każdy Dzień jest pisany tak, jakby następnego dnia miał trafić do druku.
+  • Każdy Rozdział jest pisany tak, jakby następnego dnia miał trafić do druku.
