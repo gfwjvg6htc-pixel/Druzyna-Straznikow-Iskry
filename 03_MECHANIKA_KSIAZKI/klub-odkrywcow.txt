@@ -16,19 +16,21 @@ Osiem stałych, rotacyjnych elementów:
 1. Chmura słów — nowe słowa z rozdziału ukryte w układance liter (np. wykreślanka). Przykładowe słowa z pierwszego szkicu: kompas, odwaga, ślad, iskra, drużyna, zagadka.
 definicje tworzymy zgodnie z zalozeniem: Dziecko przede wszystkim ma zrozumieć słowo. Dopiero potem się uśmiechnąć, wg schematu: Słowo – krótka, prawdziwa definicja. Jedno zdanie z humorem lub odniesieniem do historii.
 
-2. Znajdź zdanie (też nazywane „Znajdź w tekście") — pytanie każące wrócić do konkretnego fragmentu rozdziału, np. „Znajdź zdanie, w którym [bohater] powiedział coś naprawdę śmiesznego." Celowo zmusza do ponownego przeczytania fragmentu — to jeden z najlepszych sposobów rozwijania płynności czytania.
+2. Znajdź w tekście (też nazywane „Znajdź w tekście") — pytanie każące wrócić do konkretnego fragmentu rozdziału, np. „Znajdź zdanie, w którym [bohater] powiedział coś naprawdę śmiesznego." Celowo zmusza do ponownego przeczytania fragmentu — to jeden z najlepszych sposobów rozwijania płynności czytania.
 
 3. Detektyw — jedna zagadka, na którą odpowiedź jest ukryta w tekście rozdziału (np. „Skąd Buba wiedziała, że ktoś był wcześniej w lesie?").
 
 4. Co będzie dalej? — jedno pytanie prognostyczne, bez „dobrej" odpowiedzi (np. „Jak myślisz, co znajduje się za drzwiami?").
 
-5. Supermoc tygodnia — nie tłumaczymy, tylko pytamy. Np. „Kto w tym rozdziale najlepiej słuchał innych?" — wskazuje jedną cechę/wartość, którą ktoś zademonstrował w rozdziale, bez moralizowania.
+5. Supermoce bohaterów  — nie tłumaczymy, tylko pytamy. Np. „Kto w tym rozdziale najlepiej słuchał innych?" — wskazuje jedną cechę/wartość, którą ktoś zademonstrował w rozdziale, bez moralizowania.
 
-6. Misja — jedno małe wyzwanie do wykonania w prawdziwym życiu (nawiązujące do tematu rozdziału).
+6. Misja dla Ciebie — jedno małe wyzwanie do wykonania w prawdziwym życiu (nawiązujące do tematu rozdziału).
 
 7. Nagranie — dziecko nagrywa się, czytając fragment na głos (np. stronę), a za miesiąc porównuje nagranie z nowym odczytaniem tego samego fragmentu. Śledzi własny postęp w czytaniu.
 
 8. Odznaka (osiągnięcie) — nigdy „naklejka" ani „ocena", tylko odznaka za konkretne osiągnięcie, np. „Tropiciel nowych słów". Bez punktów, bez ocen.
+9. Minuta z książką - opisany "fragment oznaczony ikoną 🎙. Przeczytaj go na głos i poproś kogoś o nagranie. Za miesiąc wróć do tego samego miejsca i nagraj go jeszcze raz. Posłuchaj obu nagrań. Możesz się zdziwić, jak wiele zmieniło się przez ten czas.
+"
 
 ---
 
@@ -42,6 +44,6 @@ Sekcja „Dla rodzica" po każdym rozdziale — w `zalozenia_ksiazki.docx` opisa
 
 DO POTWIERDZENIA:
 
-- Ta struktura powstała pod wcześniejszą wersję projektu (inny wiek/imię czytelnika-dziecka). Czy wszystkie 8 elementów nadal pasuje do obecnego kształtu serii (8–9 lat, min. 45 Dni), czy coś wymaga odświeżenia?
+- Ta struktura powstała pod wcześniejszą wersję projektu (inny wiek/imię czytelnika-dziecka). Czy wszystkie 8 elementów nadal pasuje do obecnego kształtu serii (8–9 lat, min. 45 Dni), czy coś wymaga odświeżenia? 
 - Czy 8 elementów pojawia się w każdym rozdziale w tej samej kolejności, czy rotuje (czasem 3 z 8, czasem inne)? Dokument nie precyzuje tego wprost.
-- Czy lista słów w „Chmurze słów" (kompas, odwaga, ślad, iskra, drużyna, zagadka) to konkretny przykład z pierwszego rozdziału, czy uniwersalny zestaw?
+- Czy lista słów w „Chmurze słów" (kompas, odwaga, ślad, iskra, drużyna, zagadka) to konkretny przykład z pierwszego rozdziału, czy uniwersalny zestaw? - to jest przykład, chmura słów powinna uwzględniać tylko słowa ze "Skarbiec słów i zwrotów"
