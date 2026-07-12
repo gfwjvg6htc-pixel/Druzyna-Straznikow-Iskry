@@ -14,6 +14,7 @@ Klub Odkrywców pojawia się po każdym rozdziale. To nie jedna aktywność, tyl
 Osiem stałych, rotacyjnych elementów:
 
 1. Chmura słów — nowe słowa z rozdziału ukryte w układance liter (np. wykreślanka). Przykładowe słowa z pierwszego szkicu: kompas, odwaga, ślad, iskra, drużyna, zagadka.
+definicje tworzymy zgodnie z zalozeniem: Dziecko przede wszystkim ma zrozumieć słowo. Dopiero potem się uśmiechnąć, wg schematu: Słowo – krótka, prawdziwa definicja. Jedno zdanie z humorem lub odniesieniem do historii.
 
 2. Znajdź zdanie (też nazywane „Znajdź w tekście") — pytanie każące wrócić do konkretnego fragmentu rozdziału, np. „Znajdź zdanie, w którym [bohater] powiedział coś naprawdę śmiesznego." Celowo zmusza do ponownego przeczytania fragmentu — to jeden z najlepszych sposobów rozwijania płynności czytania.
 
