@@ -10,17 +10,17 @@ Zasada ogólna żyje w master-file — tu zapisujemy konkretne liczby, limity i 
 USTALONE (z master-file, potwierdzone w rozmowach):
 - Dzień to większa część historii, złożona z kilku rozdziałów.
 - Minimalna liczba rodziałów w tomie 1: 45, bez sztywnej górnej granicy — długość wynika z tempa historii.
-- Każdy Dzień kończy się krótką sekcją dla rodzica, która nigdy nie przekracza połowy strony.
-- Każdy Dzień jest pisany tak, jakby następnego dnia miał trafić do druku.
-- Zakończenie Dnia pozostawia ciekawość — nie musi to być dramatyczny zwrot akcji.
+- Każdy rodział kończy się krótką sekcją dla rodzica, która nigdy nie przekracza połowy strony.
+- Każdy rozdział jest pisany tak, jakby następnego dnia miał trafić do druku.
+- Zakończenie rozdziału i dnia pozostawia ciekawość — nie musi to być dramatyczny zwrot akcji.
 
 ---
 
 Z `zalozenia_ksiazki.docx` — RDZEŃ STRUKTURY ROZDZIAŁU (opisany wprost jako „każdy rozdział będzie miał identyczną strukturę"):
 
 - Opowiadanie: ok. 2500 słów - 2500 słów to punkt odniesienia, nie sztywny wymóg. Jeśli opowiadanie jest kompletne i dobrze się kończy przy mniejszej liczbie słów, nie trzeba go sztucznie wydłużać, żeby dobić do liczby. Podobnie w drugą stronę — jeśli historia naprawdę tego potrzebuje, może być nieco dłuższa.
-- Nowe słowa: 6–8
-- Ciekawe wyrażenia: 2–3
+- Nowe słowa: 6–10
+- Ciekawe wyrażenia: 2–5
 - Pytania (dla rodzica/dziecka): 5
 - Rozmowa dla rodzica
 - Misja tygodnia
@@ -36,6 +36,8 @@ zmianę tempa,
 humor.
 - Obserwacja dla rodzica
 - Notatki
+- Chmura słów
+
 
 Tempo czytania: jeden rozdział dziennie, ok. 15–20 minut wspólnego czytania.
 
@@ -52,24 +54,22 @@ DODATKOWE, POWTARZALNE ELEMENTY STRONY (znalezione w innym miejscu dokumentu, ni
 NIESPÓJNOŚCI W ŹRÓDLE — do rozstrzygnięcia, dokument sam sobie zaprzecza w trzech miejscach:
 
 1. Liczba nowych słów na rozdział — trzy różne wartości w tym samym dokumencie:
-Liczba nowych słów na rozdział: 6–8. (Wcześniejsze wzmianki o 5–6 i 5–10 pochodziły z wcześniejszych etapów brainstormu i zostały nadpisane decyzją z sesji: „Zwiększmy nowe słowa do 6–8 na każdy Dzień".)
+Liczba nowych słów na rozdział: 6–8. (Wcześniejsze wzmianki o 5–6 i 5–10 pochodziły z wcześniejszych etapów brainstormu i zostały nadpisane decyzją z sesji: „Zwiększmy nowe słowa do 6–8 na każdy Dzień".) - odpowiedź - 6-10
 
 2. Objętość sekcji dla rodzica — dwie sprzeczne wartości w źródle:
-   - „Nie więcej niż 2 strony" (jedno miejsce)
    - „Nie dłużej niż jedna strona" (drugie miejsce)
-   - Ustalenie w master-file mówi „nigdy nie przekracza połowy strony" — trzecia, najbardziej rygorystyczna wartość, prawdopodobnie najbardziej aktualna, ale warto to świadomie potwierdzić.
+   - Ustalenie w master-file mówi „nigdy nie przekracza połowy strony" — trzecia, najbardziej rygorystyczna wartość, prawdopodobnie najbardziej aktualna, ale warto to świadomie potwierdzić. - odpowiedź nie dłużej niż jedna strona
 
-3. Nazwa/częstotliwość „misji": „Misja tygodnia" (przy strukturze rozdziału) vs „Misję na następny dzień" (przy liście symboli) vs po prostu „Misja" jako element Klubu Odkrywców (patrz klub-odkrywcow.txt). Mogą to być trzy nazwy tego samego elementu z różnych etapów brainstormu, albo naprawdę różne rzeczy. Wymaga decyzji.
+3. Nazwa/częstotliwość „misji": „Misja tygodnia" (przy strukturze rozdziału) vs „Misję na następny dzień" (przy liście symboli) vs po prostu „Misja" jako element Klubu Odkrywców (patrz klub-odkrywcow.txt). Mogą to być trzy nazwy tego samego elementu z różnych etapów brainstormu, albo naprawdę różne rzeczy. Wymaga decyzji. - nazwa to "Misja dla Ciebie"
 
 ---
 
 DWIE RÓŻNE LISTY „CZEGO UCZYLIŚMY" DLA RODZICA — też prawdopodobnie z różnych etapów tego samego pomysłu:
 
 „Słowa tygodnia" (prostsze): współpraca, cierpliwość, wybór, odwaga, życzliwość.
-
 „Co ćwiczyliśmy" (bardziej techniczne, do sekcji dla rodzica): wytrwałość, odraczanie nagrody, elastyczność poznawcza, teoria umysłu (rozumienie perspektywy innych), samoregulacja, rozpoznawanie emocji, bogactwo języka.
 
-Obie się nie wykluczają — mogą współistnieć jako dwa poziomy tej samej informacji, ale nigdy nie zostały świadomie ze sobą połączone.
+Obie się nie wykluczają — mogą współistnieć jako dwa poziomy tej samej informacji, ale nigdy nie zostały świadomie ze sobą połączone. - odpowiedź - tak powinny istnieć
 
 ---
 
