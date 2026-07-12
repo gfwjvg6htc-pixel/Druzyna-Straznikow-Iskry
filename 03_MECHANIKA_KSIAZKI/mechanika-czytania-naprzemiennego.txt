@@ -22,7 +22,7 @@ Z `zalozenia_ksiazki.docx` — TRZY TRYBY CZYTANIA (nie dwa — wcześniej pomin
 1. Czyta rodzic — ikona 📖 , mniejsza czcionka, bogatszy język, buduje klimat, tajemnice, legendy, opis świata.
    Przykład tonu: „Nad koronami drzew unosiła się delikatna zielona mgła. Pachniała deszczem, miętą i czymś jeszcze, czego [dziecko] nie potrafiła nazwać..."
 
-2. Czyta dziecko — ikona ⭐ , duża czcionka, dużo dialogów, krótsze zdania/akapity, naturalny język.
+2. Czyta dziecko — ikona ⭐ , duża czcionka, dużo dialogów, krótsze zdania/akapity, naturalny język, prostsza składnia.
    Przykład tonu: „— Patrz! To się rusza! — To chyba... — Buba!"
 
 3. Czytamy razem  — ikona 🤝 tryb pojawiający się „od czasu do czasu": rodzic i dziecko na zmianę dokańczają to samo zdanie, zwłaszcza w momentach dramatycznych. Przykład:
