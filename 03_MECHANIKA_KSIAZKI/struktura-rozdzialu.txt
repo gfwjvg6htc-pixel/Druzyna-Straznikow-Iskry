@@ -1,7 +1,6 @@
 STRUKTURA ROZDZIAŁU (DNIA)
 (03_MECHANIKA_KSIAZKI/struktura-rozdzialu.txt)
 
-POPRAWKA: poprzednia wersja tego pliku pomijała bardzo dużo ustalonego materiału z `zalozenia_ksiazki.docx`. Poniżej pełna rekonstrukcja po dokładniejszej analizie.
 
 Zasada ogólna żyje w master-file — tu zapisujemy konkretne liczby, limity i powtarzalne elementy strony.
 
@@ -9,6 +8,9 @@ Zasada ogólna żyje w master-file — tu zapisujemy konkretne liczby, limity i 
 
 USTALONE (z master-file, potwierdzone w rozmowach):
 - Dzień to większa część historii, złożona z kilku rozdziałów.
+jeden Dzień składa się z kilku rozdziałów,
+każdy rozdział jest osobną sesją i ma własny Klub Odkrywców,
+tytuł „Dzień pierwszy” jest nagłówkiem grupy kilku rozdziałów.
 - Minimalna liczba rodziałów w tomie 1: 45, bez sztywnej górnej granicy — długość wynika z tempa historii.
 - Każdy rodział kończy się krótką sekcją dla rodzica, która nigdy nie przekracza połowy strony.
 - Każdy rozdział jest pisany tak, jakby następnego dnia miał trafić do druku.
