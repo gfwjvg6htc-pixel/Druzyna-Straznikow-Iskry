@@ -8,8 +8,8 @@ Zasada ogólna żyje w master-file — tu zapisujemy konkretne liczby, limity i 
 ---
 
 USTALONE (z master-file, potwierdzone w rozmowach):
-
-- Minimalna liczba Dni w tomie 1: 45, bez sztywnej górnej granicy — długość wynika z tempa historii.
+- Dzień to większa część historii, złożona z kilku rozdziałów.
+- Minimalna liczba rodziałów w tomie 1: 45, bez sztywnej górnej granicy — długość wynika z tempa historii.
 - Każdy Dzień kończy się krótką sekcją dla rodzica, która nigdy nie przekracza połowy strony.
 - Każdy Dzień jest pisany tak, jakby następnego dnia miał trafić do druku.
 - Zakończenie Dnia pozostawia ciekawość — nie musi to być dramatyczny zwrot akcji.
