@@ -19,6 +19,10 @@ USTALONE (z naszych rozmów, obowiązujące):
 
 Z `zalozenia_ksiazki.docx` — TRZY TRYBY CZYTANIA (nie dwa — wcześniej pominęłam trzeci):
 
+📖 Czyta rodzic – cały kolejny fragment należy do rodzica.
+⭐ Czyta dziecko – cały kolejny fragment należy do dziecka.
+🤝 Czytamy razem – tylko wtedy, gdy przez kilka kolejnych zdań role przeplatają się naprzemiennie (np. 📖⭐📖⭐📖⭐).
+
 1. Czyta rodzic — ikona 📖 , mniejsza czcionka, bogatszy język, buduje klimat, tajemnice, legendy, opis świata.
    Przykład tonu: „Nad koronami drzew unosiła się delikatna zielona mgła. Pachniała deszczem, miętą i czymś jeszcze, czego [dziecko] nie potrafiła nazwać..."
 
