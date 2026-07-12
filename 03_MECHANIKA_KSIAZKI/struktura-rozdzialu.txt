@@ -24,7 +24,16 @@ Z `zalozenia_ksiazki.docx` — RDZEŃ STRUKTURY ROZDZIAŁU (opisany wprost jako 
 - Pytania (dla rodzica/dziecka): 5
 - Rozmowa dla rodzica
 - Misja tygodnia
-- Minuta czytania
+- Minuta czytania - fragment w rodziale oznaczony ikonką 🎙 Powinien spełniać trzy kryteria:
+trwać około minuty,
+zawierać różne typy zdań (opis, dialog, emocje),
+po miesiącu wyraźnie pokazać postęp w płynności, intonacji i ekspresji. powinien zawierać krótkie zdania,
+dłuższe zdania,
+wyliczenia,
+dialog,
+emocje,
+zmianę tempa,
+humor.
 - Obserwacja dla rodzica
 - Notatki
 
