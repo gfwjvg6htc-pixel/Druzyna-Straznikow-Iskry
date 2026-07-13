@@ -21,7 +21,7 @@ tytuł „Dzień pierwszy” jest nagłówkiem grupy kilku rozdziałów.
 Z `zalozenia_ksiazki.docx` — RDZEŃ STRUKTURY ROZDZIAŁU (opisany wprost jako „każdy rozdział będzie miał identyczną strukturę"):
 
 - Opowiadanie: ok. 2500 słów - 2500 słów to punkt odniesienia, nie sztywny wymóg. Jeśli opowiadanie jest kompletne i dobrze się kończy przy mniejszej liczbie słów, nie trzeba go sztucznie wydłużać, żeby dobić do liczby. Podobnie w drugą stronę — jeśli historia naprawdę tego potrzebuje, może być nieco dłuższa.
-- Nowe słowa: 6–10
+- Nowe słowa: 6–10 - Słowo – krótka, prawdziwa definicja. Jedno zdanie z humorem lub odniesieniem do historii.
 - Ciekawe wyrażenia: 2–5
 - Pytania (dla rodzica/dziecka): 5
 - Rozmowa dla rodzica
