@@ -36,7 +36,7 @@ dialog,
 emocje,
 zmianę tempa,
 humor.
-- Obserwacja dla rodzica
+- Dla rodzica - sklada sie z krótkiego opisu co sie wydarzylo, propozycji pytan; Co warto zauważyc?; Słowa rozdziału; Co świczyliśmy?; Notatka dla Ciebie
 - Notatki
 - Chmura słów
 
