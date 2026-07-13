@@ -1,88 +1,217 @@
 MECHANIKA CZYTANIA NAPRZEMIENNEGO
-(03_MECHANIKA_KSIAZKI/mechanika-czytania-naprzemiennego.txt)
 
-POPRAWKA: poprzednia wersja pomijała jeden cały tryb czytania („Czytamy razem") oraz szczegóły dotyczące tego, co dokładnie czyta rodzic pod koniec książki. Poniżej pełna rekonstrukcja.
+Wspólne czytanie jest sercem projektu. Książka została zaprojektowana tak, aby rodzic i dziecko wspólnie przechodzili przez historię, a udział dziecka stopniowo i naturalnie zwiększał się wraz z kolejnymi rozdziałami.
 
-Zasada ogólna („wspólne czytanie jest sercem projektu") żyje w master-file, sekcja 1.5.
+Podział na role nie jest dodatkiem graficznym ani ćwiczeniem nałożonym na gotowy tekst. Stanowi część konstrukcji książki, ale powinien pozostać dla czytelnika niemal niewidoczny. Gdyby usunąć wszystkie ikony, historia nadal musi brzmieć naturalnie i nie może sprawiać wrażenia sztucznie podzielonej na fragmenty do nauki czytania.
 
----
+Ikony jedynie podpowiadają, kto w danym momencie przejmuje głos:
 
-USTALONE (z naszych rozmów, obowiązujące):
+📖 Otwarta książka – czyta rodzic.
 
-- Podział tekstu na część czytaną przez rodzica i część czytaną przez dziecko.
-- Udział dziecka rośnie z rozdziału na rozdział, aż pod koniec tomu dziecko czyta większość tekstu samodzielnie.
-- Narastanie nigdy nie jest nazwane wprost i nie ma wywoływać poczucia oceny.
-- Podział wynika naturalnie z historii, a nie z mechaniki nauki czytania nałożonej z zewnątrz.
-- Fabularne uzasadnienie ma być naturalnie wplecione w rozdział — BEZ podziału na „Starszego" i „Młodszego" Strażnika ani żadnej innej jawnej hierarchii.
+⭐ Iskra – czyta dziecko.
 
----
+🤝 Dwie splecione dłonie – czytamy razem.
 
-Z `zalozenia_ksiazki.docx` — TRZY TRYBY CZYTANIA (nie dwa — wcześniej pominęłam trzeci):
+1. 📖 OTWARTA KSIĄŻKA – CZYTA RODZIC
 
-📖 Czyta rodzic – cały kolejny fragment należy do rodzica.
-⭐ Czyta dziecko – cały kolejny fragment należy do dziecka.
-🤝 Czytamy razem – tylko wtedy, gdy przez kilka kolejnych zdań role przeplatają się naprzemiennie (np. 📖⭐📖⭐📖⭐).
+Fragmenty oznaczone ikoną 📖 są czytane w całości przez rodzica.
 
-1. Czyta rodzic — ikona 📖 , mniejsza czcionka, bogatszy język, buduje klimat, tajemnice, legendy, opis świata.
-   Przykład tonu: „Nad koronami drzew unosiła się delikatna zielona mgła. Pachniała deszczem, miętą i czymś jeszcze, czego [dziecko] nie potrafiła nazwać..."
+Mogą być zapisane mniejszą czcionką niż fragmenty dziecka. Mają bardziej literacki i opisowy charakter. To przede wszystkim w nich budowane są klimat, świat przedstawiony, emocje, tajemnice, legendy oraz humor narratora.
 
-2. Czyta dziecko — ikona ⭐ , duża czcionka, dużo dialogów, krótsze zdania/akapity, naturalny język, prostsza składnia. Dzieci moga czytać dłuższe fragmenty, jeśli są zbudowane z krótkich zdań.
-   Przykład tonu: „— Patrz! To się rusza! — To chyba... — Buba!"
-dialogi,
-okrzyki,
-wyliczenia,
-humor,
-rymowanki Buby,
-wyścigi,
-wszystko, co popycha akcję do przodu.
+W części rodzica najczęściej znajdują się:
 
-3. Czytamy razem  — ikona 🤝 tryb pojawiający się „od czasu do czasu": rodzic i dziecko na zmianę dokańczają to samo zdanie, zwłaszcza w momentach dramatycznych. Przykład:
-   Rodzic: „Drzwi powoli…"
-   Dziecko: „…otworzyły się z głośnym…"
-   Rodzic: „…SKRZYYYYP…"
-   Dziecko: „…i wszyscy zamarli."
-   Cel: ćwiczy rytm i intonację, bardzo angażujące.
-Powinno służyć nauce wspólnego opowiadania historii
-Jak czytać tę książkę?
-Czyta rodzic
-Czyta dziecko
+* opisy świata i otoczenia,
+* narracja,
+* dłuższe i bardziej złożone zdania,
+* bogatsze metafory,
+* fragmenty wymagające odpowiedniej intonacji,
+* treści zawierające większą liczbę wtrąceń lub zdań podrzędnych,
+* celowo trudniejsze językowo wypowiedzi, na przykład długie wypowiedzi Buby zawierające niepoprawne formy.
 
----
+Rodzic prowadzi historię tam, gdzie tekst wymaga bogatszego języka, bardziej złożonego rytmu albo dodatkowego wsparcia głosowego.
 
-DO POTWIERDZENIA — harmonogram narastania udziału dziecka (z `zalozenia_ksiazki.docx`, sprzed obecnej wersji świata):
+Pod koniec tomu udział rodzica jest niewielki. Rodzic może wówczas nadal czytać pojedyncze fragmenty, których szczególny charakter uzasadnia zmianę głosu, na przykład:
 
-Ważne doprecyzowanie: proporcja ma się zmieniać CO ROZDZIAŁ, nie co 10 dni czy co miesiąc (wprost zapisane w źródle: „% czytania mamy i [dziecka] powinien zmieniać się co rozdział, a nie co miesiąc").
+* starą legendę,
+* list,
+* zagadkę,
+* przepowiednię,
+* Sekretną notatkę Buby.
 
-Proponowany harmonogram (dwie nieco różne wersje w tym samym dokumencie — różnią się tylko rozdziałem 4, reszta się zgadza):
+Nie oznacza to jednak, że określone typy tekstów zawsze muszą należeć wyłącznie do rodzica. Decyzja powinna wynikać z poziomu trudności i rytmu konkretnej sceny.
 
-Wersja A:
-- Rozdział 1: 50/50
-- Rozdział 2: dziecko 55 / rodzic 45
-- Rozdział 3: 60/40
-- Rozdział 4: 65/35
-- Rozdziały końcowe: 95/5
+2. ⭐ ISKRA – CZYTA DZIECKO
 
-Wersja B (z innego miejsca dokumentu):
-- Rozdział 1: 50/50
-- Rozdział 2: 55/45
-- Rozdział 3: 60/40
-- Rozdział 4: 75/25 (tu jest różnica względem wersji A)
-- Rozdziały końcowe: 95/5
+Fragmenty oznaczone ikoną ⭐ są czytane w całości przez dziecko.
 
-Dodatkowa zasada: możliwość utrzymania poprzedniego poziomu, jeśli dany rozdział okazał się trudniejszy (elastyczność, nie sztywny harmonogram).
+Powinny być zapisane większą czcionką i dawać dziecku satysfakcję z samodzielnego przeczytania prawdziwego fragmentu opowieści. Nie mają przypominać uproszczonej czytanki ani tekstu przygotowanego wyłącznie do ćwiczeń.
 
-Poziom trudności językowej rośnie „bardzo powoli, prawie niezauważalnie" — nowe słowa, długość zdań, dialogi, opisy.
+Część dziecka może zawierać nowe i trudniejsze słowa. Powinna stanowić niewielkie wyzwanie, ale jej konstrukcja składniowa musi być prostsza niż w części rodzica.
 
-Co dokładnie czyta rodzic pod koniec książki (gdy jego udział spada do ok. 5%): starą legendę, list, zagadkę, przepowiednię, śmieszną notatkę Buby. To bezpośrednio łączy się z „Sekretnymi notatkami Buby" opisanymi w struktura-rozdzialu.txt — te notatki to jeden z konkretnych typów tekstu zarezerwowanych dla rodzica w końcowej fazie książki.
+W części dziecka najczęściej znajdują się:
 
----
+* dialogi,
+* okrzyki,
+* krótsze akapity,
+* dynamiczna akcja,
+* wyścigi i sceny ruchu,
+* humor,
+* powtórzenia,
+* wyliczenia,
+* rymowanki Buby,
+* momenty wymagające ekspresji,
+* wszystko, co wyraźnie popycha akcję do przodu.
 
-Stary koncept fabularnego uzasadnienia z `zalozenia_ksiazki.docx` („Kroniki Strażników" zapisane dawnym językiem, odczytywane przez „Starszego Czytelnika", które z czasem stają się coraz krótsze, bo bohaterowie coraz lepiej rozumieją świat) — ODRZUCONY przez ustalenie, że nie ma być podziału Starszy/Młodszy Strażnik. Potrzebne jest nowe rozwiązanie, które zachowuje ideę (malejący udział rodzica ma fabularne uzasadnienie, nie jest odczuwany jako ocena), ale bez tej konkretnej etykiety.
+Dziecko może czytać również dłuższy fragment, jeżeli składa się on z krótkich, przejrzystych zdań i tworzy spójną całość.
 
----
+Fragmenty ⭐ powinny obejmować całe akapity lub naturalne części sceny. Nie należy rozbijać tekstu na pojedyncze zdania wyłącznie po to, aby sztucznie zwiększyć udział dziecka.
 
-NIEUSTALONE — temat na sesję kreatywną, nie do rozstrzygnięcia w audycie:
+3. 🤝 DWIE SPLECIONE DŁONIE – CZYTAMY RAZEM
 
-- Jakie fabularne rozwiązanie w świecie Iskry w naturalny sposób tłumaczy zmieniającą się proporcję, bez nazywania tego wprost i bez hierarchii Starszy/Młodszy.
-- Który z dwóch harmonogramów (A czy B) obowiązuje, i czy w ogóle pasuje do 45+ Rozdziałów (był projektowany pod inną, prawdopodobnie krótszą, strukturę tomu — dokument mówi o ok. 60 rozdziałach przy innym wieku czytelnika).
-- Czy tryb „Czytamy razem" pojawia się w konkretnych, powtarzalnych momentach (np. zawsze przy cliffhangerze), czy swobodnie, kiedy scena na to pozwala.
+Ikona 🤝 oznacza fragment, w którym rodzic i dziecko kilkukrotnie, naprzemiennie przejmują od siebie głos.
+
+Tryb ten pojawia się od czasu do czasu, tylko wtedy, gdy pozwala na to scena i gdy wspólne czytanie rzeczywiście wnosi dodatkową wartość.
+
+Nie stosujemy ikony 🤝 przy każdej pojedynczej wymianie zdań między rolami. Powinna ona obejmować kilka kolejnych przejęć głosu, na przykład:
+
+📖 Rodzic.
+
+⭐ Dziecko.
+
+📖 Rodzic.
+
+⭐ Dziecko.
+
+📖 Rodzic.
+
+⭐ Dziecko.
+
+Tryb wspólny może być wykorzystywany szczególnie w:
+
+* dłuższych dialogach,
+* scenach zabawnych,
+* momentach dramatycznych,
+* fragmentach wymagających wyrazistej intonacji,
+* scenach przypominających małe przedstawienie,
+* fragmentach, w których rodzic i dziecko naprzemiennie uzupełniają kolejne części jednego zdania.
+
+Przykład:
+
+📖 Drzwi powoli…
+
+⭐ …otworzyły się z głośnym…
+
+📖 …SKRZYYYYP…
+
+⭐ …i wszyscy zamarli.
+
+Celem tego trybu jest rozwijanie rytmu, intonacji, uważnego słuchania oraz umiejętności wspólnego opowiadania historii. Ma on angażować, ale nie może być stosowany mechanicznie ani według stałego schematu, na przykład przy każdym zakończeniu sceny.
+
+4. JAK WYBIERAĆ FRAGMENTY DLA POSZCZEGÓLNYCH RÓL
+
+Tekstu nie dzielimy mechanicznie ani według z góry ustalonej liczby zdań.
+
+Najpierw należy spojrzeć na:
+
+* rytm sceny,
+* naturalne zmiany głosu,
+* poziom trudności językowej,
+* długość i konstrukcję zdań,
+* emocjonalny charakter fragmentu,
+* rolę danego fragmentu w opowieści.
+
+Dopiero później należy zdecydować, czy fragment czyta rodzic, dziecko czy oboje naprzemiennie.
+
+Podział musi wynikać z historii, a nie z potrzeby osiągnięcia określonej proporcji. Nie wolno zmieniać naturalnego rytmu sceny tylko po to, aby zwiększyć liczbę fragmentów oznaczonych ikoną ⭐.
+
+5. ZASADA UPRASZCZANIA FRAGMENTÓW DZIECKA
+
+Jeżeli fragment przeznaczony dla dziecka okazuje się zbyt trudny, upraszczamy jego konstrukcję, a nie treść.
+
+Najważniejsza zasada brzmi:
+
+Upraszczamy zdania, nie pomysły.
+
+W fragmentach ⭐ można:
+
+* skracać bardzo długie zdania,
+* ograniczać liczbę zdań podrzędnych,
+* usuwać nadmiar wtrąceń,
+* dzielić złożone konstrukcje na kilka krótszych zdań,
+* porządkować szyk zdania.
+
+Nie należy upraszczać ani usuwać:
+
+* emocji,
+* humoru,
+* charakterów bohaterów,
+* fabuły,
+* ważnych informacji,
+* bogatego słownictwa,
+* nowych wyrazów potrzebnych opowieści.
+
+Dziecko czyta prostsze zdania, ale nadal czyta tę samą historię.
+
+6. NOWE I TRUDNIEJSZE SŁOWA
+
+Fragmenty oznaczone ikoną ⭐ mogą zawierać nowe, mniej znane lub trudniejsze słowa.
+
+Nie należy usuwać ich tylko dlatego, że dziecko może jeszcze nie znać ich znaczenia. Rozwijanie słownictwa jest częścią nauki czytania.
+
+Nowe wyrazy i zwroty pojawiające się w rozdziale są później wyjaśniane w Skarbcu słów i zwrotów znajdującym się po każdym rozdziale.
+
+7. STOPNIOWY WZROST UDZIAŁU DZIECKA
+
+Na początku książki rodzic czyta większą część tekstu.
+
+W kolejnych rozdziałach udział dziecka stopniowo rośnie. Zmiana następuje w przebiegu kolejnych rozdziałów, a nie według kalendarza, liczby dni czy miesięcy.
+
+Nie obowiązuje żaden sztywny harmonogram ani dokładna wartość procentowa, o którą udział dziecka musi wzrastać w każdym rozdziale.
+
+Najważniejszy jest ogólny kierunek:
+
+* na początku rodzic czyta więcej,
+* z rozdziału na rozdział dziecko otrzymuje coraz większą część tekstu,
+* pod koniec tomu dziecko czyta większość historii samodzielnie,
+* rodzicowi pozostają pojedyncze opisy lub fragmenty o szczególnej formie.
+
+Wzrost nie musi następować w każdym rozdziale w identycznym tempie. Jeżeli dany rozdział jest językowo, emocjonalnie lub fabularnie trudniejszy, można utrzymać proporcje z poprzedniego rozdziału.
+
+Nie cofamy poziomu bez wyraźnej potrzeby, ale mechanika pozostaje elastyczna i podporządkowana historii.
+
+8. STOPNIOWY WZROST TRUDNOŚCI
+
+Wraz ze zwiększaniem udziału dziecka bardzo powoli rośnie również poziom trudności językowej jego fragmentów.
+
+Zmiana powinna być prawie niezauważalna i może obejmować:
+
+* stopniowe wprowadzanie nowych słów,
+* nieznaczne wydłużanie zdań,
+* dłuższe partie dialogowe,
+* bardziej rozbudowane akapity,
+* stopniowe zwiększanie udziału narracji i opisów w części dziecka.
+
+Dziecko nie powinno mieć poczucia, że jest sprawdzane, oceniane albo przenoszone na kolejny poziom. Powinno jedynie zauważyć, że samodzielne czytanie staje się coraz bardziej naturalne.
+
+9. BRAK JAWNEJ HIERARCHII I OCENY
+
+Książka nie posługuje się podziałem na Starszego i Młodszego Strażnika, Starszego i Młodszego Czytelnika ani żadną podobną hierarchią.
+
+Nie należy wprost wyjaśniać czytelnikowi, że udział dziecka rośnie, ponieważ rozwijają się jego umiejętności. Mechanika nie może brzmieć jak system poziomów, testów albo nagród.
+
+Zmieniająca się proporcja nie wymaga osobnego fabularnego wyjaśnienia w świecie przedstawionym. Wystarczy, że wynika naturalnie z konstrukcji kolejnych rozdziałów.
+
+10. ZASADA NADRZĘDNA
+
+Książka pozostaje przede wszystkim opowieścią, a dopiero później narzędziem wspierającym naukę czytania.
+
+Podział 📖 / ⭐ / 🤝 jest prawidłowy tylko wtedy, gdy:
+
+* historia nadal brzmi płynnie,
+* rytm sceny pozostaje naturalny,
+* fragmenty dziecka nie są infantylizowane,
+* tekst nie wygląda jak zestaw ćwiczeń,
+* zmiana głosu pomaga przeżywać historię,
+* dziecko stopniowo nabiera pewności bez poczucia, że jest oceniane.
+
+Ikony wskazują, kto przejmuje głos. Nie mogą przejmować kontroli nad samą historią.
