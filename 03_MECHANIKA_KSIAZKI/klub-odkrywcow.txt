@@ -11,7 +11,7 @@ USTALONE (z `zalozenia_ksiazki.docx`):
 
 Klub Odkrywców pojawia się po każdym rozdziale. To nie jedna aktywność, tylko kilka krótkich — całość zajmuje 5–10 minut i nigdy nie jest obowiązkowa. Ma być „po prostu fajną zabawą", nie sprawdzianem.
 
-Osiem stałych, rotacyjnych elementów:
+siedem stałych, rotacyjnych elementów:
 
 1. Chmura słów — nowe słowa z rozdziału ukryte w układance liter (np. wykreślanka). Przykładowe słowa z pierwszego szkicu: kompas, odwaga, ślad, iskra, drużyna, zagadka.
 definicje tworzymy zgodnie z zalozeniem: Dziecko przede wszystkim ma zrozumieć słowo. Dopiero potem się uśmiechnąć, wg schematu: Słowo – krótka, prawdziwa definicja. Jedno zdanie z humorem lub odniesieniem do historii.
@@ -26,9 +26,7 @@ definicje tworzymy zgodnie z zalozeniem: Dziecko przede wszystkim ma zrozumieć 
 
 6. Misja dla Ciebie — jedno małe wyzwanie do wykonania w prawdziwym życiu (nawiązujące do tematu rozdziału).
 
-7. Nagranie — dziecko nagrywa się, czytając fragment na głos (np. stronę), a za miesiąc porównuje nagranie z nowym odczytaniem tego samego fragmentu. Śledzi własny postęp w czytaniu.
-
-8. Minuta z książką - opisany "fragment oznaczony ikoną 🎙. Przeczytaj go na głos i poproś kogoś o nagranie. Za miesiąc wróć do tego samego miejsca i nagraj go jeszcze raz. Posłuchaj obu nagrań. Możesz się zdziwić, jak wiele zmieniło się przez ten czas.
+7. Minuta z książką  — dziecko nagrywa się, czytając fragment na głos (np. stronę), a za miesiąc porównuje nagranie z nowym odczytaniem tego samego fragmentu. Śledzi własny postęp w czytaniu. opisany "fragment oznaczony ikoną 🎙. Przeczytaj go na głos i poproś kogoś o nagranie. Za miesiąc wróć do tego samego miejsca i nagraj go jeszcze raz. Posłuchaj obu nagrań. Możesz się zdziwić, jak wiele zmieniło się przez ten czas.
 "
 
 ---
