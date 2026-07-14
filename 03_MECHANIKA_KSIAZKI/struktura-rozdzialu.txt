@@ -1,87 +1,323 @@
-STRUKTURA ROZDZIAŁU (DNIA)
-(03_MECHANIKA_KSIAZKI/struktura-rozdzialu.txt)
-
-
-Zasada ogólna żyje w master-file — tu zapisujemy konkretne liczby, limity i powtarzalne elementy strony.
-
----
-
-USTALONE (z master-file, potwierdzone w rozmowach):
-- Dzień to większa część historii, złożona z kilku rozdziałów.
-jeden Dzień składa się z kilku rozdziałów,
-każdy rozdział jest osobną sesją i ma własny Klub Odkrywców,
-tytuł „Dzień pierwszy” jest nagłówkiem grupy kilku rozdziałów.
-- Minimalna liczba rodziałów w tomie 1: 45, bez sztywnej górnej granicy — długość wynika z tempa historii.
-- Każdy rodział kończy się krótką sekcją dla rodzica, która nigdy nie przekracza połowy strony.
-- Każdy rozdział jest pisany tak, jakby następnego dnia miał trafić do druku.
-- Zakończenie rozdziału i dnia pozostawia ciekawość — nie musi to być dramatyczny zwrot akcji.
-
----
-
-Z `zalozenia_ksiazki.docx` — RDZEŃ STRUKTURY ROZDZIAŁU (opisany wprost jako „każdy rozdział będzie miał identyczną strukturę"):
-
-- Opowiadanie: ok. 2500 słów - 2500 słów to punkt odniesienia, nie sztywny wymóg. Jeśli opowiadanie jest kompletne i dobrze się kończy przy mniejszej liczbie słów, nie trzeba go sztucznie wydłużać, żeby dobić do liczby. Podobnie w drugą stronę — jeśli historia naprawdę tego potrzebuje, może być nieco dłuższa.
-- Nowe słowa: 6–10 - 
-- Ciekawe wyrażenia: 2–5
-- Pytania (dla rodzica/dziecka): 5
-- Rozmowa dla rodzica
-- Misja tygodnia
-- Minuta czytania - fragment w rodziale oznaczony ikonką 🎙 Powinien spełniać trzy kryteria:
-trwać około minuty,
-zawierać różne typy zdań (opis, dialog, emocje),
-po miesiącu wyraźnie pokazać postęp w płynności, intonacji i ekspresji. powinien zawierać krótkie zdania,
-dłuższe zdania,
-wyliczenia,
-dialog,
-emocje,
-zmianę tempa,
-humor.
-- Dla rodzica - sklada sie z krótkiego opisu co sie wydarzylo, propozycji pytan; Co warto zauważyc?; Słowa rozdziału; Co świczyliśmy?; Notatka dla Ciebie
-- Notatki
-- Chmura słów
-
-
-Tempo czytania: jeden rozdział dziennie, ok. 15–20 minut wspólnego czytania.
-
----
-
-DODATKOWE, POWTARZALNE ELEMENTY STRONY (znalezione w innym miejscu dokumentu, nie wymienione razem z listą powyżej — możliwe, że to osobna warstwa pomysłów z innej sesji brainstormu):
-
-- Mini-komiks na końcu każdego rozdziału: 4 obrazki, minimalna ilość tekstu, śmieszna scena z bohaterami, NIE rozwija fabuły — jego jedynym celem jest rozśmieszyć dziecko.
-- „Sekretne notatki Buby" — co kilka rozdziałów (nie każdy), osobna strona, na której Buba „dopisuje komentarze do książki" (np. żartobliwe fałszywe fakty: „Jeśli ktoś twierdzi, że brokuły dają supermoce, nie wierz mu. Sprawdzałem. Dają tylko ochotę na deser."). Wariant: „sekretne notatki Noxa", pokazujące, jak bardzo nie rozumie on dzieci. Cel: dziecko zagląda nawet na strony, na których „nic się nie dzieje", licząc na kolejny żart.
-  UWAGA: to bezpośrednio łączy się z mechaniką czytania naprzemiennego — w końcowych rozdziałach, gdy rodzic czyta już tylko 5%, jego część to właśnie: stara legenda, list, zagadka, przepowiednia, śmieszna notatka Buby (patrz mechanika-czytania-naprzemiennego.txt).
-
----
-
-NIESPÓJNOŚCI W ŹRÓDLE — do rozstrzygnięcia, dokument sam sobie zaprzecza w trzech miejscach:
-
-1. Liczba nowych słów na rozdział — trzy różne wartości w tym samym dokumencie:
-Liczba nowych słów na rozdział: 6–8. (Wcześniejsze wzmianki o 5–6 i 5–10 pochodziły z wcześniejszych etapów brainstormu i zostały nadpisane decyzją z sesji: „Zwiększmy nowe słowa do 6–8 na każdy Dzień".) - odpowiedź - 6-10
-
-2. Objętość sekcji dla rodzica — dwie sprzeczne wartości w źródle:
-   - „Nie dłużej niż jedna strona" (drugie miejsce)
-   - Ustalenie w master-file mówi „nigdy nie przekracza połowy strony" — trzecia, najbardziej rygorystyczna wartość, prawdopodobnie najbardziej aktualna, ale warto to świadomie potwierdzić. - odpowiedź nie dłużej niż jedna strona
-
-3. Nazwa/częstotliwość „misji": „Misja tygodnia" (przy strukturze rozdziału) vs „Misję na następny dzień" (przy liście symboli) vs po prostu „Misja" jako element Klubu Odkrywców (patrz klub-odkrywcow.txt). Mogą to być trzy nazwy tego samego elementu z różnych etapów brainstormu, albo naprawdę różne rzeczy. Wymaga decyzji. - nazwa to "Misja dla Ciebie"
-
----
-
-DWIE RÓŻNE LISTY „CZEGO UCZYLIŚMY" DLA RODZICA — też prawdopodobnie z różnych etapów tego samego pomysłu:
-
-„Słowa tygodnia" (prostsze): współpraca, cierpliwość, wybór, odwaga, życzliwość.
-„Co ćwiczyliśmy" (bardziej techniczne, do sekcji dla rodzica): wytrwałość, odraczanie nagrody, elastyczność poznawcza, teoria umysłu (rozumienie perspektywy innych), samoregulacja, rozpoznawanie emocji, bogactwo języka.
-
-Obie się nie wykluczają — mogą współistnieć jako dwa poziomy tej samej informacji, ale nigdy nie zostały świadomie ze sobą połączone. - odpowiedź - tak powinny istnieć
-
----
-
-RODZAJE HUMORU (potwierdzają i uszczegóławiają zasadę z master-file):
-
-Tak: zabawne dialogi, absurdalne sytuacje, magiczne wpadki, running jokes, śmieszne stworzenia, komentarze pobocznych bohaterów.
-Nigdy: żarty z czyjejś krzywdy, zawstydzanie, humor oparty na wyśmiewaniu.
-
----
-
-POWIĄZANE, ALE OSOBNE OD STRUKTURY ROZDZIAŁU:
-
-„Stwórz swojego bohatera" (RPG) — jednorazowa aktywność na początku książki: imię, kolor włosów/oczu, ulubiony kolor/zwierzę, supermoc, a także wygląd futrzastego towarzysza (czyli własnej wersji Buby). To ładnie współgra z ustaloną zasadą, że nikt nie wie, jak naprawdę wygląda Buba — każde dziecko może wyobrazić je sobie inaczej.
+STRUKTURA KAŻDEGO ROZDZIAŁU
+Plik zawiera zasady wykonawcze dotyczące budowy pojedynczego rozdziału. Ogólne założenia książki i jej filozofia pozostają w master-file.
+MIEJSCE ROZDZIAŁU W STRUKTURZE KSIĄŻKI
+Dzień jest większą częścią historii i składa się z kilku rozdziałów.
+Nagłówek „Dzień pierwszy”, „Dzień drugi” itd. obejmuje grupę rozdziałów, a nie jeden rozdział.
+Każdy rozdział:
+• stanowi osobną sesję wspólnego czytania,
+• ma własny tytuł lub numer,
+• zawiera własny Klub Odkrywców,
+• zawiera własną sekcję „Dla rodzica”,
+• powinien dawać poczucie zakończenia pewnego etapu, nawet jeżeli historia jest bezpośrednio kontynuowana w następnym rozdziale.
+Tempo czytania:
+• jeden rozdział podczas jednej sesji,
+• około 15–20 minut wspólnego czytania.
+CZĘŚĆ FABULARNA
+Objętość
+Punktem odniesienia jest około 2500 słów tekstu fabularnego.
+Nie jest to sztywny limit. Rozdział może być krótszy, jeśli scena jest kompletna i ma właściwy rytm. Może być również nieco dłuższy, jeśli wymaga tego historia.
+Nie należy:
+• sztucznie wydłużać sceny, aby osiągnąć określoną liczbę słów,
+• skracać ważnych emocjonalnie lub fabularnie wydarzeń tylko po to, aby zmieścić się w limicie.
+Funkcja rozdziału
+Każdy rozdział powinien:
+• przedstawiać konkretny etap wydarzeń,
+• mieć własny wewnętrzny kierunek,
+• zawierać przynajmniej jedną zmianę względem początku rozdziału: wydarzenie, odkrycie, decyzję, zmianę emocji, pogłębienie relacji albo przejście do kolejnego miejsca,
+• rozwijać fabułę, bohaterów, ich relacje albo świat,
+• pozostawiać czytelnika z ciekawością dotyczącą dalszego ciągu.
+Zakończenie nie musi zawierać dramatycznego zwrotu akcji. Może nim być:
+• zapowiedź kolejnego miejsca lub działania,
+• nowe pytanie,
+• odkrycie,
+• decyzja bohatera,
+• zmiana emocjonalna,
+• naturalne przejście do kolejnej sceny.
+Rozdział nie powinien kończyć się przypadkowo ani wyłącznie dlatego, że osiągnął planowaną długość.
+Jakość tekstu
+Każdy rozdział piszemy tak, jakby następnego dnia miał trafić do druku.
+Przed uznaniem rozdziału za ukończony należy sprawdzić:
+• zgodność fabuły z planem dnia i dokumentacją projektu,
+• zgodność zachowania bohaterów z ich opisami,
+• ciągłość względem poprzedniego i następnego rozdziału,
+• poprawność szczegółów świata,
+• rytm sceny,
+• naturalność dialogów,
+• rozmieszczenie bloków czytania naprzemiennego,
+• poziom trudności fragmentów oznaczonych ⭐.
+CZYTANIE NAPRZEMIENNE
+Każdy rozdział jest dzielony na naturalne bloki głosu:
+📖 otwarta książka – czyta rodzic
+⭐ Iskra – czyta dziecko
+🤝 dwie splecione dłonie – czytamy razem
+Podstawową jednostką podziału jest naturalny blok głosu, a nie pojedyncze zdanie lub akapit.
+Kilka kolejnych akapitów może należeć do tej samej osoby. Nie powtarzamy tej samej ikony przed każdym akapitem, jeśli czytający się nie zmienia.
+Podział powinien zachować wygląd zwykłej prozy. Tekst nie może przypominać scenariusza rozpisanego zdanie po zdaniu.
+Fragmenty ⭐ muszą być dostosowane do aktualnego etapu nauki czytania. Ocena trudności językowej i technicznej dotyczy przede wszystkim tekstu oznaczonego ⭐, niezależnie od wielkości zastosowanej ikony.
+Fragmenty 📖 mogą:
+• zawierać trudniejsze opisy,
+• budować atmosferę i świat,
+• przekazywać bardziej złożone informacje,
+• prowadzić dłuższe zdania narracyjne.
+Fragmenty ⭐ powinny przede wszystkim:
+• być możliwe do płynnego przeczytania przez dziecko na danym etapie,
+• zawierać działania, dialogi i emocje ważne dla przebiegu sceny,
+• dawać dziecku poczucie rzeczywistego uczestnictwa w opowiadaniu,
+• unikać nagromadzenia kilku trudności językowych w jednym miejscu.
+Fragmenty 🤝 stosujemy oszczędnie, w momentach, które naturalnie nadają się do wspólnego wypowiedzenia. Sama ikona 🤝 nie zastępuje oznaczenia, kto czyta dalszą część tekstu.
+HUMOR
+Każdy rozdział powinien zachowywać ciepły, lekki humor charakterystyczny dla książki, o ile pasuje on do wydarzeń.
+Dopuszczalne źródła humoru:
+• zabawne dialogi,
+• absurdalne obserwacje,
+• nieporozumienia,
+• magiczne lub codzienne wpadki,
+• running jokes,
+• zachowanie Buby i innych stworzeń,
+• komentarze postaci pobocznych,
+• kontrast między powagą bohatera a rzeczywistą sytuacją.
+Niedopuszczalne:
+• żarty z czyjejś krzywdy,
+• zawstydzanie,
+• humor oparty na poniżaniu,
+• przedstawianie trudnych emocji dziecka jako czegoś śmiesznego lub nieważnego.
+Nie każdy akapit musi zawierać żart. Humor nie może osłabiać scen emocjonalnych.
+SKARBIEC SŁÓW I ZWROTÓW – ELEMENT OBOWIĄZKOWY
+Po części fabularnej znajduje się sekcja:
+Skarbiec słów i zwrotów
+Każdy rozdział zawiera od 6 do 10 słów lub zwrotów występujących w jego tekście.
+Dobieramy przede wszystkim:
+• słowa, których dziecko może jeszcze nie znać,
+• słowa przydatne również poza kontekstem rozdziału,
+• wyrazy opisujące emocje, zachowania, ruch lub sposób myślenia,
+• czasowniki i przymiotniki poszerzające zasób aktywnego słownictwa.
+Każde hasło powinno zawierać:
+• słowo w formie użytej jako hasło,
+• krótkie i zrozumiałe wyjaśnienie,
+• przykład lub żartobliwy komentarz związany z wydarzeniami rozdziału, jeśli pomaga on zapamiętać znaczenie.
+Wyjaśnienia nie powinny:
+• zastępować jednego trudnego słowa innym równie trudnym,
+• brzmieć jak definicje ze słownika dla dorosłych,
+• wprowadzać informacji, których nie ma w tekście lub dokumentacji świata.
+CIEKAWE WYRAŻENIA – ELEMENT OPCJONALNY
+Sekcja „Ciekawe wyrażenia” nie musi występować w każdym rozdziale.
+Dodajemy ją tylko wtedy, gdy w tekście rzeczywiście pojawiają się:
+• powiedzenia,
+• związki frazeologiczne,
+• metaforyczne zwroty,
+• utarte porównania,
+• wyrażenia, których znaczenia nie da się łatwo odczytać z poszczególnych słów.
+Nie należy tworzyć tej sekcji na siłę ani przenosić do niej zwykłych nowych słów tylko po to, aby pojawiła się w każdym rozdziale.
+Jeżeli sekcja występuje, powinna zawierać od 1 do 5 wyrażeń. Liczba zależy od rzeczywistej zawartości rozdziału.
+Każde wyrażenie powinno zawierać:
+• jego pełną formę,
+• wyjaśnienie znaczenia,
+• krótkie odniesienie do sposobu, w jaki zostało użyte w rozdziale.
+KLUB ODKRYWCÓW – ELEMENT OBOWIĄZKOWY
+Każdy rozdział ma własny Klub Odkrywców, związany bezpośrednio z jego treścią.
+Klub Odkrywców składa się z pięciu stałych elementów:
+Znajdź w tekście
+Zadanie wymaga odnalezienia konkretnego fragmentu, zdania albo informacji zapisanej w rozdziale.
+Powinno:
+• ćwiczyć uważne czytanie,
+• kierować uwagę na ważny szczegół, zachowanie lub cechę bohatera,
+• mieć odpowiedź możliwą do jednoznacznego wskazania w tekście.
+W dokumentacji roboczej można podać odpowiedź w nawiasie. W wersji dla czytelnika sposób prezentowania odpowiedzi będzie zależał od projektu wydania.
+Detektyw
+Pytanie wymaga połączenia co najmniej dwóch wskazówek albo wyciągnięcia prostego wniosku.
+Odpowiedź nie powinna być podana w jednym zdaniu wprost. Dziecko powinno:
+• zauważyć ślady,
+• porównać informacje,
+• rozpoznać przyczynę,
+• odczytać zachowanie postaci,
+• wywnioskować, co się wydarzyło.
+Zadanie nie może wymagać wiedzy spoza tekstu.
+Co będzie dalej?
+Pytanie zachęca dziecko do przewidzenia kolejnego wydarzenia.
+Powinno:
+• wynikać z zakończenia rozdziału,
+• dopuszczać różne odpowiedzi,
+• pobudzać ciekawość,
+• nie sugerować, że istnieje tylko jedna poprawna wersja.
+Nie ujawniamy w pytaniu wydarzeń następnego rozdziału.
+Supermoce bohaterów
+Pytanie dotyczy zachowania, emocji, relacji albo wewnętrznej siły bohatera pokazanej w danym rozdziale.
+„Supermoc” nie oznacza wyłącznie mocy magicznej. Może oznaczać między innymi:
+• zauważenie czyichś emocji,
+• wsparcie,
+• odwagę,
+• lojalność,
+• ciekawość,
+• wytrwałość,
+• przyznanie się do błędu,
+• twórcze myślenie.
+Pytanie musi odnosić się do tego, co bohater rzeczywiście zrobił w rozdziale. Nie może dodawać mu nowej, nieustalonej cechy.
+Misja dla Ciebie
+Misja przenosi temat, sposób obserwowania albo doświadczenie z rozdziału do codziennego świata dziecka.
+Powinna być:
+• bezpieczna,
+• krótka,
+• możliwa do wykonania bez specjalnych materiałów,
+• pozbawiona oceniania i rywalizacji,
+• związana z treścią rozdziału,
+• oparta na obserwacji, wyobraźni, rozmowie, ruchu albo prostym działaniu.
+Misja nie jest zadaniem domowym ani testem. Dziecko nie musi jej wykonać, aby przejść dalej.
+MINUTA Z KSIĄŻKĄ – ELEMENT OBOWIĄZKOWY
+Każdy rozdział zawiera jeden fragment oznaczony ikoną 🎙.
+Fragment:
+• znajduje się w części oznaczonej ⭐,
+• jest przeznaczony do samodzielnego czytania przez dziecko,
+• powinien trwać około jednej minuty,
+• zostaje ponownie przeczytany i nagrany po miesiącu, aby dziecko mogło zauważyć własny postęp.
+Dobry fragment może zawierać:
+• krótkie i dłuższe zdania,
+• opis,
+• dialog,
+• emocje,
+• wyliczenie,
+• zmianę tempa,
+• humor.
+Nie każdy fragment musi zawierać wszystkie te elementy. Najważniejsze, aby umożliwiał zauważenie postępu w:
+• płynności,
+• intonacji,
+• tempie,
+• ekspresji,
+• pewności czytania.
+Fragment musi tworzyć spójną całość. Nie powinien zaczynać się ani kończyć w miejscu, którego nie da się zrozumieć bez dodatkowego objaśnienia.
+Po Klubie Odkrywców znajduje się stała instrukcja:
+🎙 Minuta z książką
+W tym rozdziale znajdziesz fragment oznaczony ikoną 🎙. Przeczytaj go na głos i poproś kogoś o nagranie. Za miesiąc wróć do tego samego miejsca i nagraj go jeszcze raz. Posłuchaj obu nagrań. Możesz się zdziwić, jak wiele zmieniło się przez ten czas.
+DLA RODZICA – ELEMENT OBOWIĄZKOWY
+Każdy rozdział kończy się sekcją „Dla rodzica”.
+Sekcja powinna być związana wyłącznie z wydarzeniami, emocjami i tematami rzeczywiście obecnymi w danym rozdziale.
+Nie może:
+• dopisywać bohaterom motywacji, których tekst nie pokazuje,
+• diagnozować dziecka,
+• sugerować jedynej poprawnej interpretacji,
+• zmieniać wspólnego czytania w lekcję lub przesłuchanie,
+• moralizować,
+• streszczać całego rozdziału scena po scenie.
+Całość sekcji „Dla rodzica” nie powinna przekraczać jednej strony.
+Sekcja składa się z następujących elementów:
+A. Wprowadzenie
+Krótki opis:
+• co ważnego wydarzyło się w rozdziale,
+• jakie emocje, relacje lub doświadczenia mogą być istotne dla dziecka,
+• dlaczego pozornie drobna scena może mieć większe znaczenie.
+Nie jest to pełne streszczenie fabuły.
+B. Propozycja rozmowy
+Krótka wskazówka, o czym można porozmawiać podczas lub po czytaniu.
+Rozmowa powinna:
+• podążać za tym, co zainteresowało dziecko,
+• dopuszczać różne odpowiedzi,
+• nie wymuszać zwierzeń,
+• nie zamieniać się w sprawdzian pamięci.
+C. Przykładowe pytania
+Od 2 do 4 pytań związanych z rozdziałem.
+Pytania mogą dotyczyć:
+• uczuć bohaterów,
+• przyczyn ich zachowania,
+• podobnych doświadczeń dziecka,
+• różnych sposobów spojrzenia na sytuację,
+• tego, co dziecko uznało za ważne.
+Pytania są propozycją, nie listą, którą trzeba zrealizować w całości.
+D. Co warto zauważyć?
+Krótka informacja pomagająca rodzicowi lepiej zrozumieć doświadczenie dziecka albo znaczenie pokazanej sceny.
+Powinna:
+• być konkretna,
+• wynikać z rozdziału,
+• pomagać zauważyć emocje lub potrzeby, które łatwo zbagatelizować,
+• zawierać prostą, wspierającą wskazówkę, jeśli jest ona potrzebna.
+Nie diagnozujemy dziecka i nie przedstawiamy ogólnych twierdzeń psychologicznych jako bezwzględnych praw.
+E. Słowa rozdziału
+Trzy krótkie słowa lub pojęcia opisujące najważniejszy emocjonalny albo relacyjny wymiar rozdziału.
+Nie są to słowa ze „Skarbca słów i zwrotów”.
+Przykładowe kategorie:
+• przyjaźń,
+• zaufanie,
+• ciekawość,
+• bliskość,
+• przynależność,
+• sprawiedliwość.
+Słowa muszą wynikać z treści konkretnego rozdziału.
+F. Co ćwiczyliśmy?
+Jedno krótkie zdanie lub lista umiejętności ćwiczonych podczas czytania i rozmowy.
+Może dotyczyć:
+• rozumienia tekstu,
+• zauważania wskazówek,
+• wnioskowania,
+• rozpoznawania emocji,
+• rozumienia perspektywy innych,
+• słownictwa,
+• płynności i ekspresji czytania.
+Nie należy przypisywać rozdziałowi umiejętności, których nie wspierają jego tekst i zadania.
+G. Notatka dla Ciebie
+Jedno krótkie pytanie skierowane do rodzica.
+Pomaga zauważyć:
+• co najbardziej zainteresowało dziecko,
+• przy której scenie zatrzymało się na dłużej,
+• co je rozbawiło,
+• jakie pytanie samo zadało,
+• który rodzaj zadania był dla niego najciekawszy.
+Notatka nie służy ocenianiu wyniku dziecka.
+KOLEJNOŚĆ ELEMENTÓW
+Stała kolejność materiału w rozdziale:
+Tytuł lub numer rozdziału
+Część fabularna z oznaczeniami 📖, ⭐ i 🤝
+Fragment 🎙 umieszczony wewnątrz części ⭐
+Skarbiec słów i zwrotów
+Ciekawe wyrażenia – tylko jeżeli rozdział rzeczywiście je zawiera
+Klub Odkrywców:
+• Znajdź w tekście
+• Detektyw
+• Co będzie dalej?
+• Supermoce bohaterów
+• Misja dla Ciebie
+🎙 Minuta z książką – instrukcja
+Dla rodzica:
+• wprowadzenie,
+• propozycja rozmowy i przykładowe pytania,
+• Co warto zauważyć?
+• Słowa rozdziału
+• Co ćwiczyliśmy?
+• Notatka dla Ciebie
+ELEMENTY, KTÓRE NIE SĄ OBOWIĄZKOWĄ CZĘŚCIĄ KAŻDEGO ROZDZIAŁU
+Do obowiązkowej struktury każdego rozdziału nie należą:
+• mini-komiks,
+• chmura słów,
+• dodatkowe notatki,
+• „Sekretne notatki Buby”,
+• „Sekretne notatki Noxa”,
+• osobna „Misja tygodnia”,
+• osobna „Misja na następny dzień”,
+• „Stwórz swojego bohatera”.
+Elementy te mogą istnieć jako osobne, zatwierdzone dodatki książki, ale nie należy ich automatycznie dodawać do każdego rozdziału.
+„Ciekawe wyrażenia” są częścią struktury dostępną dla każdego rozdziału, lecz pojawiają się tylko wtedy, gdy uzasadnia je rzeczywista treść.
+LISTA KONTROLNA ROZDZIAŁU
+Przed zamknięciem rozdziału sprawdź:
+CZĘŚĆ FABULARNA
+□ Rozdział ma wyraźny wewnętrzny kierunek.
+□ W rozdziale coś się zmieniło lub rozwinęło.
+□ Zachowania bohaterów są zgodne z dokumentacją.
+□ Szczegóły świata są zgodne z aktualnymi plikami.
+□ Rozdział naturalnie prowadzi do dalszej historii.
+□ Zakończenie pozostawia ciekawość.
+□ Humor nie opiera się na krzywdzie ani zawstydzaniu.
+CZYTANIE NAPRZEMIENNE
+□ Tekst jest podzielony na naturalne bloki głosu.
+□ Ikony nie są powtarzane bez potrzeby.
+□ Fragmenty ⭐ odpowiadają aktualnemu poziomowi czytania.
+□ Dziecko czyta fragmenty ważne dla przebiegu sceny.
+□ Fragmenty 🤝 występują tylko tam, gdzie wspólne czytanie brzmi naturalnie.
+ELEMENTY PO ROZDZIALE
+□ Skarbiec zawiera 6–10 słów lub zwrotów obecnych w tekście.
+□ „Ciekawe wyrażenia” dodano tylko wtedy, gdy są potrzebne.
+□ „Znajdź w tekście” ma jednoznaczną odpowiedź w rozdziale.
+□ „Detektyw” wymaga połączenia wskazówek.
+□ „Co będzie dalej?” wynika z zakończenia.
+□ „Supermoce bohaterów” odnoszą się do rzeczywistego zachowania postaci.
+□ „Misja dla Ciebie” jest bezpieczna, prosta i związana z rozdziałem.
+□ Fragment 🎙 znajduje się w części ⭐ i tworzy spójną całość.
+□ Sekcja „Dla rodzica” dotyczy dokładnie tego rozdziału.
+□ „Słowa rozdziału” i „Co ćwiczyliśmy?” odpowiadają jego treści.
+□ Całość jest gotowa do druku, a nie pozostawiona w formie roboczej.
