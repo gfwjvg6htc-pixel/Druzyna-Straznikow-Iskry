@@ -1,6 +1,8 @@
 MECHANIKA CZYTANIA NAPRZEMIENNEGO
 
-Wspólne czytanie jest sercem projektu. Książka została zaprojektowana tak, aby rodzic i dziecko wspólnie przechodzili przez historię, a udział dziecka stopniowo i naturalnie zwiększał się wraz z kolejnymi rozdziałami.
+Wspólne czytanie jest sercem projektu. Książka została zaprojektowana tak, aby rodzic i dziecko wspólnie przechodzili przez historię, a udział dziecka stopniowo i naturalnie zwiększał się wraz z kolejnymi dniami programu.
+
+Wszystkie rozdziały przypisane do tego samego dnia mają tę samą docelową proporcję tekstu czytanego przez dziecko i rodzica. Proporcja nie zmienia się pomiędzy rozdziałami należącymi do jednego dnia.
 
 Podział na role nie jest dodatkiem graficznym ani ćwiczeniem nałożonym na gotowy tekst. Stanowi część konstrukcji książki, ale powinien pozostać dla czytelnika niemal niewidoczny. Gdyby usunąć wszystkie ikony, historia nadal musi brzmieć naturalnie i nie może sprawiać wrażenia sztucznie podzielonej na fragmenty do nauki czytania.
 
@@ -122,7 +124,11 @@ Najpierw należy spojrzeć na:
 
 Dopiero później należy zdecydować, czy fragment czyta rodzic, dziecko czy oboje naprzemiennie.
 
-Podział musi wynikać z historii, a nie z potrzeby osiągnięcia określonej proporcji. Nie wolno zmieniać naturalnego rytmu sceny tylko po to, aby zwiększyć liczbę fragmentów oznaczonych ikoną ⭐.
+Każdy rozdział powinien dążyć do proporcji ustalonej dla dnia, do którego należy. Proporcja jest celem konstrukcyjnym, ale nie może prowadzić do sztucznego dzielenia tekstu.
+
+Nie wolno zmieniać naturalnego rytmu sceny, rozcinać spójnych bloków głosu ani przydzielać dziecku fragmentów niedostosowanych językowo wyłącznie po to, aby osiągnąć idealny wynik procentowy.
+
+Niewielkie odchylenia od proporcji ustalonej dla danego dnia są dopuszczalne, jeżeli wynikają z rytmu sceny, poziomu trudności albo szczególnego charakteru danego rozdziału.
 
 5. ZASADA UPRASZCZANIA FRAGMENTÓW DZIECKA
 
@@ -162,26 +168,48 @@ Nowe wyrazy i zwroty pojawiające się w rozdziale są później wyjaśniane w S
 
 7. STOPNIOWY WZROST UDZIAŁU DZIECKA
 
-Na początku książki rodzic czyta większą część tekstu.
+Udział dziecka zwiększa się wraz z kolejnymi dniami programu, a nie z każdym kolejnym rozdziałem.
 
-W kolejnych rozdziałach udział dziecka stopniowo rośnie. Zmiana następuje w przebiegu kolejnych rozdziałów, a nie według kalendarza, liczby dni czy miesięcy.
+Każdemu dniowi przypisana jest jedna docelowa proporcja tekstu czytanego przez dziecko i rodzica. Proporcja ta obowiązuje we wszystkich rozdziałach należących do danego dnia.
 
-Nie obowiązuje żaden sztywny harmonogram ani dokładna wartość procentowa, o którą udział dziecka musi wzrastać w każdym rozdziale.
+Oznacza to, że:
+
+* wszystkie rozdziały dnia 1 mają tę samą docelową proporcję,
+* wszystkie rozdziały dnia 2 mają tę samą, wyższą docelową proporcję udziału dziecka,
+* udział dziecka nie zwiększa się pomiędzy rozdziałami należącymi do tego samego dnia,
+* zmiana proporcji następuje dopiero przy przejściu do następnego dnia programu.
+
+Pierwsze ustalone proporcje wynoszą:
+
+* dzień 1: ⭐ dziecko 50% / 📖 rodzic 50%,
+* dzień 2: ⭐ dziecko 55% / 📖 rodzic 45%.
+
+Proporcję sprawdza się osobno dla każdego rozdziału. Każdy rozdział powinien samodzielnie dążyć do wartości ustalonej dla dnia, do którego należy. Nie wystarczy, aby właściwa proporcja została osiągnięta dopiero po zsumowaniu wszystkich rozdziałów danego dnia.
+
+Fragmenty oznaczone ikoną 🤝 należy wykazywać osobno. Nie są one automatycznie zaliczane ani do udziału dziecka, ani do udziału rodzica.
+
+Przy analizie podziału rozdziału należy podawać osobno:
+
+* procent tekstu ⭐ czytanego przez dziecko,
+* procent tekstu 📖 czytanego przez rodzica,
+* procent tekstu 🤝 czytanego razem.
+
+Proporcje są wartościami docelowymi, a nie bezwzględnym wymogiem matematycznym. Niewielkie odchylenia są dopuszczalne, jeżeli pozwalają zachować naturalny rytm sceny, pełne akapity i spójne bloki głosu.
+
+Nie należy rozcinać zdań, dialogów, akapitów ani naturalnych części sceny wyłącznie po to, aby osiągnąć dokładny wynik procentowy.
 
 Najważniejszy jest ogólny kierunek:
 
-* na początku rodzic czyta więcej,
-* z rozdziału na rozdział dziecko otrzymuje coraz większą część tekstu,
+* w kolejnych dniach dziecko otrzymuje coraz większą część tekstu,
+* wszystkie rozdziały jednego dnia zachowują ten sam poziom docelowy,
 * pod koniec tomu dziecko czyta większość historii samodzielnie,
-* rodzicowi pozostają pojedyncze opisy lub fragmenty o szczególnej formie.
+* rodzicowi pozostają przede wszystkim trudniejsze opisy oraz fragmenty o szczególnej formie.
 
-Wzrost nie musi następować w każdym rozdziale w identycznym tempie. Jeżeli dany rozdział jest językowo, emocjonalnie lub fabularnie trudniejszy, można utrzymać proporcje z poprzedniego rozdziału.
-
-Nie cofamy poziomu bez wyraźnej potrzeby, ale mechanika pozostaje elastyczna i podporządkowana historii.
+Mechanika pozostaje elastyczna i podporządkowana historii, ale przejście do wyższej docelowej proporcji następuje według dni programu.
 
 8. STOPNIOWY WZROST TRUDNOŚCI
 
-Wraz ze zwiększaniem udziału dziecka bardzo powoli rośnie również poziom trudności językowej jego fragmentów.
+Wraz ze zwiększaniem udziału dziecka w kolejnych dniach bardzo powoli rośnie również poziom trudności językowej jego fragmentów.
 
 Zmiana powinna być prawie niezauważalna i może obejmować:
 
@@ -191,6 +219,8 @@ Zmiana powinna być prawie niezauważalna i może obejmować:
 * bardziej rozbudowane akapity,
 * stopniowe zwiększanie udziału narracji i opisów w części dziecka.
 
+Wszystkie rozdziały należące do tego samego dnia powinny odpowiadać zbliżonemu poziomowi trudności. Zwiększenie trudności następuje stopniowo pomiędzy kolejnymi dniami, a nie celowo pomiędzy rozdziałami jednego dnia.
+
 Dziecko nie powinno mieć poczucia, że jest sprawdzane, oceniane albo przenoszone na kolejny poziom. Powinno jedynie zauważyć, że samodzielne czytanie staje się coraz bardziej naturalne.
 
 9. BRAK JAWNEJ HIERARCHII I OCENY
@@ -199,7 +229,7 @@ Książka nie posługuje się podziałem na Starszego i Młodszego Strażnika, S
 
 Nie należy wprost wyjaśniać czytelnikowi, że udział dziecka rośnie, ponieważ rozwijają się jego umiejętności. Mechanika nie może brzmieć jak system poziomów, testów albo nagród.
 
-Zmieniająca się proporcja nie wymaga osobnego fabularnego wyjaśnienia w świecie przedstawionym. Wystarczy, że wynika naturalnie z konstrukcji kolejnych rozdziałów.
+Zmieniająca się proporcja nie wymaga osobnego fabularnego wyjaśnienia w świecie przedstawionym. Wystarczy, że wynika naturalnie z konstrukcji kolejnych dni programu i przypisanych do nich rozdziałów.
 
 10. ZASADA NADRZĘDNA
 
