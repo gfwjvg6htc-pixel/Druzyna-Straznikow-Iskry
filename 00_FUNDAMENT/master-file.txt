@@ -171,9 +171,15 @@ Każdy nowy element świata przechodzi prosty test: gdyby go usunąć, czy histo
 Sekcja 5. Konstrukcja książki
 
 5.1 Jedna historia podzielona na Rozdziały
-Cała książka dzieli się na kolejne Rozdziały — pojedyncze sesje wspólnego czytania rodzica i dziecka, każda zakończona sekcją dla rodzica, Klubem Odkrywców i chmurą słów. Kilka powiązanych ze sobą Rozdziałów tworzy jeden Dzień: nadrzędną etykietę fabularną z własnym tytułem (np. „Dzień pierwszy — w którym absolutnie nic się nie dzieje"), pod którą mieszczą się sceny rozgrywające się jednego dnia w świecie Iskry. Rozdziały w obrębie jednego Dnia nie są osobnymi, zamkniętymi opowiadaniami — są ściśle ze sobą powiązane i razem budują poczucie wspólnej wyprawy. Pierwszy tom jest zamkniętą historią, ale jednocześnie stanowi początek większej podróży.
 
-Zakładamy co najmniej czterdzieści pięć Rozdziałów w tomie 1, bez sztywnej górnej granicy — długość tomu wynika z tempa historii, nigdy odwrotnie. Nie przyspieszamy rozwoju bohaterów tylko po to, by zmieścić się w określonej liczbie stron. Spokojniejsze rozdziały, w których nie dzieje się nic spektakularnego, ale dzieje się coś ważne dla relacji między bohaterami, są równie potrzebne — to one często zostają z czytelnikiem najdłużej.
+Podstawową jednostką konstrukcyjną książki jest Rozdział. Każdy Rozdział zawiera własny fragment historii, ma wyraźny cel fabularny i emocjonalny oraz prowadzi bohaterów i czytelnika o krok dalej w ich wspólnej podróży.
+
+Rozdział nie musi być zamkniętym opowiadaniem ani rozwiązywać wszystkich rozpoczętych wątków. Powinien jednak tworzyć spójną i satysfakcjonującą część historii, zakończoną momentem pozostawiającym naturalną ciekawość tego, co wydarzy się dalej.
+
+Po każdym Rozdziale pojawiają się Skarbiec słów i zwrotów, Klub Odkrywców oraz część dla rodzica.
+
+Nie grupujemy rozdziałów w dodatkowe jednostki konstrukcyjne ani nie zakładamy z góry określonej liczby rozdziałów. Historia sama wyznacza długość tomu, rytm kolejnych części oraz momenty, w których powinien zakończyć się jeden Rozdział i rozpocząć następny. Nie dodajemy wydarzeń wyłącznie po to, aby osiągnąć założoną liczbę rozdziałów lub wypełnić wcześniej ustalony schemat.
+
 
 5.2 Emocje są ważniejsze niż akcja
 
