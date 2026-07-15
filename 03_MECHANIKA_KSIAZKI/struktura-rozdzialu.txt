@@ -34,7 +34,7 @@ Rozdział nie powinien kończyć się przypadkowo ani wyłącznie dlatego, że o
 Jakość tekstu
 Każdy rozdział piszemy tak, jakby następnego dnia miał trafić do druku.
 Przed uznaniem rozdziału za ukończony należy sprawdzić:
-• zgodność fabuły z planem dnia i dokumentacją projektu,
+• zgodność fabuły z planem rozdziału i dokumentacją projektu,
 • zgodność zachowania bohaterów z ich opisami,
 • ciągłość względem poprzedniego i następnego rozdziału,
 • poprawność szczegółów świata,
