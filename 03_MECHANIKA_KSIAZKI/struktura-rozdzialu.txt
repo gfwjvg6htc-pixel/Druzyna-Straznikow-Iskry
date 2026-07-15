@@ -1,8 +1,5 @@
 STRUKTURA KAŻDEGO ROZDZIAŁU
 Plik zawiera zasady wykonawcze dotyczące budowy pojedynczego rozdziału. Ogólne założenia książki i jej filozofia pozostają w master-file.
-MIEJSCE ROZDZIAŁU W STRUKTURZE KSIĄŻKI
-Dzień jest większą częścią historii i składa się z kilku rozdziałów.
-Nagłówek „Dzień pierwszy”, „Dzień drugi” itd. obejmuje grupę rozdziałów, a nie jeden rozdział.
 Każdy rozdział:
 • stanowi osobną sesję wspólnego czytania,
 • ma własny tytuł lub numer,
